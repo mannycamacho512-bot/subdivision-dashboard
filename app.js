@@ -118,7 +118,7 @@ function renderCards(row) {
   `;
 }
 
-// -------------------- chart state (so re-rendering doesn't stack charts) --------------------
+// -------------------- chart state --------------------
 let heroChartInstance = null;
 let pressureChartInstance = null;
 
@@ -127,20 +127,16 @@ function clamp(n, min, max) {
   return Math.max(min, Math.min(max, n));
 }
 
-// A simple, tunable 0–100 score using only your existing fields.
-// You can adjust these ranges later once you see real-world behavior.
 function computePressureScore(row) {
   const sold = Number(row.Sold_YTD || 0);
   const price = Number(row.MedianSoldPrice_YTD || 0);
   const soldToOrigPct = Number(row.MedianSoldToOrigPct_YTD || 0); // e.g. 0.97 = -3%
 
-  // Normalize (rough defaults — tune later)
-  const soldPart = clamp((sold / 80) * 25, 0, 25);          // 0..25
-  const pricePart = clamp((price / 500000) * 20, 0, 20);    // 0..20
+  const soldPart = clamp((sold / 80) * 25, 0, 25);
+  const pricePart = clamp((price / 500000) * 20, 0, 20);
 
-  // Discount: if soldToOrigPct is lower (bigger discount), reduce score.
   // Baseline at 0.98; range +/- 0.04.
-  const discountPart = clamp(((soldToOrigPct - 0.98) / 0.04) * 35, -35, 35); // -35..35
+  const discountPart = clamp(((soldToOrigPct - 0.98) / 0.04) * 35, -35, 35);
 
   const raw = 50 + soldPart + pricePart + discountPart;
   return clamp(raw, 0, 100);
@@ -155,10 +151,9 @@ function pressureLabel(score) {
 }
 
 function ensureChartJsLoaded() {
-  // Chart.js must be loaded in index.html before app.js
   if (typeof Chart === "undefined") {
     throw new Error(
-      "Chart.js is not loaded. Add this to index.html <head>: <script src='https://cdn.jsdelivr.net/npm/chart.js'></script>"
+      "Chart.js is not loaded. Add <script src='https://cdn.jsdelivr.net/npm/chart.js'></script> before app.js"
     );
   }
 }
@@ -169,7 +164,6 @@ function renderHeroChart(row) {
   const canvas = document.getElementById("heroChart");
   if (!canvas) return;
 
-  // Destroy previous instance if re-rendering
   if (heroChartInstance) heroChartInstance.destroy();
 
   const labels = ["Sold (YTD)", "Median Price (YTD)", "Discount %"];
@@ -185,7 +179,6 @@ function renderHeroChart(row) {
       labels,
       datasets: [
         {
-          label: "Snapshot",
           data: values,
           borderWidth: 0,
           borderRadius: 10,
@@ -195,7 +188,7 @@ function renderHeroChart(row) {
     },
     options: {
       responsive: true,
-      maintainAspectRatio: false, // allows the parent .canvasWrap to control height
+      maintainAspectRatio: false,
       plugins: {
         legend: { display: false },
         tooltip: {
@@ -211,16 +204,8 @@ function renderHeroChart(row) {
         },
       },
       scales: {
-        x: {
-          grid: { display: false },
-          ticks: { maxRotation: 0, autoSkip: false },
-        },
-        y: {
-          grid: { color: "rgba(0,0,0,0.08)" },
-          ticks: {
-            callback: (value) => value,
-          },
-        },
+        x: { grid: { display: false }, ticks: { maxRotation: 0, autoSkip: false } },
+        y: { grid: { color: "rgba(0,0,0,0.08)" } },
       },
     },
   });
@@ -233,60 +218,28 @@ function renderPressureMeter(row) {
   const txt = document.getElementById("pressureText");
   if (!canvas || !txt) return;
 
-  // Destroy previous instance if re-rendering
   if (pressureChartInstance) pressureChartInstance.destroy();
 
   const score = computePressureScore(row);
   txt.textContent = `${Math.round(score)}/100 — ${pressureLabel(score)}`;
 
-  // Create a simple "meter" as a horizontal stacked bar:
-  // [score] filled + [100-score] remaining
   pressureChartInstance = new Chart(canvas, {
     type: "bar",
     data: {
       labels: [""],
       datasets: [
-        {
-          label: "Pressure",
-          data: [score],
-          borderWidth: 0,
-          borderRadius: 999,
-          barThickness: 22,
-          stack: "meter",
-        },
-        {
-          label: "Remaining",
-          data: [100 - score],
-          borderWidth: 0,
-          borderRadius: 999,
-          barThickness: 22,
-          stack: "meter",
-        },
+        { data: [score], borderWidth: 0, borderRadius: 999, barThickness: 22, stack: "meter" },
+        { data: [100 - score], borderWidth: 0, borderRadius: 999, barThickness: 22, stack: "meter" },
       ],
     },
     options: {
       indexAxis: "y",
       responsive: true,
       maintainAspectRatio: false,
-      plugins: {
-        legend: { display: false },
-        tooltip: { enabled: false },
-      },
+      plugins: { legend: { display: false }, tooltip: { enabled: false } },
       scales: {
-        x: {
-          min: 0,
-          max: 100,
-          grid: { display: false },
-          ticks: { display: false },
-          border: { display: false },
-          stacked: true,
-        },
-        y: {
-          grid: { display: false },
-          ticks: { display: false },
-          border: { display: false },
-          stacked: true,
-        },
+        x: { min: 0, max: 100, grid: { display: false }, ticks: { display: false }, border: { display: false }, stacked: true },
+        y: { grid: { display: false }, ticks: { display: false }, border: { display: false }, stacked: true },
       },
     },
   });
@@ -317,8 +270,6 @@ function renderPressureMeter(row) {
     }
 
     renderCards(row);
-
-    // Now that canvases exist, draw charts
     renderHeroChart(row);
     renderPressureMeter(row);
   } catch (e) {
