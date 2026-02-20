@@ -13,11 +13,6 @@ function money(n) {
   });
 }
 
-function pct(n) {
-  if (n === null || n === undefined || n === "" || isNaN(n)) return "n/a";
-  return `${(Number(n) * 100).toFixed(1)}%`;
-}
-
 function num(n) {
   if (n === null || n === undefined || n === "" || isNaN(n)) return "n/a";
   return Number(n).toLocaleString("en-US", { maximumFractionDigits: 0 });
@@ -93,41 +88,59 @@ function renderCards(row) {
 
   const sold = Number(row.Sold_YTD || 0);
   const price = Number(row.MedianSoldPrice_YTD || 0);
-  const soldToOrigPct = Number(row.MedianSoldToOrigPct_YTD || 0);
 
-  // If soldToOrigPct is 0/blank, negotiation becomes weird — handle it.
-  const negotiationPct = soldToOrigPct > 0 ? (1 - soldToOrigPct) * 100 : 0;
+  // CLOSED discount from original list (your JSON uses negative for below list)
+  const closedDiff = Number(row.MedianSoldToOrigPct_YTD ?? NaN); // ex: -0.0416 = -4.16%
+  const hasClosedDiff = Number.isFinite(closedDiff);
+
+  const closedPct = hasClosedDiff ? Math.abs(closedDiff) * 100 : NaN;
+  const closedDirection = hasClosedDiff
+    ? (closedDiff < 0 ? "below" : closedDiff > 0 ? "above" : "at")
+    : "";
+
+  // ACTIVE negotiation signals (price cuts)
+  const pctCut = Number(row.PctActiveCut_Current ?? NaN); // 0..1
+  const medCut = Number(row.MedianActiveCutPct_Current ?? NaN); // negative fraction
+
+  const pctCutPct = Number.isFinite(pctCut) ? pctCut * 100 : NaN;
+  const medCutPct = Number.isFinite(medCut) ? Math.abs(medCut) * 100 : NaN;
 
   // --- Scales (tune later) ---
-  const activityScaleMax = 80; // typical sold YTD that maps to "100%"
+  const activityScaleMax = 12; // based on your current Sold_YTD range (1–13+)
   const priceMin = 200000;
-  const priceMax = 500000;
+  const priceMax = 550000;
 
   const activityPct = clamp((sold / activityScaleMax) * 100, 0, 100);
   const pricePosPct = clamp(((price - priceMin) / (priceMax - priceMin)) * 100, 0, 100);
 
-  // Negotiation room: map 0–10% discount into 0–100% bar width
-  const negoWidth = clamp((negotiationPct / 10) * 100, 0, 100);
+  // Negotiation bar width: prefer % of actives with cuts, fallback to closed discount
+  const negoWidth = Number.isFinite(pctCutPct)
+    ? clamp(pctCutPct, 0, 100)
+    : Number.isFinite(closedPct)
+      ? clamp((closedPct / 10) * 100, 0, 100) // map 0–10% discount to 0–100 bar
+      : 0;
 
   // --- Explanations ---
   const activityMeaning =
-    activityPct >= 70 ? "High sales activity (homes are moving faster)." :
-    activityPct >= 40 ? "Moderate activity (steady pace)." :
+    activityPct >= 75 ? "High activity (more homes selling so far this year)." :
+    activityPct >= 45 ? "Moderate activity (steady pace)." :
                         "Lower activity (fewer sales so far).";
 
-  const negoMeaning =
-    negotiationPct < 2 ? "Little negotiation (close to original list price)." :
-    negotiationPct < 5 ? "Some negotiation (modest discounts)." :
-                         "More negotiation (larger discounts).";
+  let negoMeaning = "Not enough data yet.";
+  if (Number.isFinite(pctCutPct)) {
+    if (pctCutPct >= 70) negoMeaning = "A lot of listings are cutting price (buyers have more leverage).";
+    else if (pctCutPct >= 45) negoMeaning = "Many listings have price cuts (some buyer leverage).";
+    else if (pctCutPct >= 20) negoMeaning = "Some listings have price cuts (modest negotiation).";
+    else negoMeaning = "Few listings are cutting price (less negotiation).";
+  }
 
   const priceMeaning =
     pricePosPct >= 70 ? "Higher price range for the area." :
     pricePosPct >= 40 ? "Mid-range pricing." :
                         "Lower price range within the typical band.";
 
-  // --- Reusable mini bar (dark emerald fill, light track) ---
   const barTrack = "rgba(15,23,42,.10)";
-  const barFill = "#065f46";
+  const barFill = "#065f46"; // dark emerald
 
   container.innerHTML = `
     <div class="wrap">
@@ -147,13 +160,21 @@ function renderCards(row) {
         </div>
 
         <div class="card">
-          <div class="label">Median Discount</div>
-          <div class="value">${soldToOrigPct ? `${negotiationPct.toFixed(1)}%` : "n/a"}</div>
-          <div class="sub">From original list price</div>
+          <div class="label">Closed Discount (Orig → Sold)</div>
+          <div class="value">${
+            hasClosedDiff
+              ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
+              : "n/a"
+          }</div>
+          <div class="sub">${
+            hasClosedDiff
+              ? `Typical sale closed ${closedDirection} original list`
+              : "Not enough closed data"
+          }</div>
         </div>
       </div>
 
-      <!-- Row 2: Signal cards (user-friendly) -->
+      <!-- Row 2: Signal cards -->
       <div class="grid" style="margin-top:16px;">
 
         <div class="card">
@@ -171,7 +192,18 @@ function renderCards(row) {
           <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
             <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
           </div>
-          <div class="sub" style="margin-top:8px;">~${soldToOrigPct ? negotiationPct.toFixed(1) : "n/a"}% below original list</div>
+          <div class="sub" style="margin-top:8px;">
+            ${
+              Number.isFinite(pctCutPct)
+                ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
+                : "Active cut data not available"
+            }
+            ${
+              Number.isFinite(medCutPct)
+                ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
+                : ""
+            }
+          </div>
         </div>
 
         <div class="card">
