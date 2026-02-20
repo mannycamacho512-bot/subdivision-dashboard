@@ -1,6 +1,9 @@
+// app.js — full working version (cards + dropdown + Chart.js bar + pressure meter)
+
 const params = new URLSearchParams(window.location.search);
 const subdivision = (params.get("sub") || "").toUpperCase().trim();
 
+// -------------------- formatting helpers --------------------
 function money(n) {
   if (n === null || n === undefined || n === "" || isNaN(n)) return "n/a";
   return Number(n).toLocaleString("en-US", {
@@ -24,8 +27,8 @@ function normalizeKey(s) {
   return String(s || "").toUpperCase().trim();
 }
 
+// -------------------- data loading --------------------
 async function loadData() {
-  // If you later rename to subdiv_ytd_current.json, change it here once.
   const res = await fetch("./data/subdiv_ytd_2026.json", { cache: "no-store" });
   if (!res.ok) throw new Error("Could not load data file.");
   const data = await res.json();
@@ -33,6 +36,7 @@ async function loadData() {
   return data;
 }
 
+// -------------------- UI: no sub selected --------------------
 function renderNoSubSelected(allSubs) {
   const container = document.getElementById("dashboard");
 
@@ -59,9 +63,9 @@ function renderNoSubSelected(allSubs) {
   });
 }
 
+// -------------------- UI: no row found --------------------
 function renderNoRowFound() {
   const container = document.getElementById("dashboard");
-  // Note: no subdivision name shown here on purpose
   container.innerHTML = `
     <div class="wrap">
       <p class="muted">No data found for this subdivision.</p>
@@ -70,6 +74,7 @@ function renderNoRowFound() {
   `;
 }
 
+// -------------------- UI: cards + chart containers --------------------
 function renderCards(row) {
   const container = document.getElementById("dashboard");
 
@@ -94,10 +99,200 @@ function renderCards(row) {
           <div class="sub">${money(row.MedianSoldToOrigDollar_YTD)} vs original list</div>
         </div>
       </div>
+
+      <div class="panel">
+        <div class="panelTitle">Market Trend</div>
+        <div class="canvasWrap">
+          <canvas id="heroChart"></canvas>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="panelTitle">Market Pressure</div>
+        <div class="canvasWrap">
+          <canvas id="pressureMeter"></canvas>
+        </div>
+        <div id="pressureText" class="muted" style="margin-top:10px;"></div>
+      </div>
     </div>
   `;
 }
 
+// -------------------- chart state (so re-rendering doesn't stack charts) --------------------
+let heroChartInstance = null;
+let pressureChartInstance = null;
+
+// -------------------- chart helpers --------------------
+function clamp(n, min, max) {
+  return Math.max(min, Math.min(max, n));
+}
+
+// A simple, tunable 0–100 score using only your existing fields.
+// You can adjust these ranges later once you see real-world behavior.
+function computePressureScore(row) {
+  const sold = Number(row.Sold_YTD || 0);
+  const price = Number(row.MedianSoldPrice_YTD || 0);
+  const soldToOrigPct = Number(row.MedianSoldToOrigPct_YTD || 0); // e.g. 0.97 = -3%
+
+  // Normalize (rough defaults — tune later)
+  const soldPart = clamp((sold / 80) * 25, 0, 25);          // 0..25
+  const pricePart = clamp((price / 500000) * 20, 0, 20);    // 0..20
+
+  // Discount: if soldToOrigPct is lower (bigger discount), reduce score.
+  // Baseline at 0.98; range +/- 0.04.
+  const discountPart = clamp(((soldToOrigPct - 0.98) / 0.04) * 35, -35, 35); // -35..35
+
+  const raw = 50 + soldPart + pricePart + discountPart;
+  return clamp(raw, 0, 100);
+}
+
+function pressureLabel(score) {
+  if (score >= 75) return "Seller-leaning (hotter)";
+  if (score >= 60) return "Slight seller edge";
+  if (score >= 45) return "Balanced";
+  if (score >= 30) return "Slight buyer edge";
+  return "Buyer-leaning (cooler)";
+}
+
+function ensureChartJsLoaded() {
+  // Chart.js must be loaded in index.html before app.js
+  if (typeof Chart === "undefined") {
+    throw new Error(
+      "Chart.js is not loaded. Add this to index.html <head>: <script src='https://cdn.jsdelivr.net/npm/chart.js'></script>"
+    );
+  }
+}
+
+function renderHeroChart(row) {
+  ensureChartJsLoaded();
+
+  const canvas = document.getElementById("heroChart");
+  if (!canvas) return;
+
+  // Destroy previous instance if re-rendering
+  if (heroChartInstance) heroChartInstance.destroy();
+
+  const labels = ["Sold (YTD)", "Median Price (YTD)", "Discount %"];
+  const values = [
+    Number(row.Sold_YTD || 0),
+    Number(row.MedianSoldPrice_YTD || 0),
+    Number(row.MedianSoldToOrigPct_YTD || 0) * 100,
+  ];
+
+  heroChartInstance = new Chart(canvas, {
+    type: "bar",
+    data: {
+      labels,
+      datasets: [
+        {
+          label: "Snapshot",
+          data: values,
+          borderWidth: 0,
+          borderRadius: 10,
+          barThickness: 36,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false, // allows the parent .canvasWrap to control height
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: (ctx) => {
+              const i = ctx.dataIndex;
+              const v = ctx.parsed.y;
+              if (i === 0) return ` ${num(v)} homes`;
+              if (i === 1) return ` ${money(v)}`;
+              return ` ${v.toFixed(1)}%`;
+            },
+          },
+        },
+      },
+      scales: {
+        x: {
+          grid: { display: false },
+          ticks: { maxRotation: 0, autoSkip: false },
+        },
+        y: {
+          grid: { color: "rgba(0,0,0,0.08)" },
+          ticks: {
+            callback: (value) => value,
+          },
+        },
+      },
+    },
+  });
+}
+
+function renderPressureMeter(row) {
+  ensureChartJsLoaded();
+
+  const canvas = document.getElementById("pressureMeter");
+  const txt = document.getElementById("pressureText");
+  if (!canvas || !txt) return;
+
+  // Destroy previous instance if re-rendering
+  if (pressureChartInstance) pressureChartInstance.destroy();
+
+  const score = computePressureScore(row);
+  txt.textContent = `${Math.round(score)}/100 — ${pressureLabel(score)}`;
+
+  // Create a simple "meter" as a horizontal stacked bar:
+  // [score] filled + [100-score] remaining
+  pressureChartInstance = new Chart(canvas, {
+    type: "bar",
+    data: {
+      labels: [""],
+      datasets: [
+        {
+          label: "Pressure",
+          data: [score],
+          borderWidth: 0,
+          borderRadius: 999,
+          barThickness: 22,
+          stack: "meter",
+        },
+        {
+          label: "Remaining",
+          data: [100 - score],
+          borderWidth: 0,
+          borderRadius: 999,
+          barThickness: 22,
+          stack: "meter",
+        },
+      ],
+    },
+    options: {
+      indexAxis: "y",
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { enabled: false },
+      },
+      scales: {
+        x: {
+          min: 0,
+          max: 100,
+          grid: { display: false },
+          ticks: { display: false },
+          border: { display: false },
+          stacked: true,
+        },
+        y: {
+          grid: { display: false },
+          ticks: { display: false },
+          border: { display: false },
+          stacked: true,
+        },
+      },
+    },
+  });
+}
+
+// -------------------- main --------------------
 (async function main() {
   const container = document.getElementById("dashboard");
 
@@ -122,6 +317,10 @@ function renderCards(row) {
     }
 
     renderCards(row);
+
+    // Now that canvases exist, draw charts
+    renderHeroChart(row);
+    renderPressureMeter(row);
   } catch (e) {
     container.innerHTML = `
       <div class="wrap">
