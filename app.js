@@ -1,4 +1,4 @@
-// app.js — KPI cards + 3 signal cards + desktop/mobile layouts
+// app.js — KPI cards + 3 signal cards + desktop/mobile layouts (no Chart.js)
 
 const params = new URLSearchParams(window.location.search);
 const subdivision = (params.get("sub") || "").toUpperCase().trim();
@@ -84,7 +84,7 @@ function renderError(err) {
   `;
 }
 
-// ---------- band helpers ----------
+// ---------- band helpers (Kyle-wide typical range) ----------
 function percentile(sorted, p) {
   if (!sorted.length) return NaN;
   const idx = (sorted.length - 1) * p;
@@ -101,7 +101,6 @@ function computeBand(data) {
     .filter((v) => Number.isFinite(v) && v > 0)
     .sort((a, b) => a - b);
 
-  // 10th–90th percentile band (stable, avoids outliers)
   return {
     min: percentile(prices, 0.10),
     max: percentile(prices, 0.90),
@@ -115,7 +114,7 @@ function renderCards(row, band) {
   const sold = Number(row.Sold_YTD || 0);
   const price = Number(row.MedianSoldPrice_YTD || 0);
 
-  // CLOSED discount from original list (your JSON uses negative for below list)
+  // CLOSED discount from original list (negative means below original list)
   const closedDiff = Number(row.MedianSoldToOrigPct_YTD ?? NaN); // ex: -0.0416 = -4.16%
   const hasClosedDiff = Number.isFinite(closedDiff);
 
@@ -124,60 +123,66 @@ function renderCards(row, band) {
     ? (closedDiff < 0 ? "below" : closedDiff > 0 ? "above" : "at")
     : "";
 
-  // ACTIVE negotiation signals (price cuts)
-  const pctCut = Number(row.PctActiveCut_Current ?? NaN); // 0..1
-  const medCut = Number(row.MedianActiveCutPct_Current ?? NaN); // negative fraction
-
-  const pctCutPct = Number.isFinite(pctCut) ? pctCut * 100 : NaN;
-  const medCutPct = Number.isFinite(medCut) ? Math.abs(medCut) * 100 : NaN;
-
   // --- Scales ---
-  const activityScaleMax = 12; // tune later if needed
-  const priceMin = band.min;
-  const priceMax = band.max;
+  const activityScaleMax = 12; // tune anytime
+  const priceMin = band?.min;
+  const priceMax = band?.max;
 
   const activityPct = clamp((sold / activityScaleMax) * 100, 0, 100);
-  const pricePosPct = Number.isFinite(priceMin) && Number.isFinite(priceMax) && priceMax > priceMin
-    ? clamp(((price - priceMin) / (priceMax - priceMin)) * 100, 0, 100)
-    : 50;
 
-  // Negotiation bar width: prefer % of actives with cuts, fallback to closed discount
-  const negoWidth = Number.isFinite(pctCutPct)
-    ? clamp(pctCutPct, 0, 100)
-    : Number.isFinite(closedPct)
-      ? clamp((closedPct / 10) * 100, 0, 100) // map 0–10% discount to 0–100 bar
-      : 0;
+  const pricePosPct =
+    Number.isFinite(priceMin) && Number.isFinite(priceMax) && priceMax > priceMin
+      ? clamp(((price - priceMin) / (priceMax - priceMin)) * 100, 0, 100)
+      : 50;
+
+  // Negotiation bar width (SOLD-based only): map 0–10% discount -> 0–100%
+  const negoWidth = Number.isFinite(closedPct)
+    ? clamp((closedPct / 10) * 100, 0, 100)
+    : 0;
 
   // --- Explanations ---
   const activityMeaning =
-    activityPct >= 75 ? "High activity (more homes selling so far this year)." :
-    activityPct >= 45 ? "Moderate activity (steady pace)." :
-                        "Lower activity (fewer sales so far).";
+    activityPct >= 75
+      ? "High activity (more homes selling so far this year)."
+      : activityPct >= 45
+      ? "Moderate activity (steady pace)."
+      : "Lower activity (fewer sales so far).";
 
-  let negoMeaning = "Not enough active pricing data yet.";
-  if (Number.isFinite(pctCutPct)) {
-    if (pctCutPct >= 85) negoMeaning = "Widespread price cuts (buyers have strong leverage).";
-    else if (pctCutPct >= 70) negoMeaning = "A lot of listings are cutting price (buyers have more leverage).";
-    else if (pctCutPct >= 50) negoMeaning = "Many listings have price cuts (negotiation is common).";
-    else if (pctCutPct >= 30) negoMeaning = "Some listings have price cuts (moderate negotiation).";
-    else if (pctCutPct >= 15) negoMeaning = "A few listings are cutting price (limited negotiation).";
-    else negoMeaning = "Price cuts are rare (less negotiation).";
-
-    if (Number.isFinite(medCutPct)) {
-      if (medCutPct >= 10) negoMeaning += " Cuts are also sizable.";
-      else if (medCutPct >= 6) negoMeaning += " Cuts are meaningful.";
-      else if (medCutPct >= 3) negoMeaning += " Cuts are modest.";
-      else negoMeaning += " Cuts are small.";
-    }
+  let negoMeaning = "Not enough closed sales yet to estimate negotiation.";
+  if (Number.isFinite(closedPct)) {
+    if (closedPct >= 10) negoMeaning = "Large discounts are showing up in closed sales (strong negotiation).";
+    else if (closedPct >= 6) negoMeaning = "Discounts are meaningful in closed sales (negotiation is common).";
+    else if (closedPct >= 3) negoMeaning = "Some discounting in closed sales (moderate negotiation).";
+    else if (closedPct >= 1) negoMeaning = "Small discounts in closed sales (limited negotiation).";
+    else negoMeaning = "Closed sales are near original list price (little negotiation).";
   }
 
   const priceMeaning =
-    pricePosPct >= 70 ? "Higher price range for the area." :
-    pricePosPct >= 40 ? "Mid-range pricing." :
-                        "Lower price range within the typical band.";
+    pricePosPct >= 70
+      ? "Higher price range for the area."
+      : pricePosPct >= 40
+      ? "Mid-range pricing."
+      : "Lower price range within the typical band.";
 
   const barTrack = "rgba(15,23,42,.10)";
   const barFill = "#065f46"; // dark emerald
+
+  const rangeLabel =
+    Number.isFinite(priceMin) && Number.isFinite(priceMax)
+      ? `Kyle-wide typical range: ${money(priceMin)}–${money(priceMax)}`
+      : "Kyle-wide typical range: n/a";
+
+  const closedDiscountValue = hasClosedDiff
+    ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
+    : "n/a";
+
+  const closedDiscountSub = hasClosedDiff
+    ? `Typical sale closed ${closedDirection} original list`
+    : "Not enough closed data";
+
+  const negotiationBottomLine = Number.isFinite(closedPct)
+    ? `Typical sale closed ${closedDirection} original list by ~${closedPct.toFixed(1)}%`
+    : "Closed discount data not available";
 
   container.innerHTML = `
     <div class="wrap">
@@ -185,6 +190,7 @@ function renderCards(row, band) {
       <!-- ================= DESKTOP LAYOUT ================= -->
       <div class="desktopOnly">
 
+        <!-- KPI row -->
         <div class="grid">
           <div class="card">
             <div class="label">Sold (YTD)</div>
@@ -200,72 +206,52 @@ function renderCards(row, band) {
 
           <div class="card">
             <div class="label">Closed Discount (Orig → Sold)</div>
-            <div class="value">${
-              hasClosedDiff
-                ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
-                : "n/a"
-            }</div>
-            <div class="sub">${
-              hasClosedDiff
-                ? `Typical sale closed ${closedDirection} original list`
-                : "Not enough closed data"
-            }</div>
+            <div class="value">${closedDiscountValue}</div>
+            <div class="sub">${closedDiscountSub}</div>
           </div>
         </div>
 
+        <!-- Signals row -->
         <div class="grid" style="margin-top:16px;">
+
+          <!-- under Sold -->
           <div class="card">
             <div class="label">Sales Activity</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
-            <div style="
-  height:10px;
-  background:${barTrack};
-  border-radius:8px;
-  overflow:hidden;
-">
-            <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
             </div>
             <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
           </div>
 
+          <!-- under Median Sold Price -->
           <div class="card">
             <div class="label">Median Price Position</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
               <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
             </div>
-            <div class="sub" style="margin-top:8px;">
-              Kyle-wide typical range: ${money(priceMin)}–${money(priceMax)}
-            </div>
+            <div class="sub" style="margin-top:8px;">${rangeLabel}</div>
           </div>
 
+          <!-- under Closed Discount -->
           <div class="card">
             <div class="label">Negotiation Room</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
               <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
             </div>
-            <div class="sub" style="margin-top:8px;">
-              ${
-                Number.isFinite(pctCutPct)
-                  ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
-                  : "Active cut data not available"
-              }
-              ${
-                Number.isFinite(medCutPct)
-                  ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
-                  : ""
-              }
-            </div>
+            <div class="sub" style="margin-top:8px;">${negotiationBottomLine}</div>
           </div>
-        </div>
 
+        </div>
       </div>
 
       <!-- ================= MOBILE LAYOUT ================= -->
       <div class="mobileOnly">
-
         <div class="grid">
+
+          <!-- Sold → Activity -->
           <div class="card">
             <div class="label">Sold (YTD)</div>
             <div class="value">${num(sold)}</div>
@@ -281,6 +267,7 @@ function renderCards(row, band) {
             <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
           </div>
 
+          <!-- Price → Position -->
           <div class="card">
             <div class="label">Median Sold Price</div>
             <div class="value">${money(price)}</div>
@@ -293,23 +280,14 @@ function renderCards(row, band) {
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
               <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
             </div>
-            <div class="sub" style="margin-top:8px;">
-              Kyle-wide typical Range: ${money(priceMin)}–${money(priceMax)}
-            </div>
+            <div class="sub" style="margin-top:8px;">${rangeLabel}</div>
           </div>
 
+          <!-- Discount → Negotiation -->
           <div class="card">
             <div class="label">Closed Discount (Orig → Sold)</div>
-            <div class="value">${
-              hasClosedDiff
-                ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
-                : "n/a"
-            }</div>
-            <div class="sub">${
-              hasClosedDiff
-                ? `Typical sale closed ${closedDirection} original list`
-                : "Not enough closed data"
-            }</div>
+            <div class="value">${closedDiscountValue}</div>
+            <div class="sub">${closedDiscountSub}</div>
           </div>
 
           <div class="card">
@@ -318,21 +296,10 @@ function renderCards(row, band) {
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
               <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
             </div>
-            <div class="sub" style="margin-top:8px;">
-              ${
-                Number.isFinite(pctCutPct)
-                  ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
-                  : "Active cut data not available"
-              }
-              ${
-                Number.isFinite(medCutPct)
-                  ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
-                  : ""
-              }
-            </div>
+            <div class="sub" style="margin-top:8px;">${negotiationBottomLine}</div>
           </div>
-        </div>
 
+        </div>
       </div>
 
     </div>
