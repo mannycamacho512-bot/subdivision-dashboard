@@ -156,3 +156,12 @@ select {
 .accent-bg {
   background: var(--emerald-soft);
 }
+/* Show desktop layout by default */
+.desktopOnly { display: block; }
+.mobileOnly { display: none; }
+
+/* On phone, swap: show mobile layout, hide desktop layout */
+@media (max-width: 560px) {
+  .desktopOnly { display: none; }
+  .mobileOnly { display: block; }
+}
