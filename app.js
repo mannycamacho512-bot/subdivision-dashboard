@@ -175,49 +175,50 @@ function renderCards(row) {
       </div>
 
       <!-- Row 2: Signal cards -->
-      <div class="grid" style="margin-top:16px;">
+<div class="grid" style="margin-top:16px;">
 
-        <div class="card">
-          <div class="label">Sales Activity</div>
-          <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
-          <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-            <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
-          </div>
-          <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
-        </div>
-
-        <div class="card">
-          <div class="label">Negotiation Room</div>
-          <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
-          <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-            <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
-          </div>
-          <div class="sub" style="margin-top:8px;">
-            ${
-              Number.isFinite(pctCutPct)
-                ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
-                : "Active cut data not available"
-            }
-            ${
-              Number.isFinite(medCutPct)
-                ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
-                : ""
-            }
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="label">Median Price Position</div>
-          <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
-          <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-            <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
-          </div>
-          <div class="sub" style="margin-top:8px;">Band: ${money(priceMin)}–${money(priceMax)}</div>
-        </div>
-
-      </div>
-
+  <!-- under Sold -->
+  <div class="card">
+    <div class="label">Sales Activity</div>
+    <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
+    <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+      <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
     </div>
+    <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
+  </div>
+
+  <!-- under Median Sold Price -->
+  <div class="card">
+    <div class="label">Median Price Position</div>
+    <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
+    <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+      <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
+    </div>
+    <div class="sub" style="margin-top:8px;">Band: ${money(priceMin)}–${money(priceMax)}</div>
+  </div>
+
+  <!-- under Closed Discount -->
+  <div class="card">
+    <div class="label">Negotiation Room</div>
+    <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
+    <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+      <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
+    </div>
+    <div class="sub" style="margin-top:8px;">
+      ${
+        Number.isFinite(pctCutPct)
+          ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
+          : "Active cut data not available"
+      }
+      ${
+        Number.isFinite(medCutPct)
+          ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
+          : ""
+      }
+    </div>
+  </div>
+
+</div>
   `;
 }
 
