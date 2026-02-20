@@ -1,4 +1,4 @@
-// app.js — KPI cards + 3 signal cards (no Chart.js, no "Market Trend" panels)
+// app.js — KPI cards + 3 signal cards + desktop/mobile layouts
 
 const params = new URLSearchParams(window.location.search);
 const subdivision = (params.get("sub") || "").toUpperCase().trim();
@@ -20,6 +20,10 @@ function num(n) {
 
 function normalizeKey(s) {
   return String(s || "").toUpperCase().trim();
+}
+
+function clamp(n, min, max) {
+  return Math.max(min, Math.min(max, n));
 }
 
 // ---------- data loading ----------
@@ -78,12 +82,32 @@ function renderError(err) {
   `;
 }
 
-// ---------- main dashboard ----------
-function clamp(n, min, max) {
-  return Math.max(min, Math.min(max, n));
+// ---------- band helpers ----------
+function percentile(sorted, p) {
+  if (!sorted.length) return NaN;
+  const idx = (sorted.length - 1) * p;
+  const lo = Math.floor(idx);
+  const hi = Math.ceil(idx);
+  if (lo === hi) return sorted[lo];
+  const w = idx - lo;
+  return sorted[lo] * (1 - w) + sorted[hi] * w;
 }
 
-function renderCards(row) {
+function computeBand(data) {
+  const prices = data
+    .map((r) => Number(r.MedianSoldPrice_YTD))
+    .filter((v) => Number.isFinite(v) && v > 0)
+    .sort((a, b) => a - b);
+
+  // 10th–90th percentile band (stable, avoids outliers)
+  return {
+    min: percentile(prices, 0.10),
+    max: percentile(prices, 0.90),
+  };
+}
+
+// ---------- main dashboard ----------
+function renderCards(row, band) {
   const container = document.getElementById("dashboard");
 
   const sold = Number(row.Sold_YTD || 0);
@@ -105,13 +129,15 @@ function renderCards(row) {
   const pctCutPct = Number.isFinite(pctCut) ? pctCut * 100 : NaN;
   const medCutPct = Number.isFinite(medCut) ? Math.abs(medCut) * 100 : NaN;
 
-  // --- Scales (tune later) ---
-  const activityScaleMax = 12; // based on your current Sold_YTD range (1–13+)
-  const priceMin = 200000;
-  const priceMax = 550000;
+  // --- Scales ---
+  const activityScaleMax = 12; // tune later if needed
+  const priceMin = band.min;
+  const priceMax = band.max;
 
   const activityPct = clamp((sold / activityScaleMax) * 100, 0, 100);
-  const pricePosPct = clamp(((price - priceMin) / (priceMax - priceMin)) * 100, 0, 100);
+  const pricePosPct = Number.isFinite(priceMin) && Number.isFinite(priceMax) && priceMax > priceMin
+    ? clamp(((price - priceMin) / (priceMax - priceMin)) * 100, 0, 100)
+    : 50;
 
   // Negotiation bar width: prefer % of actives with cuts, fallback to closed discount
   const negoWidth = Number.isFinite(pctCutPct)
@@ -126,12 +152,21 @@ function renderCards(row) {
     activityPct >= 45 ? "Moderate activity (steady pace)." :
                         "Lower activity (fewer sales so far).";
 
-  let negoMeaning = "Not enough data yet.";
+  let negoMeaning = "Not enough active pricing data yet.";
   if (Number.isFinite(pctCutPct)) {
-    if (pctCutPct >= 70) negoMeaning = "A lot of listings are cutting price (buyers have more leverage).";
-    else if (pctCutPct >= 45) negoMeaning = "Many listings have price cuts (some buyer leverage).";
-    else if (pctCutPct >= 20) negoMeaning = "Some listings have price cuts (modest negotiation).";
-    else negoMeaning = "Few listings are cutting price (less negotiation).";
+    if (pctCutPct >= 85) negoMeaning = "Widespread price cuts (buyers have strong leverage).";
+    else if (pctCutPct >= 70) negoMeaning = "A lot of listings are cutting price (buyers have more leverage).";
+    else if (pctCutPct >= 50) negoMeaning = "Many listings have price cuts (negotiation is common).";
+    else if (pctCutPct >= 30) negoMeaning = "Some listings have price cuts (moderate negotiation).";
+    else if (pctCutPct >= 15) negoMeaning = "A few listings are cutting price (limited negotiation).";
+    else negoMeaning = "Price cuts are rare (less negotiation).";
+
+    if (Number.isFinite(medCutPct)) {
+      if (medCutPct >= 10) negoMeaning += " Cuts are also sizable.";
+      else if (medCutPct >= 6) negoMeaning += " Cuts are meaningful.";
+      else if (medCutPct >= 3) negoMeaning += " Cuts are modest.";
+      else negoMeaning += " Cuts are small.";
+    }
   }
 
   const priceMeaning =
@@ -145,80 +180,155 @@ function renderCards(row) {
   container.innerHTML = `
     <div class="wrap">
 
-      <!-- Row 1: KPI cards -->
-      <div class="grid">
-        <div class="card">
-          <div class="label">Sold (YTD)</div>
-          <div class="value">${num(sold)}</div>
-          <div class="sub">Homes sold so far this year</div>
+      <!-- ================= DESKTOP LAYOUT ================= -->
+      <div class="desktopOnly">
+
+        <div class="grid">
+          <div class="card">
+            <div class="label">Sold (YTD)</div>
+            <div class="value">${num(sold)}</div>
+            <div class="sub">Homes sold so far this year</div>
+          </div>
+
+          <div class="card">
+            <div class="label">Median Sold Price</div>
+            <div class="value">${money(price)}</div>
+            <div class="sub">Typical closed price</div>
+          </div>
+
+          <div class="card">
+            <div class="label">Closed Discount (Orig → Sold)</div>
+            <div class="value">${
+              hasClosedDiff
+                ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
+                : "n/a"
+            }</div>
+            <div class="sub">${
+              hasClosedDiff
+                ? `Typical sale closed ${closedDirection} original list`
+                : "Not enough closed data"
+            }</div>
+          </div>
         </div>
 
-        <div class="card">
-          <div class="label">Median Sold Price</div>
-          <div class="value">${money(price)}</div>
-          <div class="sub">Typical closed price</div>
+        <div class="grid" style="margin-top:16px;">
+          <div class="card">
+            <div class="label">Sales Activity</div>
+            <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
+            </div>
+            <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
+          </div>
+
+          <div class="card">
+            <div class="label">Median Price Position</div>
+            <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
+            </div>
+            <div class="sub" style="margin-top:8px;">
+              Range: ${money(priceMin)}–${money(priceMax)}
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="label">Negotiation Room</div>
+            <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
+            </div>
+            <div class="sub" style="margin-top:8px;">
+              ${
+                Number.isFinite(pctCutPct)
+                  ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
+                  : "Active cut data not available"
+              }
+              ${
+                Number.isFinite(medCutPct)
+                  ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
+                  : ""
+              }
+            </div>
+          </div>
         </div>
 
-        <div class="card">
-          <div class="label">Closed Discount (Orig → Sold)</div>
-          <div class="value">${
-            hasClosedDiff
-              ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
-              : "n/a"
-          }</div>
-          <div class="sub">${
-            hasClosedDiff
-              ? `Typical sale closed ${closedDirection} original list`
-              : "Not enough closed data"
-          }</div>
-        </div>
       </div>
 
-      <!-- Row 2: Signal cards -->
-<div class="grid" style="margin-top:16px;">
+      <!-- ================= MOBILE LAYOUT ================= -->
+      <div class="mobileOnly">
 
-  <!-- under Sold -->
-  <div class="card">
-    <div class="label">Sales Activity</div>
-    <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
-    <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-      <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
-    </div>
-    <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
-  </div>
+        <div class="grid">
+          <div class="card">
+            <div class="label">Sold (YTD)</div>
+            <div class="value">${num(sold)}</div>
+            <div class="sub">Homes sold so far this year</div>
+          </div>
 
-  <!-- under Median Sold Price -->
-  <div class="card">
-    <div class="label">Median Price Position</div>
-    <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
-    <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-      <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
-    </div>
-    <div class="sub" style="margin-top:8px;">Band: ${money(priceMin)}–${money(priceMax)}</div>
-  </div>
+          <div class="card">
+            <div class="label">Sales Activity</div>
+            <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
+            </div>
+            <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
+          </div>
 
-  <!-- under Closed Discount -->
-  <div class="card">
-    <div class="label">Negotiation Room</div>
-    <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
-    <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-      <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
-    </div>
-    <div class="sub" style="margin-top:8px;">
-      ${
-        Number.isFinite(pctCutPct)
-          ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
-          : "Active cut data not available"
-      }
-      ${
-        Number.isFinite(medCutPct)
-          ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
-          : ""
-      }
-    </div>
-  </div>
+          <div class="card">
+            <div class="label">Median Sold Price</div>
+            <div class="value">${money(price)}</div>
+            <div class="sub">Typical closed price</div>
+          </div>
 
-</div>
+          <div class="card">
+            <div class="label">Median Price Position</div>
+            <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
+            </div>
+            <div class="sub" style="margin-top:8px;">
+              Range: ${money(priceMin)}–${money(priceMax)}
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="label">Closed Discount (Orig → Sold)</div>
+            <div class="value">${
+              hasClosedDiff
+                ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
+                : "n/a"
+            }</div>
+            <div class="sub">${
+              hasClosedDiff
+                ? `Typical sale closed ${closedDirection} original list`
+                : "Not enough closed data"
+            }</div>
+          </div>
+
+          <div class="card">
+            <div class="label">Negotiation Room</div>
+            <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
+            <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
+              <div style="width:${negoWidth}%; height:100%; background:${barFill};"></div>
+            </div>
+            <div class="sub" style="margin-top:8px;">
+              ${
+                Number.isFinite(pctCutPct)
+                  ? `${pctCutPct.toFixed(0)}% of active listings have a price cut`
+                  : "Active cut data not available"
+              }
+              ${
+                Number.isFinite(medCutPct)
+                  ? ` • Typical cut: ~${medCutPct.toFixed(1)}%`
+                  : ""
+              }
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
   `;
 }
 
@@ -244,7 +354,8 @@ function renderCards(row) {
       return;
     }
 
-    renderCards(row);
+    const band = computeBand(data);
+    renderCards(row, band);
   } catch (e) {
     renderError(e);
   }
