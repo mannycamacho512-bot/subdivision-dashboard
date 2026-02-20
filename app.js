@@ -216,7 +216,12 @@ function renderCards(row, band) {
             <div class="label">Sales Activity</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
-              <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
+              <div style="
+  width:${activityPct}%;
+  height:100%;
+  background:${barFill};
+  box-shadow: 0 0 8px rgba(6,95,70,.45);
+"></div>
             </div>
             <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
           </div>
@@ -228,7 +233,7 @@ function renderCards(row, band) {
               <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
             </div>
             <div class="sub" style="margin-top:8px;">
-              Range: ${money(priceMin)}–${money(priceMax)}
+              Kyle-wide typical Range: ${money(priceMin)}–${money(priceMax)}
             </div>
           </div>
 
@@ -287,7 +292,7 @@ function renderCards(row, band) {
               <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
             </div>
             <div class="sub" style="margin-top:8px;">
-              Range: ${money(priceMin)}–${money(priceMax)}
+              Kyle-wide typical Range: ${money(priceMin)}–${money(priceMax)}
             </div>
           </div>
 
