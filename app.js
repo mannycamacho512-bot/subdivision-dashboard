@@ -52,16 +52,16 @@ function render({ row, allSubs }) {
     return;
   }
 
-  if (!row) {
-    container.innerHTML = `
-      <div class="wrap">
-        <h2>${subdivision}</h2>
-        <p class="muted">No data found for this subdivision in the file.</p>
-        <p class="muted">Tip: verify the name matches your normalized subdivision names.</p>
-      </div>
-    `;
-    return;
-  }
+ if (!row) {
+  container.innerHTML = `
+    <div class="wrap">
+      <p class="muted">No data found for this subdivision in the file.</p>
+      <p class="muted">Tip: verify the name matches your normalized subdivision names.</p>
+    </div>
+  `;
+  return;
+}
+
 
   container.innerHTML = `
     <div class="wrap">
