@@ -239,7 +239,7 @@ function renderCards(row, band) {
               <div style="width:${pricePosPct}%; height:100%; background:${barFill};"></div>
             </div>
             <div class="sub" style="margin-top:8px;">
-              Kyle-wide typical Range: ${money(priceMin)}–${money(priceMax)}
+              Kyle-wide typical range: ${money(priceMin)}–${money(priceMax)}
             </div>
           </div>
 
