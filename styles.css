@@ -26,4 +26,28 @@ select {
   border: 1px solid #ddd;
   font-size: 14px;
 }
+/* ---------------- Panels (for charts) ---------------- */
 
+.panel {
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 16px;
+  background: #fff;
+  margin-top: 16px;
+}
+
+.panelTitle {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+/* Chart canvas containers */
+.canvasWrap {
+  height: 320px;   /* main hero chart height */
+  position: relative;
+}
+
+/* Shorter height for pressure meter */
+.panel:last-of-type .canvasWrap {
+  height: 120px;
+}
