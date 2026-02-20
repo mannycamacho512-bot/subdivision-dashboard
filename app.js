@@ -66,8 +66,10 @@ function renderNoRowFound() {
   const container = document.getElementById("dashboard");
   container.innerHTML = `
     <div class="wrap">
-      <p class="muted">No data found for this subdivision.</p>
-      <p class="muted">Tip: check that the subdivision name in the URL matches the JSON "Subdivision" value (after uppercasing).</p>
+      <h2>No YTD sales yet</h2>
+      <p class="muted">This subdivision doesn’t have enough closed sales in 2026 to calculate stats.</p>
+      <p class="muted">Most likely: <strong>0 homes sold YTD</strong> (so far).</p>
+      <p class="muted">Tip: try a different subdivision or check back after the next closing.</p>
     </div>
   `;
 }
