@@ -221,12 +221,7 @@ function renderCards(row, band) {
   border-radius:8px;
   overflow:hidden;
 ">
-            <div style="
-  width:${activityPct}%;
-  height:100%;
-  background: linear-gradient(90deg, #065f46, #047857);
-  box-shadow: inset 0 0 10px rgba(16,185,129,.55);
-"></div>
+            <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
             </div>
             <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
           </div>
