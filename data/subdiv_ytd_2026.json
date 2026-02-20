@@ -1,1 +1,114 @@
+const params = new URLSearchParams(window.location.search);
+const subdivision = (params.get("sub") || "").toUpperCase().trim();
+
+function money(n) {
+  if (n === null || n === undefined || isNaN(n)) return "n/a";
+  return Number(n).toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+}
+function pct(n) {
+  if (n === null || n === undefined || isNaN(n)) return "n/a";
+  return `${(Number(n) * 100).toFixed(1)}%`;
+}
+function num(n) {
+  if (n === null || n === undefined || isNaN(n)) return "n/a";
+  return Number(n).toLocaleString("en-US", { maximumFractionDigits: 0 });
+}
+
+async function loadData() {
+  const res = await fetch("./data/subdiv_ytd_2026.json", { cache: "no-store" });
+  if (!res.ok) throw new Error("Could not load data file.");
+  return await res.json();
+}
+
+function normalizeKey(s) {
+  return String(s || "").toUpperCase().trim();
+}
+
+function render({ row, allSubs }) {
+  const container = document.getElementById("dashboard");
+
+  if (!subdivision) {
+    // No sub selected: show dropdown
+    const options = allSubs
+      .map(s => `<option value="${encodeURIComponent(s)}">${s}</option>`)
+      .join("");
+
+    container.innerHTML = `
+      <div class="wrap">
+        <h2>Select a subdivision</h2>
+        <p class="muted">Pick one to load the dashboard.</p>
+        <select id="subSelect">
+          <option value="">-- choose --</option>
+          ${options}
+        </select>
+      </div>
+    `;
+
+    document.getElementById("subSelect").addEventListener("change", (e) => {
+      const v = e.target.value;
+      if (!v) return;
+      window.location.href = `?sub=${v}`;
+    });
+    return;
+  }
+
+  if (!row) {
+    container.innerHTML = `
+      <div class="wrap">
+        <h2>${subdivision}</h2>
+        <p class="muted">No data found for this subdivision in the file.</p>
+        <p class="muted">Tip: verify the name matches your normalized subdivision names.</p>
+      </div>
+    `;
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="wrap">
+      <h2>${row.Subdivision}</h2>
+      <div class="grid">
+        <div class="card">
+          <div class="label">Sold (YTD)</div>
+          <div class="value">${num(row.Sold_YTD)}</div>
+          <div class="sub">Homes sold so far this year</div>
+        </div>
+
+        <div class="card">
+          <div class="label">Median Sold Price (YTD)</div>
+          <div class="value">${money(row.MedianSoldPrice_YTD)}</div>
+          <div class="sub">Typical closed price</div>
+        </div>
+
+        <div class="card">
+          <div class="label">Median Discount (Orig → Sold)</div>
+          <div class="value">${pct(row.MedianSoldToOrigPct_YTD)}</div>
+          <div class="sub">${money(row.MedianSoldToOrigDollar_YTD)} vs original list</div>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+(async function main() {
+  try {
+    const data = await loadData();
+
+    // Expect data to be an array of rows
+    const allSubs = data
+      .map(r => normalizeKey(r.Subdivision))
+      .filter(Boolean)
+      .sort((a,b)=>a.localeCompare(b));
+
+    const row = data.find(r => normalizeKey(r.Subdivision) === subdivision);
+
+    render({ row, allSubs });
+  } catch (e) {
+    document.getElementById("dashboard").innerHTML = `
+      <div class="wrap">
+        <h2>Error</h2>
+        <p class="muted">${e.message}</p>
+      </div>
+    `;
+  }
+})();
 
