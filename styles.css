@@ -3,10 +3,17 @@ body { margin: 0; font-family: Arial, sans-serif; }
 h2 { margin: 0 0 10px; }
 .muted { color: #666; margin: 6px 0; }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
+/* Desktop default = 3 columns */
+.grid { display:grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap:12px; }
+
+/* Tablet */
+@media (max-width: 900px) {
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* Phone */
+@media (max-width: 560px) {
+  .grid { grid-template-columns: 1fr; }
 }
 
 .card {
