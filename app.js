@@ -65,7 +65,7 @@ function render({ row, allSubs }) {
 
   container.innerHTML = `
     <div class="wrap">
-      <h2>${row.Subdivision}</h2>
+      <h2> style="display:none;">${row.Subdivision}</h2>
       <div class="grid">
         <div class="card">
           <div class="label">Sold (YTD)</div>
