@@ -6,8 +6,8 @@
     "MedianSoldDOM_YTD":201.0,
     "MedianSoldToOrigPct_YTD":-0.1572875897,
     "MedianSoldToOrigDollar_YTD":-91405.0,
-    "PctActiveCut_Current":0.6162790698,
-    "MedianActiveCutPct_Current":-0.0831486498
+    "PctActiveCut_Current":0.6,
+    "MedianActiveCutPct_Current":-0.0609981534
   },
   {
     "Subdivision":"ANTHEM",
@@ -16,8 +16,8 @@
     "MedianSoldDOM_YTD":53.0,
     "MedianSoldToOrigPct_YTD":-0.059909635,
     "MedianSoldToOrigDollar_YTD":-20000.0,
-    "PctActiveCut_Current":0.6486486486,
-    "MedianActiveCutPct_Current":-0.0510881766
+    "PctActiveCut_Current":0.6216216216,
+    "MedianActiveCutPct_Current":-0.0548939115
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -30,23 +30,13 @@
     "MedianActiveCutPct_Current":-0.2246978234
   },
   {
-    "Subdivision":"BROOKSIDE",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":300000.0,
-    "MedianSoldDOM_YTD":168.0,
-    "MedianSoldToOrigPct_YTD":-0.0909090909,
-    "MedianSoldToOrigDollar_YTD":-30000.0,
-    "PctActiveCut_Current":1.0,
-    "MedianActiveCutPct_Current":-0.2330776926
-  },
-  {
     "Subdivision":"BUNTON CREEK",
     "Sold_YTD":9,
     "MedianSoldPrice_YTD":282900.0,
     "MedianSoldDOM_YTD":67.0,
     "MedianSoldToOrigPct_YTD":-0.0623940319,
     "MedianSoldToOrigDollar_YTD":-19900.0,
-    "PctActiveCut_Current":0.6,
+    "PctActiveCut_Current":0.5,
     "MedianActiveCutPct_Current":-0.1667361401
   },
   {
@@ -56,7 +46,7 @@
     "MedianSoldDOM_YTD":105.0,
     "MedianSoldToOrigPct_YTD":-0.0416370046,
     "MedianSoldToOrigDollar_YTD":-12282.5,
-    "PctActiveCut_Current":0.7894736842,
+    "PctActiveCut_Current":0.7142857143,
     "MedianActiveCutPct_Current":-0.1057156953
   },
   {
@@ -71,13 +61,13 @@
   },
   {
     "Subdivision":"CREEKSIDE",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":320000.0,
-    "MedianSoldDOM_YTD":63.0,
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":300000.0,
+    "MedianSoldDOM_YTD":115.5,
     "MedianSoldToOrigPct_YTD":-0.0857142857,
     "MedianSoldToOrigDollar_YTD":-30000.0,
-    "PctActiveCut_Current":1.0,
-    "MedianActiveCutPct_Current":-0.0181548722
+    "PctActiveCut_Current":0.75,
+    "MedianActiveCutPct_Current":-0.1430471913
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
@@ -101,11 +91,11 @@
   },
   {
     "Subdivision":"CYPRESS FOREST",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":465500.0,
-    "MedianSoldDOM_YTD":179.0,
-    "MedianSoldToOrigPct_YTD":-0.0861111111,
-    "MedianSoldToOrigDollar_YTD":-43000.0,
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":507000.0,
+    "MedianSoldDOM_YTD":66.0,
+    "MedianSoldToOrigPct_YTD":-0.0611111111,
+    "MedianSoldToOrigDollar_YTD":-33000.0,
     "PctActiveCut_Current":0.3333333333,
     "MedianActiveCutPct_Current":-0.0594059406
   },
@@ -151,13 +141,13 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":279500.0,
-    "MedianSoldDOM_YTD":31.0,
-    "MedianSoldToOrigPct_YTD":-0.0178246635,
-    "MedianSoldToOrigDollar_YTD":-4900.0,
-    "PctActiveCut_Current":0.5714285714,
-    "MedianActiveCutPct_Current":-0.0201417129
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":274750.0,
+    "MedianSoldDOM_YTD":18.0,
+    "MedianSoldToOrigPct_YTD":-0.0103424662,
+    "MedianSoldToOrigDollar_YTD":-2907.5,
+    "PctActiveCut_Current":0.5,
+    "MedianActiveCutPct_Current":-0.0157936299
   },
   {
     "Subdivision":"KYLE 47 SUB",
@@ -186,8 +176,8 @@
     "MedianSoldDOM_YTD":80.5,
     "MedianSoldToOrigPct_YTD":-0.0937187651,
     "MedianSoldToOrigDollar_YTD":-42070.0,
-    "PctActiveCut_Current":0.6666666667,
-    "MedianActiveCutPct_Current":-0.0518491406
+    "PctActiveCut_Current":0.625,
+    "MedianActiveCutPct_Current":-0.0536605992
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -211,9 +201,9 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":292000.0,
-    "MedianSoldDOM_YTD":5.0,
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":304000.0,
+    "MedianSoldDOM_YTD":19.0,
     "MedianSoldToOrigPct_YTD":-0.026342114,
     "MedianSoldToOrigDollar_YTD":-7900.0,
     "PctActiveCut_Current":0.7037037037,
@@ -226,8 +216,8 @@
     "MedianSoldDOM_YTD":49.0,
     "MedianSoldToOrigPct_YTD":-0.0756158358,
     "MedianSoldToOrigDollar_YTD":-24995.0,
-    "PctActiveCut_Current":0.5471698113,
-    "MedianActiveCutPct_Current":-0.0782608696
+    "PctActiveCut_Current":0.4912280702,
+    "MedianActiveCutPct_Current":-0.0672813235
   },
   {
     "Subdivision":"POST OAK",
@@ -236,16 +226,16 @@
     "MedianSoldDOM_YTD":55.5,
     "MedianSoldToOrigPct_YTD":-0.0752488159,
     "MedianSoldToOrigDollar_YTD":-17250.0,
-    "PctActiveCut_Current":0.5,
-    "MedianActiveCutPct_Current":-0.0529505913
+    "PctActiveCut_Current":0.6,
+    "MedianActiveCutPct_Current":-0.0877192982
   },
   {
     "Subdivision":"STAGECOACH",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":347000.0,
-    "MedianSoldDOM_YTD":137.5,
-    "MedianSoldToOrigPct_YTD":-0.1032132909,
-    "MedianSoldToOrigDollar_YTD":-42500.0,
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":349000.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":-0.0278551532,
+    "MedianSoldToOrigDollar_YTD":-10000.0,
     "PctActiveCut_Current":0.75,
     "MedianActiveCutPct_Current":-0.0202020202
   },
@@ -261,11 +251,11 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":284995.0,
-    "MedianSoldDOM_YTD":89.0,
-    "MedianSoldToOrigPct_YTD":-0.0605927452,
-    "MedianSoldToOrigDollar_YTD":-19995.0,
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":314995.0,
+    "MedianSoldDOM_YTD":111.5,
+    "MedianSoldToOrigPct_YTD":-0.0353668936,
+    "MedianSoldToOrigDollar_YTD":-12500.0,
     "PctActiveCut_Current":0.1764705882,
     "MedianActiveCutPct_Current":-0.0206192653
   },
@@ -281,13 +271,13 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":250.0,
-    "MedianSoldToOrigPct_YTD":-0.0714285714,
-    "MedianSoldToOrigDollar_YTD":-25000.0,
-    "PctActiveCut_Current":0.5,
-    "MedianActiveCutPct_Current":-0.0423076923
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":300000.0,
+    "MedianSoldDOM_YTD":205.0,
+    "MedianSoldToOrigPct_YTD":-0.131302521,
+    "MedianSoldToOrigDollar_YTD":-45000.0,
+    "PctActiveCut_Current":0.5454545455,
+    "MedianActiveCutPct_Current":-0.052257316
   },
   {
     "Subdivision":"WATERMILL",
@@ -301,12 +291,22 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":16,
-    "MedianSoldPrice_YTD":286670.0,
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":295990.0,
     "MedianSoldDOM_YTD":38.5,
     "MedianSoldToOrigPct_YTD":-0.0703255019,
-    "MedianSoldToOrigDollar_YTD":-25465.0,
-    "PctActiveCut_Current":0.4285714286,
-    "MedianActiveCutPct_Current":-0.0580286331
+    "MedianSoldToOrigDollar_YTD":-26695.0,
+    "PctActiveCut_Current":0.3666666667,
+    "MedianActiveCutPct_Current":-0.0589118973
+  },
+  {
+    "Subdivision":"WOODLANDS PARK",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":264400.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0385454545,
+    "MedianSoldToOrigDollar_YTD":-10600.0,
+    "PctActiveCut_Current":0.7142857143,
+    "MedianActiveCutPct_Current":-0.0161688134
   }
 ]
