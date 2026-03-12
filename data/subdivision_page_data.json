@@ -1,8 +1,14 @@
 {
-  "casetta-ranch": {
+  "CASETTA RANCH": {
     "homesAvailable": 19,
     "minPrice": 239990,
     "maxPrice": 326990,
     "medianPrice": 315000
+  },
+  "CROSSWINDS": {
+    "homesAvailable": 27,
+    "minPrice": 250000,
+    "maxPrice": 389000,
+    "medianPrice": 325000
   }
 }
