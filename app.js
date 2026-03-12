@@ -1,4 +1,4 @@
-// app.js — KPI cards + 3 signal cards + subdivision page data
+// app.js — KPI cards + 3 signal cards + desktop/mobile layouts (no Chart.js)
 
 const params = new URLSearchParams(window.location.search);
 const subdivision = (params.get("sub") || "").toUpperCase().trim();
@@ -9,15 +9,13 @@ function money(n) {
   return Number(n).toLocaleString("en-US", {
     style: "currency",
     currency: "USD",
-    maximumFractionDigits: 0
+    maximumFractionDigits: 0,
   });
 }
 
 function num(n) {
   if (n === null || n === undefined || n === "" || isNaN(n)) return "n/a";
-  return Number(n).toLocaleString("en-US", {
-    maximumFractionDigits: 0
-  });
+  return Number(n).toLocaleString("en-US", { maximumFractionDigits: 0 });
 }
 
 function normalizeKey(s) {
@@ -37,17 +35,9 @@ async function loadData() {
   return data;
 }
 
-async function loadSubdivisionPageData() {
-  const res = await fetch("./data/subdivision_page_data.json", { cache: "no-store" });
-  if (!res.ok) throw new Error("Could not load subdivision page data.");
-  const data = await res.json();
-  return data;
-}
-
 // ---------- UI screens ----------
 function renderNoSubSelected(allSubs) {
   const container = document.getElementById("dashboard");
-  if (!container) return;
 
   const options = allSubs
     .map((s) => `<option value="${encodeURIComponent(s)}">${s}</option>`)
@@ -65,19 +55,15 @@ function renderNoSubSelected(allSubs) {
   `;
 
   const sel = document.getElementById("subSelect");
-  if (sel) {
-    sel.addEventListener("change", (e) => {
-      const v = e.target.value;
-      if (!v) return;
-      window.location.href = \`?sub=\${v}\`;
-    });
-  }
+  sel.addEventListener("change", (e) => {
+    const v = e.target.value;
+    if (!v) return;
+    window.location.href = `?sub=${v}`;
+  });
 }
 
 function renderNoRowFound() {
   const container = document.getElementById("dashboard");
-  if (!container) return;
-
   container.innerHTML = `
     <div class="wrap">
       <h2>No YTD sales yet</h2>
@@ -90,8 +76,6 @@ function renderNoRowFound() {
 
 function renderError(err) {
   const container = document.getElementById("dashboard");
-  if (!container) return;
-
   container.innerHTML = `
     <div class="wrap">
       <h2>Error</h2>
@@ -100,7 +84,7 @@ function renderError(err) {
   `;
 }
 
-// ---------- band helpers ----------
+// ---------- band helpers (Kyle-wide typical range) ----------
 function percentile(sorted, p) {
   if (!sorted.length) return NaN;
   const idx = (sorted.length - 1) * p;
@@ -119,19 +103,19 @@ function computeBand(data) {
 
   return {
     min: percentile(prices, 0.10),
-    max: percentile(prices, 0.90)
+    max: percentile(prices, 0.90),
   };
 }
 
 // ---------- main dashboard ----------
 function renderCards(row, band) {
   const container = document.getElementById("dashboard");
-  if (!container) return;
 
   const sold = Number(row.Sold_YTD || 0);
   const price = Number(row.MedianSoldPrice_YTD || 0);
 
-  const closedDiff = Number(row.MedianSoldToOrigPct_YTD ?? NaN);
+  // CLOSED discount from original list (negative means below original list)
+  const closedDiff = Number(row.MedianSoldToOrigPct_YTD ?? NaN); // ex: -0.0416 = -4.16%
   const hasClosedDiff = Number.isFinite(closedDiff);
 
   const closedPct = hasClosedDiff ? Math.abs(closedDiff) * 100 : NaN;
@@ -139,23 +123,24 @@ function renderCards(row, band) {
     ? (closedDiff < 0 ? "below" : closedDiff > 0 ? "above" : "at")
     : "";
 
-  const activityScaleMax = 12;
+  // --- Scales ---
+  const activityScaleMax = 12; // tune anytime
   const priceMin = band?.min;
   const priceMax = band?.max;
 
   const activityPct = clamp((sold / activityScaleMax) * 100, 0, 100);
 
   const pricePosPct =
-    Number.isFinite(priceMin) &&
-    Number.isFinite(priceMax) &&
-    priceMax > priceMin
+    Number.isFinite(priceMin) && Number.isFinite(priceMax) && priceMax > priceMin
       ? clamp(((price - priceMin) / (priceMax - priceMin)) * 100, 0, 100)
       : 50;
 
+  // Negotiation bar width (SOLD-based only): map 0–10% discount -> 0–100%
   const negoWidth = Number.isFinite(closedPct)
     ? clamp((closedPct / 10) * 100, 0, 100)
     : 0;
 
+  // --- Explanations ---
   const activityMeaning =
     activityPct >= 75
       ? "High activity (more homes selling so far this year)."
@@ -180,7 +165,7 @@ function renderCards(row, band) {
       : "Lower price range within the typical band.";
 
   const barTrack = "rgba(15,23,42,.10)";
-  const barFill = "#065f46";
+  const barFill = "#065f46"; // dark emerald
 
   const rangeLabel =
     Number.isFinite(priceMin) && Number.isFinite(priceMax)
@@ -188,11 +173,7 @@ function renderCards(row, band) {
       : "Kyle-wide typical range: n/a";
 
   const closedDiscountValue = hasClosedDiff
-    ? (closedDiff < 0
-        ? `-${closedPct.toFixed(1)}%`
-        : closedDiff > 0
-        ? `+${closedPct.toFixed(1)}%`
-        : "0.0%")
+    ? (closedDiff < 0 ? `-${closedPct.toFixed(1)}%` : closedDiff > 0 ? `+${closedPct.toFixed(1)}%` : "0.0%")
     : "n/a";
 
   const closedDiscountSub = hasClosedDiff
@@ -206,7 +187,10 @@ function renderCards(row, band) {
   container.innerHTML = `
     <div class="wrap">
 
+      <!-- ================= DESKTOP LAYOUT ================= -->
       <div class="desktopOnly">
+
+        <!-- KPI row -->
         <div class="grid">
           <div class="card">
             <div class="label">Sold (YTD)</div>
@@ -227,7 +211,10 @@ function renderCards(row, band) {
           </div>
         </div>
 
+        <!-- Signals row -->
         <div class="grid" style="margin-top:16px;">
+
+          <!-- under Sold -->
           <div class="card">
             <div class="label">Sales Activity</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${activityMeaning}</div>
@@ -237,6 +224,7 @@ function renderCards(row, band) {
             <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
           </div>
 
+          <!-- under Median Sold Price -->
           <div class="card">
             <div class="label">Median Price Position</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${priceMeaning}</div>
@@ -246,6 +234,7 @@ function renderCards(row, band) {
             <div class="sub" style="margin-top:8px;">${rangeLabel}</div>
           </div>
 
+          <!-- under Closed Discount -->
           <div class="card">
             <div class="label">Negotiation Room</div>
             <div class="sub" style="margin-bottom:10px;">This means: ${negoMeaning}</div>
@@ -254,11 +243,15 @@ function renderCards(row, band) {
             </div>
             <div class="sub" style="margin-top:8px;">${negotiationBottomLine}</div>
           </div>
+
         </div>
       </div>
 
+      <!-- ================= MOBILE LAYOUT ================= -->
       <div class="mobileOnly">
         <div class="grid">
+
+          <!-- Sold → Activity -->
           <div class="card">
             <div class="label">Sold (YTD)</div>
             <div class="value">${num(sold)}</div>
@@ -274,6 +267,7 @@ function renderCards(row, band) {
             <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
           </div>
 
+          <!-- Price → Position -->
           <div class="card">
             <div class="label">Median Sold Price</div>
             <div class="value">${money(price)}</div>
@@ -289,6 +283,7 @@ function renderCards(row, band) {
             <div class="sub" style="margin-top:8px;">${rangeLabel}</div>
           </div>
 
+          <!-- Discount → Negotiation -->
           <div class="card">
             <div class="label">Closed Discount (Orig → Sold)</div>
             <div class="value">${closedDiscountValue}</div>
@@ -303,71 +298,17 @@ function renderCards(row, band) {
             </div>
             <div class="sub" style="margin-top:8px;">${negotiationBottomLine}</div>
           </div>
+
         </div>
       </div>
 
     </div>
   `;
-}
-
-// ---------- page data card ----------
-function renderSubdivisionPageDataCard() {
-  const container = document.getElementById("page-data-card");
-  if (!container) return;
-
-  container.innerHTML = `
-    <div class="wrap">
-      <div class="grid">
-        <div class="card">
-          <div class="label">Homes Available</div>
-          <div class="value" id="homes-available-text">Loading...</div>
-          <div class="sub">Current active homes in this subdivision</div>
-        </div>
-
-        <div class="card">
-          <div class="label">Price Range</div>
-          <div class="value" id="price-range-text">Loading...</div>
-          <div class="sub" id="median-price-text">Loading...</div>
-        </div>
-      </div>
-    </div>
-  `;
-}
-
-async function fillSubdivisionPageData() {
-  try {
-    const allPageData = await loadSubdivisionPageData();
-    const data = allPageData[subdivision];
-
-    if (!data) return;
-
-    const homesEl = document.getElementById("homes-available-text");
-    const priceRangeEl = document.getElementById("price-range-text");
-    const medianEl = document.getElementById("median-price-text");
-
-    if (homesEl) {
-      const count = Number(data.homesAvailable || 0);
-      homesEl.textContent = `${count} ${count === 1 ? "home" : "homes"} available`;
-    }
-
-    if (priceRangeEl) {
-      priceRangeEl.textContent = `${money(data.minPrice)} – ${money(data.maxPrice)}`;
-    }
-
-    if (medianEl) {
-      medianEl.textContent = `Median Price near this area: ≈ ${money(data.medianPrice)}`;
-    }
-  } catch (err) {
-    console.error("Subdivision page data error:", err);
-  }
 }
 
 // ---------- main ----------
 (async function main() {
   try {
-    renderSubdivisionPageDataCard();
-    fillSubdivisionPageData();
-
     const data = await loadData();
 
     const allSubs = data
