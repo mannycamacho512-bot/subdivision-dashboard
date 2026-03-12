@@ -335,26 +335,15 @@ function renderCards(row, band) {
   }
 })();
 
-function money(n) {
-  if (n === null || n === undefined || isNaN(n)) return "n/a";
-  return Number(n).toLocaleString("en-US", {
-    style: "currency",
-    currency: "USD",
-    maximumFractionDigits: 0
-  });
-}
-
-async function loadSubdivisionPageData() {
+async function loadSubdivisionAgeData() {
   try {
-    const subdivisionSlug = "casetta-ranch";
-
-    const res = await fetch("./data/subdivision_page_data.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("Could not load subdivision page data");
+    const res = await fetch("./data/subdivision_age_data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("Could not load subdivision age data");
 
     const allData = await res.json();
-    const data = allData[subdivisionSlug];
+    const data = allData[subdivision];
 
-    if (!data) throw new Error("Subdivision not found in JSON");
+    if (!data) return; // quietly do nothing if subdivision isn't in the file
 
     const homesEl = document.getElementById("homes-available-text");
     const priceRangeEl = document.getElementById("price-range-text");
@@ -374,8 +363,8 @@ async function loadSubdivisionPageData() {
     }
 
   } catch (err) {
-    console.error("Subdivision page data error:", err);
+    console.error("Subdivision age data error:", err);
   }
 }
 
-loadSubdivisionPageData();
+loadSubdivisionAgeData();
