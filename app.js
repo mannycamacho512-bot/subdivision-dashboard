@@ -334,3 +334,48 @@ function renderCards(row, band) {
     renderError(e);
   }
 })();
+
+function money(n) {
+  if (n === null || n === undefined || isNaN(n)) return "n/a";
+  return Number(n).toLocaleString("en-US", {
+    style: "currency",
+    currency: "USD",
+    maximumFractionDigits: 0
+  });
+}
+
+async function loadSubdivisionPageData() {
+  try {
+    const subdivisionSlug = "casetta-ranch";
+
+    const res = await fetch("./data/subdivision_page_data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("Could not load subdivision page data");
+
+    const allData = await res.json();
+    const data = allData[subdivisionSlug];
+
+    if (!data) throw new Error("Subdivision not found in JSON");
+
+    const homesEl = document.getElementById("homes-available-text");
+    const priceRangeEl = document.getElementById("price-range-text");
+    const medianEl = document.getElementById("median-price-text");
+
+    if (homesEl) {
+      const count = Number(data.homesAvailable || 0);
+      homesEl.textContent = `${count} ${count === 1 ? "home" : "homes"} available`;
+    }
+
+    if (priceRangeEl) {
+      priceRangeEl.textContent = `${money(data.minPrice)} – ${money(data.maxPrice)}`;
+    }
+
+    if (medianEl) {
+      medianEl.textContent = `Median Price near this area: ≈ ${money(data.medianPrice)}`;
+    }
+
+  } catch (err) {
+    console.error("Subdivision page data error:", err);
+  }
+}
+
+loadSubdivisionPageData();
