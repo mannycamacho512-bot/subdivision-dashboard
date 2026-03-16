@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":26,
-    "MedianSoldPrice_YTD":497315.5,
-    "MedianSoldDOM_YTD":175.0,
-    "MedianSoldToOrigPct_YTD":-0.1537252511,
-    "MedianSoldToOrigDollar_YTD":-88138.0
+    "Sold_YTD":27,
+    "MedianSoldPrice_YTD":495631.0,
+    "MedianSoldDOM_YTD":166.0,
+    "MedianSoldToOrigPct_YTD":-0.1501629126,
+    "MedianSoldToOrigDollar_YTD":-84871.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -73,11 +73,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":17,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":114.0,
-    "MedianSoldToOrigPct_YTD":-0.1257142857,
-    "MedianSoldToOrigDollar_YTD":-44950.0
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":332495.0,
+    "MedianSoldDOM_YTD":119.5,
+    "MedianSoldToOrigPct_YTD":-0.1352143102,
+    "MedianSoldToOrigDollar_YTD":-46075.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -105,11 +105,11 @@
   },
   {
     "Subdivision":"HARVEST CREEK",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":256000.0,
-    "MedianSoldDOM_YTD":30.0,
-    "MedianSoldToOrigPct_YTD":0.0039215686,
-    "MedianSoldToOrigDollar_YTD":1000.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":290500.0,
+    "MedianSoldDOM_YTD":25.5,
+    "MedianSoldToOrigPct_YTD":0.0019607843,
+    "MedianSoldToOrigDollar_YTD":500.0
   },
   {
     "Subdivision":"HOMETOWN KYLE",
@@ -153,19 +153,19 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":399995.0,
-    "MedianSoldDOM_YTD":102.0,
-    "MedianSoldToOrigPct_YTD":-0.110283177,
-    "MedianSoldToOrigDollar_YTD":-50525.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":399990.0,
+    "MedianSoldDOM_YTD":100.0,
+    "MedianSoldToOrigPct_YTD":-0.1073599608,
+    "MedianSoldToOrigDollar_YTD":-48420.0
   },
   {
     "Subdivision":"OPAL RANCH",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":327490.0,
-    "MedianSoldDOM_YTD":127.5,
-    "MedianSoldToOrigPct_YTD":-0.1612690287,
-    "MedianSoldToOrigDollar_YTD":-66092.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":339990.0,
+    "MedianSoldDOM_YTD":135.0,
+    "MedianSoldToOrigPct_YTD":-0.1230807102,
+    "MedianSoldToOrigDollar_YTD":-40000.0
   },
   {
     "Subdivision":"OUT HAYS CO",
@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":19,
-    "MedianSoldPrice_YTD":323990.0,
-    "MedianSoldDOM_YTD":61.0,
-    "MedianSoldToOrigPct_YTD":-0.076048519,
-    "MedianSoldToOrigDollar_YTD":-28050.0
+    "Sold_YTD":20,
+    "MedianSoldPrice_YTD":325495.0,
+    "MedianSoldDOM_YTD":56.0,
+    "MedianSoldToOrigPct_YTD":-0.0756158358,
+    "MedianSoldToOrigDollar_YTD":-27520.0
   },
   {
     "Subdivision":"POST OAK",
@@ -206,6 +206,14 @@
     "MedianSoldDOM_YTD":201.0,
     "MedianSoldToOrigPct_YTD":-0.1266512535,
     "MedianSoldToOrigDollar_YTD":-54306.0
+  },
+  {
+    "Subdivision":"SOUTHLAKE RANCH",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":212000.0,
+    "MedianSoldDOM_YTD":132.0,
+    "MedianSoldToOrigPct_YTD":-0.2401433692,
+    "MedianSoldToOrigDollar_YTD":-67000.0
   },
   {
     "Subdivision":"SPRING BRANCH",
