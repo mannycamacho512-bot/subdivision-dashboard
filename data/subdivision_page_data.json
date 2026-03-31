@@ -42,7 +42,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 15,
+    "homesAvailable": 16,
     "minPrice": 230000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -78,7 +78,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 35,
+    "homesAvailable": 36,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
@@ -234,8 +234,8 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 6,
-    "minPrice": 259000,
+    "homesAvailable": 7,
+    "minPrice": 235000,
     "maxPrice": 374900,
     "medianPrice": null
   },
@@ -276,9 +276,9 @@
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 6,
-    "minPrice": 253000,
-    "maxPrice": 350000,
+    "homesAvailable": 4,
+    "minPrice": 265000,
+    "maxPrice": 314000,
     "medianPrice": null
   },
   "Z HINTON ABS": {
