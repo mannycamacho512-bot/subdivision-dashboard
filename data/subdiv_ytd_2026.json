@@ -1,10 +1,10 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":31,
+    "Sold_YTD":33,
     "MedianSoldPrice_YTD":499000.0,
     "MedianSoldDOM_YTD":161.0,
-    "MedianSoldToOrigPct_YTD":-0.1501629126,
+    "MedianSoldToOrigPct_YTD":-0.1572875897,
     "MedianSoldToOrigDollar_YTD":-91405.0
   },
   {
@@ -73,11 +73,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":23,
-    "MedianSoldPrice_YTD":346500.0,
-    "MedianSoldDOM_YTD":114.0,
-    "MedianSoldToOrigPct_YTD":-0.1347312605,
-    "MedianSoldToOrigDollar_YTD":-47200.0
+    "Sold_YTD":24,
+    "MedianSoldPrice_YTD":348200.0,
+    "MedianSoldDOM_YTD":119.5,
+    "MedianSoldToOrigPct_YTD":-0.1302227731,
+    "MedianSoldToOrigDollar_YTD":-46075.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":4,
+    "Sold_YTD":5,
     "MedianSoldPrice_YTD":310000.0,
-    "MedianSoldDOM_YTD":96.5,
-    "MedianSoldToOrigPct_YTD":-0.0234100934,
-    "MedianSoldToOrigDollar_YTD":-7450.0
+    "MedianSoldDOM_YTD":100.0,
+    "MedianSoldToOrigPct_YTD":-0.030947171,
+    "MedianSoldToOrigDollar_YTD":-9900.0
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
@@ -160,6 +160,14 @@
     "MedianSoldToOrigDollar_YTD":-14900.0
   },
   {
+    "Subdivision":"MEADOW WOODS",
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":431625.0,
+    "MedianSoldDOM_YTD":111.0,
+    "MedianSoldToOrigPct_YTD":-0.050608145,
+    "MedianSoldToOrigDollar_YTD":-25874.5
+  },
+  {
     "Subdivision":"MEADOWS AT KYLE",
     "Sold_YTD":1,
     "MedianSoldPrice_YTD":295000.0,
@@ -169,11 +177,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":11,
-    "MedianSoldPrice_YTD":400000.0,
-    "MedianSoldDOM_YTD":97.0,
-    "MedianSoldToOrigPct_YTD":-0.0969258366,
-    "MedianSoldToOrigDollar_YTD":-39175.0
+    "Sold_YTD":12,
+    "MedianSoldPrice_YTD":402922.5,
+    "MedianSoldDOM_YTD":98.5,
+    "MedianSoldToOrigPct_YTD":-0.0860448924,
+    "MedianSoldToOrigDollar_YTD":-37467.5
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -201,11 +209,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":25,
-    "MedianSoldPrice_YTD":327000.0,
-    "MedianSoldDOM_YTD":47.0,
-    "MedianSoldToOrigPct_YTD":-0.0751831527,
-    "MedianSoldToOrigDollar_YTD":-26990.0
+    "Sold_YTD":26,
+    "MedianSoldPrice_YTD":325495.0,
+    "MedianSoldDOM_YTD":42.0,
+    "MedianSoldToOrigPct_YTD":-0.0729462105,
+    "MedianSoldToOrigDollar_YTD":-25195.0
   },
   {
     "Subdivision":"POST OAK",
@@ -321,7 +329,7 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":36,
+    "Sold_YTD":38,
     "MedianSoldPrice_YTD":304990.0,
     "MedianSoldDOM_YTD":41.5,
     "MedianSoldToOrigPct_YTD":-0.0709052107,
