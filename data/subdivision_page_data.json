@@ -1,8 +1,8 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 95,
+    "homesAvailable": 96,
     "minPrice": 369000,
-    "maxPrice": 799000,
+    "maxPrice": 798000,
     "medianPrice": null
   },
   "A0220 Z HINTON SURV": {
@@ -25,7 +25,7 @@
   },
   "ANTHEM": {
     "homesAvailable": 32,
-    "minPrice": 269990,
+    "minPrice": 274990,
     "maxPrice": 674990,
     "medianPrice": null
   },
@@ -42,7 +42,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 16,
+    "homesAvailable": 15,
     "minPrice": 230000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -57,6 +57,18 @@
     "homesAvailable": 1,
     "minPrice": 1349000,
     "maxPrice": 1349000,
+    "medianPrice": null
+  },
+  "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
+    "homesAvailable": 2,
+    "minPrice": 1118000,
+    "maxPrice": 1120000,
+    "medianPrice": null
+  },
+  "CLARA VISTA AT WATERRIDGE SPRING COLLECTION": {
+    "homesAvailable": 2,
+    "minPrice": 1193000,
+    "maxPrice": 1333000,
     "medianPrice": null
   },
   "COOL SPRINGS": {
@@ -92,7 +104,7 @@
   "FOUR SEASONS FARM": {
     "homesAvailable": 3,
     "minPrice": 294000,
-    "maxPrice": 425000,
+    "maxPrice": 399000,
     "medianPrice": null
   },
   "HARVEST CREEK": {
@@ -121,7 +133,7 @@
   },
   "INFINITY SQUARE": {
     "homesAvailable": 9,
-    "minPrice": 299990,
+    "minPrice": 294990,
     "maxPrice": 379990,
     "medianPrice": null
   },
@@ -180,7 +192,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 32,
+    "homesAvailable": 34,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -192,9 +204,9 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 52,
+    "homesAvailable": 51,
     "minPrice": 217990,
-    "maxPrice": 500000,
+    "maxPrice": 549000,
     "medianPrice": null
   },
   "POST OAK": {
@@ -210,7 +222,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 11,
+    "homesAvailable": 12,
     "minPrice": 324999,
     "maxPrice": 508261,
     "medianPrice": null
@@ -246,9 +258,9 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 11,
-    "minPrice": 275990,
-    "maxPrice": 352990,
+    "homesAvailable": 9,
+    "minPrice": 302990,
+    "maxPrice": 353310,
     "medianPrice": null
   },
   "THE TRAILS": {
@@ -271,7 +283,7 @@
   },
   "WATERSTONE": {
     "homesAvailable": 19,
-    "minPrice": 208490,
+    "minPrice": 202490,
     "maxPrice": 401190,
     "medianPrice": null
   },
