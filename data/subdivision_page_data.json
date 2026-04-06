@@ -1,8 +1,8 @@
 {
   "6 CREEKS": {
     "homesAvailable": 96,
-    "minPrice": 369000,
-    "maxPrice": 798000,
+    "minPrice": 350000,
+    "maxPrice": 799900,
     "medianPrice": null
   },
   "A0220 Z HINTON SURV": {
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 32,
+    "homesAvailable": 36,
     "minPrice": 274990,
     "maxPrice": 674990,
     "medianPrice": null
@@ -41,8 +41,14 @@
     "maxPrice": 330000,
     "medianPrice": null
   },
+  "BROOKS RANCH": {
+    "homesAvailable": 1,
+    "minPrice": 525000,
+    "maxPrice": 525000,
+    "medianPrice": null
+  },
   "BUNTON CREEK": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 230000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -78,19 +84,19 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 229890,
-    "maxPrice": 255000,
+    "maxPrice": 235000,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 1,
-    "minPrice": 312000,
+    "homesAvailable": 2,
+    "minPrice": 295000,
     "maxPrice": 312000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 36,
+    "homesAvailable": 37,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
@@ -116,7 +122,7 @@
   "HIGH MEADOWS": {
     "homesAvailable": 5,
     "minPrice": 407000,
-    "maxPrice": 459900,
+    "maxPrice": 444900,
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
@@ -126,14 +132,14 @@
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 245000,
     "maxPrice": 334000,
     "medianPrice": null
   },
   "INFINITY SQUARE": {
     "homesAvailable": 9,
-    "minPrice": 294990,
+    "minPrice": 299990,
     "maxPrice": 379990,
     "medianPrice": null
   },
@@ -144,8 +150,8 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 8,
-    "minPrice": 259000,
+    "homesAvailable": 9,
+    "minPrice": 238999,
     "maxPrice": 425000,
     "medianPrice": null
   },
@@ -168,7 +174,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 384990,
     "maxPrice": 481990,
     "medianPrice": null
@@ -192,7 +198,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 34,
+    "homesAvailable": 35,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -204,7 +210,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 51,
+    "homesAvailable": 53,
     "minPrice": 217990,
     "maxPrice": 549000,
     "medianPrice": null
@@ -222,9 +228,9 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 12,
-    "minPrice": 324999,
-    "maxPrice": 508261,
+    "homesAvailable": 11,
+    "minPrice": 329999,
+    "maxPrice": 494999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
@@ -246,8 +252,8 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 7,
-    "minPrice": 235000,
+    "homesAvailable": 8,
+    "minPrice": 219000,
     "maxPrice": 374900,
     "medianPrice": null
   },
@@ -259,7 +265,7 @@
   },
   "TALAVERA": {
     "homesAvailable": 9,
-    "minPrice": 302990,
+    "minPrice": 299960,
     "maxPrice": 353310,
     "medianPrice": null
   },
@@ -276,14 +282,14 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 13,
-    "minPrice": 240000,
+    "homesAvailable": 12,
+    "minPrice": 249000,
     "maxPrice": 419990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 19,
-    "minPrice": 202490,
+    "homesAvailable": 20,
+    "minPrice": 199490,
     "maxPrice": 401190,
     "medianPrice": null
   },
