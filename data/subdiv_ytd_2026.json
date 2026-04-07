@@ -217,11 +217,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":32,
-    "MedianSoldPrice_YTD":325495.0,
-    "MedianSoldDOM_YTD":42.0,
-    "MedianSoldToOrigPct_YTD":-0.0729462105,
-    "MedianSoldToOrigDollar_YTD":-25195.0
+    "Sold_YTD":35,
+    "MedianSoldPrice_YTD":318940.0,
+    "MedianSoldDOM_YTD":47.0,
+    "MedianSoldToOrigPct_YTD":-0.076048519,
+    "MedianSoldToOrigDollar_YTD":-26990.0
   },
   {
     "Subdivision":"POST OAK",
