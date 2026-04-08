@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":38,
-    "MedianSoldPrice_YTD":487111.0,
-    "MedianSoldDOM_YTD":175.0,
-    "MedianSoldToOrigPct_YTD":-0.1482536752,
-    "MedianSoldToOrigDollar_YTD":-84430.5
+    "Sold_YTD":39,
+    "MedianSoldPrice_YTD":478591.0,
+    "MedianSoldDOM_YTD":184.0,
+    "MedianSoldToOrigPct_YTD":-0.1501629126,
+    "MedianSoldToOrigDollar_YTD":-84871.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -30,6 +30,14 @@
     "MedianSoldDOM_YTD":9.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
+  },
+  {
+    "Subdivision":"BROOKS RANCH",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":330000.0,
+    "MedianSoldDOM_YTD":25.0,
+    "MedianSoldToOrigPct_YTD":-0.0149253731,
+    "MedianSoldToOrigDollar_YTD":-5000.0
   },
   {
     "Subdivision":"BUNTON CREEK",
@@ -73,11 +81,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":24,
-    "MedianSoldPrice_YTD":348200.0,
-    "MedianSoldDOM_YTD":119.5,
-    "MedianSoldToOrigPct_YTD":-0.1302227731,
-    "MedianSoldToOrigDollar_YTD":-46075.0
+    "Sold_YTD":25,
+    "MedianSoldPrice_YTD":349900.0,
+    "MedianSoldDOM_YTD":125.0,
+    "MedianSoldToOrigPct_YTD":-0.1279072742,
+    "MedianSoldToOrigDollar_YTD":-47200.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -289,11 +297,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":146000.0,
-    "MedianSoldDOM_YTD":108.0,
-    "MedianSoldToOrigPct_YTD":-0.2512820513,
-    "MedianSoldToOrigDollar_YTD":-49000.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":198000.0,
+    "MedianSoldDOM_YTD":59.0,
+    "MedianSoldToOrigPct_YTD":-0.0797894973,
+    "MedianSoldToOrigDollar_YTD":-14000.0
   },
   {
     "Subdivision":"SUNSET HILLS",
@@ -310,14 +318,6 @@
     "MedianSoldDOM_YTD":68.0,
     "MedianSoldToOrigPct_YTD":-0.0449450827,
     "MedianSoldToOrigDollar_YTD":-16000.0
-  },
-  {
-    "Subdivision":"THE PARK AT STEEPLECHASE",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":10.0,
-    "MedianSoldToOrigPct_YTD":0.0917030568,
-    "MedianSoldToOrigDollar_YTD":21000.0
   },
   {
     "Subdivision":"THE TRAILS",
