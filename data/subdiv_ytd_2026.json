@@ -32,6 +32,14 @@
     "MedianSoldToOrigDollar_YTD":0.0
   },
   {
+    "Subdivision":"BROOKS CROSSING",
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":335050.0,
+    "MedianSoldDOM_YTD":48.5,
+    "MedianSoldToOrigPct_YTD":-0.0347736249,
+    "MedianSoldToOrigDollar_YTD":-11950.0
+  },
+  {
     "Subdivision":"BROOKS RANCH",
     "Sold_YTD":1,
     "MedianSoldPrice_YTD":330000.0,
@@ -158,22 +166,6 @@
     "MedianSoldDOM_YTD":18.0,
     "MedianSoldToOrigPct_YTD":-0.0178246635,
     "MedianSoldToOrigDollar_YTD":-4900.0
-  },
-  {
-    "Subdivision":"KYLE 47 SUB",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":48.0,
-    "MedianSoldToOrigPct_YTD":-0.0250696379,
-    "MedianSoldToOrigDollar_YTD":-9000.0
-  },
-  {
-    "Subdivision":"KYLE 47 SUBDIVISION",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":320100.0,
-    "MedianSoldDOM_YTD":49.0,
-    "MedianSoldToOrigPct_YTD":-0.0444776119,
-    "MedianSoldToOrigDollar_YTD":-14900.0
   },
   {
     "Subdivision":"MEADOW WOODS",
