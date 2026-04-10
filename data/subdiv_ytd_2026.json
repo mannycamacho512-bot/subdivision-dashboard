@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":39,
-    "MedianSoldPrice_YTD":478591.0,
-    "MedianSoldDOM_YTD":184.0,
-    "MedianSoldToOrigPct_YTD":-0.1501629126,
-    "MedianSoldToOrigDollar_YTD":-84871.0
+    "Sold_YTD":40,
+    "MedianSoldPrice_YTD":487111.0,
+    "MedianSoldDOM_YTD":175.0,
+    "MedianSoldToOrigPct_YTD":-0.1482536752,
+    "MedianSoldToOrigDollar_YTD":-84430.5
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -265,11 +265,11 @@
   },
   {
     "Subdivision":"SPRING BRANCH",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":237500.0,
-    "MedianSoldDOM_YTD":44.0,
-    "MedianSoldToOrigPct_YTD":-0.0786796697,
-    "MedianSoldToOrigDollar_YTD":-20450.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":250000.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":-0.0230769231,
+    "MedianSoldToOrigDollar_YTD":-6000.0
   },
   {
     "Subdivision":"STAGECOACH",
@@ -321,10 +321,10 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":300000.0,
-    "MedianSoldDOM_YTD":112.0,
-    "MedianSoldToOrigPct_YTD":-0.0811688312,
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":299900.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0714285714,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
