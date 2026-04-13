@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 95,
+    "homesAvailable": 94,
     "minPrice": 369000,
     "maxPrice": 799900,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 40,
+    "homesAvailable": 39,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -48,7 +48,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 12,
+    "homesAvailable": 14,
     "minPrice": 224900,
     "maxPrice": 315000,
     "medianPrice": null
@@ -60,8 +60,8 @@
     "medianPrice": null
   },
   "CENTURY ACRES": {
-    "homesAvailable": 1,
-    "minPrice": 1349000,
+    "homesAvailable": 2,
+    "minPrice": 1250000,
     "maxPrice": 1349000,
     "medianPrice": null
   },
@@ -90,13 +90,13 @@
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 295000,
     "maxPrice": 360000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 36,
+    "homesAvailable": 37,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
@@ -128,12 +128,12 @@
   "HOMETOWN KYLE": {
     "homesAvailable": 15,
     "minPrice": 299999,
-    "maxPrice": 567500,
+    "maxPrice": 549000,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 6,
-    "minPrice": 244990,
+    "homesAvailable": 7,
+    "minPrice": 215000,
     "maxPrice": 334000,
     "medianPrice": null
   },
@@ -143,14 +143,8 @@
     "maxPrice": 379990,
     "medianPrice": null
   },
-  "JOSE ADD": {
-    "homesAvailable": 1,
-    "minPrice": 240000,
-    "maxPrice": 240000,
-    "medianPrice": null
-  },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 11,
+    "homesAvailable": 13,
     "minPrice": 238999,
     "maxPrice": 425000,
     "medianPrice": null
@@ -193,7 +187,7 @@
   },
   "OUT HAYS CO": {
     "homesAvailable": 2,
-    "minPrice": 276699,
+    "minPrice": 265000,
     "maxPrice": 325000,
     "medianPrice": null
   },
@@ -204,7 +198,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 37,
+    "homesAvailable": 36,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -217,24 +211,24 @@
   },
   "PLUM CREEK": {
     "homesAvailable": 53,
-    "minPrice": 217990,
+    "minPrice": 214990,
     "maxPrice": 549000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 225000,
     "maxPrice": 449000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 1,
-    "minPrice": 300000,
+    "homesAvailable": 2,
+    "minPrice": 265000,
     "maxPrice": 300000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 329999,
     "maxPrice": 494999,
     "medianPrice": null
@@ -246,21 +240,21 @@
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 216000,
-    "maxPrice": 269500,
+    "maxPrice": 299990,
     "medianPrice": null
   },
   "STAGECOACH": {
     "homesAvailable": 6,
     "minPrice": 344990,
-    "maxPrice": 485000,
+    "maxPrice": 479999,
     "medianPrice": null
   },
   "STEEPLECHASE": {
     "homesAvailable": 8,
     "minPrice": 219000,
-    "maxPrice": 374900,
+    "maxPrice": 369900,
     "medianPrice": null
   },
   "SUNSET HILLS": {
@@ -270,9 +264,9 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 12,
+    "homesAvailable": 14,
     "minPrice": 279990,
-    "maxPrice": 353310,
+    "maxPrice": 438000,
     "medianPrice": null
   },
   "THE TRAILS": {
@@ -288,14 +282,14 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 14,
-    "minPrice": 244000,
+    "homesAvailable": 15,
+    "minPrice": 240000,
     "maxPrice": 419990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 24,
-    "minPrice": 197490,
+    "homesAvailable": 23,
+    "minPrice": 195490,
     "maxPrice": 401190,
     "medianPrice": null
   },
