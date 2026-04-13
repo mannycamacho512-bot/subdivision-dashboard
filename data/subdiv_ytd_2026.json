@@ -136,6 +136,14 @@
     "MedianSoldToOrigDollar_YTD":-16000.0
   },
   {
+    "Subdivision":"GRIST MILL HIGHLANDS",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":315000.0,
+    "MedianSoldDOM_YTD":120.0,
+    "MedianSoldToOrigPct_YTD":-0.0597014925,
+    "MedianSoldToOrigDollar_YTD":-20000.0
+  },
+  {
     "Subdivision":"HARVEST CREEK",
     "Sold_YTD":2,
     "MedianSoldPrice_YTD":290500.0,
@@ -145,11 +153,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":321000.0,
-    "MedianSoldDOM_YTD":100.0,
-    "MedianSoldToOrigPct_YTD":-0.030947171,
-    "MedianSoldToOrigDollar_YTD":-9900.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":316000.0,
+    "MedianSoldDOM_YTD":96.5,
+    "MedianSoldToOrigPct_YTD":-0.0234100934,
+    "MedianSoldToOrigDollar_YTD":-7450.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -182,6 +190,14 @@
     "MedianSoldDOM_YTD":72.0,
     "MedianSoldToOrigPct_YTD":-0.1060606061,
     "MedianSoldToOrigDollar_YTD":-35000.0
+  },
+  {
+    "Subdivision":"MILLCREEK",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":248000.0,
+    "MedianSoldDOM_YTD":41.0,
+    "MedianSoldToOrigPct_YTD":-0.0461538462,
+    "MedianSoldToOrigDollar_YTD":-12000.0
   },
   {
     "Subdivision":"OPAL MEADOWS",
