@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 95,
+    "homesAvailable": 94,
     "minPrice": 369000,
     "maxPrice": 799900,
     "medianPrice": null
@@ -18,13 +18,13 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 270000,
-    "maxPrice": 325000,
+    "maxPrice": 298000,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 39,
+    "homesAvailable": 38,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 37,
+    "homesAvailable": 38,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
@@ -126,13 +126,13 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 289999,
     "maxPrice": 549000,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 215000,
     "maxPrice": 334000,
     "medianPrice": null
@@ -144,8 +144,8 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 13,
-    "minPrice": 238999,
+    "homesAvailable": 12,
+    "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
   },
@@ -210,13 +210,13 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 53,
+    "homesAvailable": 54,
     "minPrice": 215990,
     "maxPrice": 549000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 225000,
     "maxPrice": 449000,
     "medianPrice": null
@@ -242,7 +242,7 @@
   "SOUTHLAKE RANCH": {
     "homesAvailable": 5,
     "minPrice": 216000,
-    "maxPrice": 299990,
+    "maxPrice": 289000,
     "medianPrice": null
   },
   "STAGECOACH": {
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 19,
+    "homesAvailable": 17,
     "minPrice": 198490,
     "maxPrice": 401190,
     "medianPrice": null
