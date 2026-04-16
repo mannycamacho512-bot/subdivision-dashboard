@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 94,
+    "homesAvailable": 93,
     "minPrice": 369000,
     "maxPrice": 799900,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 38,
+    "homesAvailable": 42,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -107,6 +107,12 @@
     "maxPrice": 630000,
     "medianPrice": null
   },
+  "FOUR OAKS": {
+    "homesAvailable": 1,
+    "minPrice": 289000,
+    "maxPrice": 289000,
+    "medianPrice": null
+  },
   "FOUR SEASONS FARM": {
     "homesAvailable": 4,
     "minPrice": 289000,
@@ -144,7 +150,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -186,8 +192,8 @@
     "medianPrice": null
   },
   "OUT HAYS CO": {
-    "homesAvailable": 2,
-    "minPrice": 265000,
+    "homesAvailable": 1,
+    "minPrice": 325000,
     "maxPrice": 325000,
     "medianPrice": null
   },
@@ -198,7 +204,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 36,
+    "homesAvailable": 38,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -210,7 +216,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 54,
+    "homesAvailable": 60,
     "minPrice": 215990,
     "maxPrice": 549000,
     "medianPrice": null
@@ -258,8 +264,8 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 4,
-    "minPrice": 340000,
+    "homesAvailable": 5,
+    "minPrice": 330000,
     "maxPrice": 425000,
     "medianPrice": null
   },
