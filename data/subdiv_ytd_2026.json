@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":41,
-    "MedianSoldPrice_YTD":495631.0,
-    "MedianSoldDOM_YTD":180.0,
-    "MedianSoldToOrigPct_YTD":-0.1463444379,
-    "MedianSoldToOrigDollar_YTD":-83990.0
+    "Sold_YTD":42,
+    "MedianSoldPrice_YTD":497315.5,
+    "MedianSoldDOM_YTD":173.0,
+    "MedianSoldToOrigPct_YTD":-0.1436366998,
+    "MedianSoldToOrigDollar_YTD":-83764.5
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":27,
-    "MedianSoldPrice_YTD":349900.0,
-    "MedianSoldDOM_YTD":132.0,
-    "MedianSoldToOrigPct_YTD":-0.1347312605,
-    "MedianSoldToOrigDollar_YTD":-54990.0
+    "Sold_YTD":28,
+    "MedianSoldPrice_YTD":349950.0,
+    "MedianSoldDOM_YTD":128.5,
+    "MedianSoldToOrigPct_YTD":-0.1313192674,
+    "MedianSoldToOrigDollar_YTD":-51095.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -121,11 +121,11 @@
   },
   {
     "Subdivision":"FOUR SEASONS FARM",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":301500.0,
-    "MedianSoldDOM_YTD":27.0,
-    "MedianSoldToOrigPct_YTD":-0.0201484792,
-    "MedianSoldToOrigDollar_YTD":-6000.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":297000.0,
+    "MedianSoldDOM_YTD":35.0,
+    "MedianSoldToOrigPct_YTD":-0.0262295082,
+    "MedianSoldToOrigDollar_YTD":-8000.0
   },
   {
     "Subdivision":"FOUR SEASONS FARM II",
@@ -177,11 +177,11 @@
   },
   {
     "Subdivision":"MEADOW WOODS",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":431625.0,
-    "MedianSoldDOM_YTD":111.0,
-    "MedianSoldToOrigPct_YTD":-0.050608145,
-    "MedianSoldToOrigDollar_YTD":-25874.5
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":400000.0,
+    "MedianSoldDOM_YTD":27.0,
+    "MedianSoldToOrigPct_YTD":-0.0333301111,
+    "MedianSoldToOrigDollar_YTD":-9999.0
   },
   {
     "Subdivision":"MEADOWS AT KYLE",
@@ -222,6 +222,14 @@
     "MedianSoldDOM_YTD":158.0,
     "MedianSoldToOrigPct_YTD":-0.0653061224,
     "MedianSoldToOrigDollar_YTD":-16000.0
+  },
+  {
+    "Subdivision":"OUT OF SA BEXAR CO",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":400000.0,
+    "MedianSoldDOM_YTD":25.0,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
   },
   {
     "Subdivision":"PARAMOUNT",
