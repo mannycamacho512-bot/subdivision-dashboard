@@ -49,11 +49,11 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":12,
-    "MedianSoldPrice_YTD":278250.0,
-    "MedianSoldDOM_YTD":63.5,
-    "MedianSoldToOrigPct_YTD":-0.0613576707,
-    "MedianSoldToOrigDollar_YTD":-19150.0
+    "Sold_YTD":13,
+    "MedianSoldPrice_YTD":276500.0,
+    "MedianSoldDOM_YTD":60.0,
+    "MedianSoldToOrigPct_YTD":-0.0623940319,
+    "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
     "Subdivision":"CASETTA RANCH",
@@ -273,9 +273,9 @@
   },
   {
     "Subdivision":"SILVERADO AT PLUM CREEK",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":269900.0,
-    "MedianSoldDOM_YTD":21.0,
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":271950.0,
+    "MedianSoldDOM_YTD":16.5,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
   },
