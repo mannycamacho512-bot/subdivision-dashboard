@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 93,
+    "homesAvailable": 92,
     "minPrice": 369000,
     "maxPrice": 799900,
     "medianPrice": null
@@ -24,14 +24,14 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 42,
+    "homesAvailable": 43,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
-    "homesAvailable": 1,
-    "minPrice": 645000,
+    "homesAvailable": 2,
+    "minPrice": 550000,
     "maxPrice": 645000,
     "medianPrice": null
   },
@@ -42,8 +42,8 @@
     "medianPrice": null
   },
   "BROOKS RANCH": {
-    "homesAvailable": 1,
-    "minPrice": 525000,
+    "homesAvailable": 2,
+    "minPrice": 455000,
     "maxPrice": 525000,
     "medianPrice": null
   },
@@ -80,11 +80,11 @@
   "COOL SPRINGS": {
     "homesAvailable": 3,
     "minPrice": 262000,
-    "maxPrice": 500000,
+    "maxPrice": 490000,
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 229000,
     "maxPrice": 235000,
     "medianPrice": null
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 38,
+    "homesAvailable": 42,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
@@ -132,7 +132,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 14,
+    "homesAvailable": 15,
     "minPrice": 289999,
     "maxPrice": 549000,
     "medianPrice": null
@@ -164,7 +164,7 @@
   "MEADOWS AT KYLE": {
     "homesAvailable": 3,
     "minPrice": 304900,
-    "maxPrice": 350000,
+    "maxPrice": 339500,
     "medianPrice": null
   },
   "MILLCREEK": {
@@ -174,9 +174,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 384990,
-    "maxPrice": 481990,
+    "maxPrice": 499990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -209,6 +209,12 @@
     "maxPrice": 443000,
     "medianPrice": null
   },
+  "PARKTON SQUARE": {
+    "homesAvailable": 8,
+    "minPrice": 357240,
+    "maxPrice": 434190,
+    "medianPrice": null
+  },
   "PAYNE INDUST PARK": {
     "homesAvailable": 2,
     "minPrice": 949999,
@@ -216,7 +222,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 60,
+    "homesAvailable": 62,
     "minPrice": 215990,
     "maxPrice": 549000,
     "medianPrice": null
@@ -235,7 +241,7 @@
   },
   "SAGE HOLLOW": {
     "homesAvailable": 11,
-    "minPrice": 329999,
+    "minPrice": 324999,
     "maxPrice": 494999,
     "medianPrice": null
   },
@@ -260,11 +266,11 @@
   "STEEPLECHASE": {
     "homesAvailable": 8,
     "minPrice": 219000,
-    "maxPrice": 369900,
+    "maxPrice": 349900,
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 330000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -289,12 +295,12 @@
   },
   "WATERLEAF": {
     "homesAvailable": 15,
-    "minPrice": 240000,
+    "minPrice": 205000,
     "maxPrice": 419990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 17,
+    "homesAvailable": 21,
     "minPrice": 198490,
     "maxPrice": 401190,
     "medianPrice": null
