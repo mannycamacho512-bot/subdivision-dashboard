@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":18,
-    "MedianSoldPrice_YTD":394990.0,
-    "MedianSoldDOM_YTD":95.0,
-    "MedianSoldToOrigPct_YTD":-0.0694239288,
-    "MedianSoldToOrigDollar_YTD":-29000.0
+    "Sold_YTD":19,
+    "MedianSoldPrice_YTD":399990.0,
+    "MedianSoldDOM_YTD":99.0,
+    "MedianSoldToOrigPct_YTD":-0.0714306123,
+    "MedianSoldToOrigDollar_YTD":-30000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":28,
-    "MedianSoldPrice_YTD":349950.0,
+    "Sold_YTD":30,
+    "MedianSoldPrice_YTD":352500.0,
     "MedianSoldDOM_YTD":128.5,
     "MedianSoldToOrigPct_YTD":-0.1313192674,
-    "MedianSoldToOrigDollar_YTD":-51095.0
+    "MedianSoldToOrigDollar_YTD":-54995.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -241,11 +241,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":38,
-    "MedianSoldPrice_YTD":321465.0,
-    "MedianSoldDOM_YTD":49.0,
-    "MedianSoldToOrigPct_YTD":-0.0756158358,
-    "MedianSoldToOrigDollar_YTD":-25195.0
+    "Sold_YTD":39,
+    "MedianSoldPrice_YTD":323990.0,
+    "MedianSoldDOM_YTD":51.0,
+    "MedianSoldToOrigPct_YTD":-0.0751831527,
+    "MedianSoldToOrigDollar_YTD":-23400.0
   },
   {
     "Subdivision":"POST OAK",
@@ -361,11 +361,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":42,
-    "MedianSoldPrice_YTD":304990.0,
-    "MedianSoldDOM_YTD":38.5,
-    "MedianSoldToOrigPct_YTD":-0.0703255019,
-    "MedianSoldToOrigDollar_YTD":-25500.0
+    "Sold_YTD":43,
+    "MedianSoldPrice_YTD":308990.0,
+    "MedianSoldDOM_YTD":39.0,
+    "MedianSoldToOrigPct_YTD":-0.0705762427,
+    "MedianSoldToOrigDollar_YTD":-26000.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
