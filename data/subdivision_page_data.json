@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 43,
+    "homesAvailable": 42,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -73,14 +73,14 @@
   },
   "COOL SPRINGS": {
     "homesAvailable": 3,
-    "minPrice": 262000,
+    "minPrice": 249900,
     "maxPrice": 490000,
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 229000,
-    "maxPrice": 235000,
+    "maxPrice": 299999,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 40,
+    "homesAvailable": 42,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
@@ -126,9 +126,9 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 289999,
-    "maxPrice": 549000,
+    "maxPrice": 484950,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
@@ -175,8 +175,8 @@
   },
   "OPAL RANCH": {
     "homesAvailable": 1,
-    "minPrice": 329990,
-    "maxPrice": 329990,
+    "minPrice": 324990,
+    "maxPrice": 324990,
     "medianPrice": null
   },
   "OUT HAYS": {
@@ -198,7 +198,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 39,
+    "homesAvailable": 37,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -216,7 +216,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 63,
+    "homesAvailable": 61,
     "minPrice": 222990,
     "maxPrice": 524900,
     "medianPrice": null
@@ -230,7 +230,7 @@
   "PRAIRIE ON THE CREEK": {
     "homesAvailable": 2,
     "minPrice": 265000,
-    "maxPrice": 300000,
+    "maxPrice": 290000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
@@ -270,8 +270,8 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 14,
-    "minPrice": 279990,
+    "homesAvailable": 17,
+    "minPrice": 269990,
     "maxPrice": 438000,
     "medianPrice": null
   },
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 240000,
     "maxPrice": 419990,
     "medianPrice": null
