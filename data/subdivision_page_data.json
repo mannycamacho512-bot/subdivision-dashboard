@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 89,
+    "homesAvailable": 88,
     "minPrice": 369000,
     "maxPrice": 799900,
     "medianPrice": null
@@ -18,13 +18,13 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 270000,
-    "maxPrice": 298000,
+    "maxPrice": 375000,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 42,
+    "homesAvailable": 41,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -33,6 +33,12 @@
     "homesAvailable": 2,
     "minPrice": 550000,
     "maxPrice": 645000,
+    "medianPrice": null
+  },
+  "BLAS M TENORIO": {
+    "homesAvailable": 1,
+    "minPrice": 95000,
+    "maxPrice": 95000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -96,8 +102,8 @@
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 5,
-    "minPrice": 484000,
+    "homesAvailable": 6,
+    "minPrice": 450000,
     "maxPrice": 630000,
     "medianPrice": null
   },
@@ -126,7 +132,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 289999,
     "maxPrice": 484950,
     "medianPrice": null
@@ -156,7 +162,7 @@
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 304900,
     "maxPrice": 339500,
     "medianPrice": null
@@ -174,9 +180,9 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 324990,
-    "maxPrice": 324990,
+    "maxPrice": 349990,
     "medianPrice": null
   },
   "OUT HAYS": {
@@ -216,7 +222,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 61,
+    "homesAvailable": 59,
     "minPrice": 222990,
     "maxPrice": 524900,
     "medianPrice": null
@@ -228,8 +234,8 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 2,
-    "minPrice": 265000,
+    "homesAvailable": 3,
+    "minPrice": 200000,
     "maxPrice": 290000,
     "medianPrice": null
   },
@@ -246,7 +252,7 @@
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 216000,
     "maxPrice": 289000,
     "medianPrice": null
@@ -270,8 +276,8 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 17,
-    "minPrice": 269990,
+    "homesAvailable": 18,
+    "minPrice": 273990,
     "maxPrice": 438000,
     "medianPrice": null
   },
@@ -288,7 +294,7 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 240000,
     "maxPrice": 419990,
     "medianPrice": null
