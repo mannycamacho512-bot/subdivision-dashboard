@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":42,
-    "MedianSoldPrice_YTD":497315.5,
-    "MedianSoldDOM_YTD":173.0,
-    "MedianSoldToOrigPct_YTD":-0.1436366998,
-    "MedianSoldToOrigDollar_YTD":-83764.5
+    "Sold_YTD":43,
+    "MedianSoldPrice_YTD":499000.0,
+    "MedianSoldDOM_YTD":166.0,
+    "MedianSoldToOrigPct_YTD":-0.1409289617,
+    "MedianSoldToOrigDollar_YTD":-83539.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -49,11 +49,11 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":276500.0,
-    "MedianSoldDOM_YTD":60.0,
-    "MedianSoldToOrigPct_YTD":-0.0623940319,
-    "MedianSoldToOrigDollar_YTD":-19900.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":273250.0,
+    "MedianSoldDOM_YTD":58.5,
+    "MedianSoldToOrigPct_YTD":-0.0613576707,
+    "MedianSoldToOrigDollar_YTD":-19150.0
   },
   {
     "Subdivision":"CASETTA RANCH",
@@ -193,11 +193,11 @@
   },
   {
     "Subdivision":"MILLCREEK",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":248000.0,
-    "MedianSoldDOM_YTD":41.0,
-    "MedianSoldToOrigPct_YTD":-0.0461538462,
-    "MedianSoldToOrigDollar_YTD":-12000.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":281000.0,
+    "MedianSoldDOM_YTD":29.0,
+    "MedianSoldToOrigPct_YTD":-0.0245059482,
+    "MedianSoldToOrigDollar_YTD":-6450.0
   },
   {
     "Subdivision":"OPAL MEADOWS",
@@ -241,7 +241,7 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":40,
+    "Sold_YTD":44,
     "MedianSoldPrice_YTD":325490.0,
     "MedianSoldDOM_YTD":51.0,
     "MedianSoldToOrigPct_YTD":-0.0729462105,
@@ -361,8 +361,8 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":43,
-    "MedianSoldPrice_YTD":308990.0,
+    "Sold_YTD":45,
+    "MedianSoldPrice_YTD":300990.0,
     "MedianSoldDOM_YTD":39.0,
     "MedianSoldToOrigPct_YTD":-0.0705762427,
     "MedianSoldToOrigDollar_YTD":-26000.0
