@@ -20,11 +20,11 @@
   "AMBERWOOD": {
     "homesAvailable": 4,
     "minPrice": 270000,
-    "maxPrice": 375000,
+    "maxPrice": 350000,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 41,
+    "homesAvailable": 40,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -33,12 +33,6 @@
     "homesAvailable": 2,
     "minPrice": 550000,
     "maxPrice": 645000,
-    "medianPrice": null
-  },
-  "BLAS M TENORIO": {
-    "homesAvailable": 1,
-    "minPrice": 95000,
-    "maxPrice": 95000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -84,25 +78,25 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 229000,
     "maxPrice": 299999,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
     "homesAvailable": 3,
-    "minPrice": 295000,
+    "minPrice": 284000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 42,
+    "homesAvailable": 43,
     "minPrice": 270000,
     "maxPrice": 724900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 450000,
     "maxPrice": 630000,
     "medianPrice": null
@@ -132,8 +126,8 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 13,
-    "minPrice": 289999,
+    "homesAvailable": 12,
+    "minPrice": 279999,
     "maxPrice": 484950,
     "medianPrice": null
   },
@@ -175,8 +169,8 @@
   },
   "OPAL MEADOWS": {
     "homesAvailable": 5,
-    "minPrice": 384990,
-    "maxPrice": 499990,
+    "minPrice": 364990,
+    "maxPrice": 481990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -204,7 +198,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 37,
+    "homesAvailable": 36,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -222,14 +216,14 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 59,
-    "minPrice": 222990,
+    "homesAvailable": 60,
+    "minPrice": 219990,
     "maxPrice": 524900,
     "medianPrice": null
   },
   "POST OAK": {
     "homesAvailable": 10,
-    "minPrice": 225000,
+    "minPrice": 220000,
     "maxPrice": 449000,
     "medianPrice": null
   },
@@ -240,13 +234,13 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
+    "homesAvailable": 14,
     "minPrice": 324999,
-    "maxPrice": 494999,
+    "maxPrice": 499999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 245000,
     "maxPrice": 325000,
     "medianPrice": null
@@ -254,7 +248,7 @@
   "SOUTHLAKE RANCH": {
     "homesAvailable": 4,
     "minPrice": 216000,
-    "maxPrice": 289000,
+    "maxPrice": 284000,
     "medianPrice": null
   },
   "STAGECOACH": {
@@ -264,19 +258,19 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 8,
+    "homesAvailable": 6,
     "minPrice": 219000,
-    "maxPrice": 349900,
+    "maxPrice": 303000,
     "medianPrice": null
   },
   "SUNSET HILLS": {
     "homesAvailable": 4,
-    "minPrice": 330000,
+    "minPrice": 320000,
     "maxPrice": 425000,
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 18,
+    "homesAvailable": 16,
     "minPrice": 273990,
     "maxPrice": 438000,
     "medianPrice": null
@@ -294,15 +288,15 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 240000,
     "maxPrice": 419990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 23,
+    "homesAvailable": 24,
     "minPrice": 194999,
-    "maxPrice": 401190,
+    "maxPrice": 399990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
