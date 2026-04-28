@@ -1,7 +1,7 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 88,
-    "minPrice": 369000,
+    "homesAvailable": 86,
+    "minPrice": 365000,
     "maxPrice": 799900,
     "medianPrice": null
   },
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 40,
+    "homesAvailable": 39,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -78,8 +78,8 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 5,
-    "minPrice": 229000,
+    "homesAvailable": 6,
+    "minPrice": 215000,
     "maxPrice": 299999,
     "medianPrice": null
   },
@@ -114,7 +114,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 275000,
     "maxPrice": 355000,
     "medianPrice": null
@@ -132,7 +132,7 @@
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 215000,
     "maxPrice": 334000,
     "medianPrice": null
@@ -204,8 +204,8 @@
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 8,
-    "minPrice": 357240,
+    "homesAvailable": 12,
+    "minPrice": 311490,
     "maxPrice": 434190,
     "medianPrice": null
   },
@@ -216,8 +216,8 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 60,
-    "minPrice": 219990,
+    "homesAvailable": 59,
+    "minPrice": 208990,
     "maxPrice": 524900,
     "medianPrice": null
   },
@@ -234,7 +234,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 14,
+    "homesAvailable": 15,
     "minPrice": 324999,
     "maxPrice": 499999,
     "medianPrice": null
@@ -251,14 +251,20 @@
     "maxPrice": 284000,
     "medianPrice": null
   },
+  "SPRING BRANCH": {
+    "homesAvailable": 1,
+    "minPrice": 257500,
+    "maxPrice": 257500,
+    "medianPrice": null
+  },
   "STAGECOACH": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 344990,
     "maxPrice": 479999,
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 219000,
     "maxPrice": 303000,
     "medianPrice": null
@@ -270,7 +276,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 16,
+    "homesAvailable": 15,
     "minPrice": 273990,
     "maxPrice": 438000,
     "medianPrice": null
@@ -294,8 +300,8 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 24,
-    "minPrice": 194999,
+    "homesAvailable": 21,
+    "minPrice": 205999,
     "maxPrice": 399990,
     "medianPrice": null
   },
