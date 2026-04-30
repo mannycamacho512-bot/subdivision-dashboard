@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":31,
-    "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":125.0,
-    "MedianSoldToOrigPct_YTD":-0.1279072742,
-    "MedianSoldToOrigDollar_YTD":-54990.0
+    "Sold_YTD":32,
+    "MedianSoldPrice_YTD":349950.0,
+    "MedianSoldDOM_YTD":128.5,
+    "MedianSoldToOrigPct_YTD":-0.12681078,
+    "MedianSoldToOrigDollar_YTD":-51095.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -241,11 +241,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":44,
-    "MedianSoldPrice_YTD":325490.0,
+    "Sold_YTD":45,
+    "MedianSoldPrice_YTD":326990.0,
     "MedianSoldDOM_YTD":51.0,
-    "MedianSoldToOrigPct_YTD":-0.0729462105,
-    "MedianSoldToOrigDollar_YTD":-23200.0
+    "MedianSoldToOrigPct_YTD":-0.0751831527,
+    "MedianSoldToOrigDollar_YTD":-23400.0
   },
   {
     "Subdivision":"POST OAK",
@@ -313,11 +313,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":198000.0,
-    "MedianSoldDOM_YTD":59.0,
-    "MedianSoldToOrigPct_YTD":-0.0797894973,
-    "MedianSoldToOrigDollar_YTD":-14000.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":239000.0,
+    "MedianSoldDOM_YTD":10.0,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
   },
   {
     "Subdivision":"SUNSET HILLS",
