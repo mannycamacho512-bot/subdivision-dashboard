@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 87,
+    "homesAvailable": 86,
     "minPrice": 365000,
     "maxPrice": 799900,
     "medianPrice": null
@@ -19,7 +19,7 @@
   },
   "AMBERWOOD": {
     "homesAvailable": 4,
-    "minPrice": 270000,
+    "minPrice": 260000,
     "maxPrice": 350000,
     "medianPrice": null
   },
@@ -144,7 +144,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 229999,
     "maxPrice": 425000,
     "medianPrice": null
@@ -192,7 +192,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 38,
+    "homesAvailable": 39,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -224,11 +224,11 @@
   "PRAIRIE ON THE CREEK": {
     "homesAvailable": 2,
     "minPrice": 265000,
-    "maxPrice": 290000,
+    "maxPrice": 280000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 324999,
     "maxPrice": 499999,
     "medianPrice": null
@@ -264,7 +264,7 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 320000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -278,7 +278,7 @@
   "THE TRAILS": {
     "homesAvailable": 3,
     "minPrice": 282844,
-    "maxPrice": 365000,
+    "maxPrice": 340000,
     "medianPrice": null
   },
   "UNDEFINED": {
@@ -289,19 +289,19 @@
   },
   "WATERLEAF": {
     "homesAvailable": 14,
-    "minPrice": 240000,
-    "maxPrice": 419990,
+    "minPrice": 235000,
+    "maxPrice": 399990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 21,
+    "homesAvailable": 22,
     "minPrice": 207999,
     "maxPrice": 399990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 5,
-    "minPrice": 280000,
+    "homesAvailable": 6,
+    "minPrice": 240000,
     "maxPrice": 324900,
     "medianPrice": null
   },
