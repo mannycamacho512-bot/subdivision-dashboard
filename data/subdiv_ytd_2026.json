@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":45,
-    "MedianSoldPrice_YTD":495631.0,
-    "MedianSoldDOM_YTD":161.0,
-    "MedianSoldToOrigPct_YTD":-0.1405067587,
-    "MedianSoldToOrigDollar_YTD":-80000.0
+    "Sold_YTD":46,
+    "MedianSoldPrice_YTD":492765.5,
+    "MedianSoldDOM_YTD":163.5,
+    "MedianSoldToOrigPct_YTD":-0.1407178602,
+    "MedianSoldToOrigDollar_YTD":-81769.5
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,17 +17,17 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":20,
-    "MedianSoldPrice_YTD":402990.0,
-    "MedianSoldDOM_YTD":101.0,
-    "MedianSoldToOrigPct_YTD":-0.0717985244,
-    "MedianSoldToOrigDollar_YTD":-31500.0
+    "Sold_YTD":21,
+    "MedianSoldPrice_YTD":399990.0,
+    "MedianSoldDOM_YTD":99.0,
+    "MedianSoldToOrigPct_YTD":-0.0721664364,
+    "MedianSoldToOrigDollar_YTD":-33000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":557750.0,
-    "MedianSoldDOM_YTD":17.0,
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":565500.0,
+    "MedianSoldDOM_YTD":25.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
   },
@@ -49,19 +49,19 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":14,
-    "MedianSoldPrice_YTD":273250.0,
-    "MedianSoldDOM_YTD":58.5,
-    "MedianSoldToOrigPct_YTD":-0.0613576707,
-    "MedianSoldToOrigDollar_YTD":-19150.0
+    "Sold_YTD":15,
+    "MedianSoldPrice_YTD":270000.0,
+    "MedianSoldDOM_YTD":57.0,
+    "MedianSoldToOrigPct_YTD":-0.0603213095,
+    "MedianSoldToOrigDollar_YTD":-18400.0
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":283642.5,
-    "MedianSoldDOM_YTD":197.5,
-    "MedianSoldToOrigPct_YTD":-0.080473766,
-    "MedianSoldToOrigDollar_YTD":-24782.5
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":296860.0,
+    "MedianSoldDOM_YTD":177.0,
+    "MedianSoldToOrigPct_YTD":-0.0776735226,
+    "MedianSoldToOrigDollar_YTD":-24565.0
   },
   {
     "Subdivision":"COOL SPRINGS",
@@ -233,19 +233,19 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":341995.0,
-    "MedianSoldDOM_YTD":50.5,
-    "MedianSoldToOrigPct_YTD":-0.0560778286,
-    "MedianSoldToOrigDollar_YTD":-23490.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":374990.0,
+    "MedianSoldDOM_YTD":96.0,
+    "MedianSoldToOrigPct_YTD":-0.0574279277,
+    "MedianSoldToOrigDollar_YTD":-24980.0
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":46,
-    "MedianSoldPrice_YTD":325490.0,
-    "MedianSoldDOM_YTD":51.0,
-    "MedianSoldToOrigPct_YTD":-0.0729462105,
-    "MedianSoldToOrigDollar_YTD":-23200.0
+    "Sold_YTD":49,
+    "MedianSoldPrice_YTD":318940.0,
+    "MedianSoldDOM_YTD":53.0,
+    "MedianSoldToOrigPct_YTD":-0.076048519,
+    "MedianSoldToOrigDollar_YTD":-24000.0
   },
   {
     "Subdivision":"POST OAK",
@@ -262,6 +262,14 @@
     "MedianSoldDOM_YTD":22.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
+  },
+  {
+    "Subdivision":"S9334 WATERLEAF",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":330000.0,
+    "MedianSoldDOM_YTD":28.0,
+    "MedianSoldToOrigPct_YTD":-0.0544412607,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"SAGE HOLLOW",
@@ -297,11 +305,11 @@
   },
   {
     "Subdivision":"STAGECOACH",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":347000.0,
-    "MedianSoldDOM_YTD":48.0,
-    "MedianSoldToOrigPct_YTD":-0.0196760128,
-    "MedianSoldToOrigDollar_YTD":-7450.0
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":345000.0,
+    "MedianSoldDOM_YTD":74.0,
+    "MedianSoldToOrigPct_YTD":-0.0264070419,
+    "MedianSoldToOrigDollar_YTD":-9900.0
   },
   {
     "Subdivision":"STAGECOACH CROSSING",
@@ -313,11 +321,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":239000.0,
-    "MedianSoldDOM_YTD":10.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":244500.0,
+    "MedianSoldDOM_YTD":7.5,
+    "MedianSoldToOrigPct_YTD":0.0094339623,
+    "MedianSoldToOrigDollar_YTD":2500.0
   },
   {
     "Subdivision":"SUNSET HILLS",
@@ -361,18 +369,18 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":46,
-    "MedianSoldPrice_YTD":304990.0,
-    "MedianSoldDOM_YTD":39.5,
-    "MedianSoldToOrigPct_YTD":-0.0703255019,
-    "MedianSoldToOrigDollar_YTD":-25500.0
+    "Sold_YTD":49,
+    "MedianSoldPrice_YTD":303990.0,
+    "MedianSoldDOM_YTD":41.0,
+    "MedianSoldToOrigPct_YTD":-0.0700747611,
+    "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":270999.5,
-    "MedianSoldDOM_YTD":68.0,
-    "MedianSoldToOrigPct_YTD":-0.0390568999,
-    "MedianSoldToOrigDollar_YTD":-10800.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":267000.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0385454545,
+    "MedianSoldToOrigDollar_YTD":-10600.0
   }
 ]
