@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":46,
+    "Sold_YTD":48,
     "MedianSoldPrice_YTD":492765.5,
-    "MedianSoldDOM_YTD":163.5,
-    "MedianSoldToOrigPct_YTD":-0.1407178602,
-    "MedianSoldToOrigDollar_YTD":-81769.5
+    "MedianSoldDOM_YTD":168.0,
+    "MedianSoldToOrigPct_YTD":-0.1401055762,
+    "MedianSoldToOrigDollar_YTD":-78685.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":32,
-    "MedianSoldPrice_YTD":349950.0,
-    "MedianSoldDOM_YTD":128.5,
-    "MedianSoldToOrigPct_YTD":-0.12681078,
-    "MedianSoldToOrigDollar_YTD":-51095.0
+    "Sold_YTD":33,
+    "MedianSoldPrice_YTD":349900.0,
+    "MedianSoldDOM_YTD":125.0,
+    "MedianSoldToOrigPct_YTD":-0.1257142857,
+    "MedianSoldToOrigDollar_YTD":-47200.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -241,11 +241,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":49,
+    "Sold_YTD":53,
     "MedianSoldPrice_YTD":318940.0,
-    "MedianSoldDOM_YTD":53.0,
-    "MedianSoldToOrigPct_YTD":-0.076048519,
-    "MedianSoldToOrigDollar_YTD":-24000.0
+    "MedianSoldDOM_YTD":51.0,
+    "MedianSoldToOrigPct_YTD":-0.0707092684,
+    "MedianSoldToOrigDollar_YTD":-23000.0
   },
   {
     "Subdivision":"POST OAK",
@@ -337,11 +337,11 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":290000.0,
-    "MedianSoldDOM_YTD":68.0,
-    "MedianSoldToOrigPct_YTD":-0.0449450827,
-    "MedianSoldToOrigDollar_YTD":-16000.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":309995.0,
+    "MedianSoldDOM_YTD":61.5,
+    "MedianSoldToOrigPct_YTD":-0.0353668936,
+    "MedianSoldToOrigDollar_YTD":-12500.0
   },
   {
     "Subdivision":"THE TRAILS",
@@ -369,10 +369,10 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":49,
+    "Sold_YTD":53,
     "MedianSoldPrice_YTD":303990.0,
-    "MedianSoldDOM_YTD":41.0,
-    "MedianSoldToOrigPct_YTD":-0.0700747611,
+    "MedianSoldDOM_YTD":40.0,
+    "MedianSoldToOrigPct_YTD":-0.0687115215,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
