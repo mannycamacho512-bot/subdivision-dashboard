@@ -1,14 +1,14 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 85,
-    "minPrice": 365000,
-    "maxPrice": 799900,
+    "homesAvailable": 84,
+    "minPrice": 360000,
+    "maxPrice": 774900,
     "medianPrice": null
   },
   "A0220 Z HINTON SURV": {
     "homesAvailable": 1,
-    "minPrice": 333000,
-    "maxPrice": 333000,
+    "minPrice": 310000,
+    "maxPrice": 310000,
     "medianPrice": null
   },
   "ALBERT PACE": {
@@ -30,9 +30,9 @@
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
-    "homesAvailable": 2,
+    "homesAvailable": 1,
     "minPrice": 550000,
-    "maxPrice": 645000,
+    "maxPrice": 550000,
     "medianPrice": null
   },
   "BROOKS CROSSING": {
@@ -132,7 +132,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 279999,
     "maxPrice": 484950,
     "medianPrice": null
@@ -162,9 +162,9 @@
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 2,
+    "homesAvailable": 1,
     "minPrice": 304900,
-    "maxPrice": 339500,
+    "maxPrice": 304900,
     "medianPrice": null
   },
   "MILLCREEK": {
@@ -235,7 +235,7 @@
   },
   "POST OAK": {
     "homesAvailable": 11,
-    "minPrice": 220000,
+    "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
   },
@@ -246,7 +246,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 329999,
     "maxPrice": 499999,
     "medianPrice": null
@@ -260,23 +260,23 @@
   "SOUTHLAKE RANCH": {
     "homesAvailable": 5,
     "minPrice": 216000,
-    "maxPrice": 284000,
+    "maxPrice": 279000,
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 257500,
-    "maxPrice": 257500,
+    "maxPrice": 281000,
     "medianPrice": null
   },
   "STAGECOACH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 310000,
     "maxPrice": 479999,
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 219000,
     "maxPrice": 303000,
     "medianPrice": null
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -312,8 +312,8 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 23,
-    "minPrice": 207999,
+    "homesAvailable": 24,
+    "minPrice": 203999,
     "maxPrice": 399990,
     "medianPrice": null
   },
