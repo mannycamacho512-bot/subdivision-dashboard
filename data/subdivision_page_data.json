@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 36,
+    "homesAvailable": 33,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -33,12 +33,6 @@
     "homesAvailable": 1,
     "minPrice": 550000,
     "maxPrice": 550000,
-    "medianPrice": null
-  },
-  "BROOKS CROSSING": {
-    "homesAvailable": 1,
-    "minPrice": 249999,
-    "maxPrice": 249999,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -90,13 +84,13 @@
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 284000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 48,
+    "homesAvailable": 47,
     "minPrice": 270000,
     "maxPrice": 699900,
     "medianPrice": null
@@ -150,7 +144,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -221,12 +215,6 @@
     "maxPrice": 434190,
     "medianPrice": null
   },
-  "PAYNE INDUST PARK": {
-    "homesAvailable": 2,
-    "minPrice": 949999,
-    "maxPrice": 949999,
-    "medianPrice": null
-  },
   "PLUM CREEK": {
     "homesAvailable": 58,
     "minPrice": 205990,
@@ -234,7 +222,7 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
@@ -246,7 +234,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 329999,
     "maxPrice": 499999,
     "medianPrice": null
@@ -306,14 +294,14 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 235000,
     "maxPrice": 399990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 24,
-    "minPrice": 203999,
+    "homesAvailable": 22,
+    "minPrice": 196999,
     "maxPrice": 399990,
     "medianPrice": null
   },
