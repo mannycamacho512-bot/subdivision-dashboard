@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 33,
+    "homesAvailable": 34,
     "minPrice": 274990,
     "maxPrice": 674890,
     "medianPrice": null
@@ -55,8 +55,8 @@
   },
   "CENTURY ACRES": {
     "homesAvailable": 1,
-    "minPrice": 1299000,
-    "maxPrice": 1299000,
+    "minPrice": 1189000,
+    "maxPrice": 1189000,
     "medianPrice": null
   },
   "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 47,
+    "homesAvailable": 48,
     "minPrice": 270000,
     "maxPrice": 699900,
     "medianPrice": null
@@ -113,6 +113,12 @@
     "maxPrice": 399000,
     "medianPrice": null
   },
+  "GRIST MILL HIGHLANDS": {
+    "homesAvailable": 1,
+    "minPrice": 280000,
+    "maxPrice": 280000,
+    "medianPrice": null
+  },
   "HARVEST CREEK": {
     "homesAvailable": 4,
     "minPrice": 275000,
@@ -120,19 +126,19 @@
     "medianPrice": null
   },
   "HIGH MEADOWS": {
-    "homesAvailable": 4,
-    "minPrice": 325000,
+    "homesAvailable": 3,
+    "minPrice": 400000,
     "maxPrice": 444900,
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 279999,
     "maxPrice": 484950,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 8,
+    "homesAvailable": 9,
     "minPrice": 215000,
     "maxPrice": 334000,
     "medianPrice": null
@@ -157,8 +163,8 @@
   },
   "MEADOWS AT KYLE": {
     "homesAvailable": 1,
-    "minPrice": 304900,
-    "maxPrice": 304900,
+    "minPrice": 299900,
+    "maxPrice": 299900,
     "medianPrice": null
   },
   "MILLCREEK": {
@@ -180,21 +186,15 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 2,
+    "homesAvailable": 5,
     "minPrice": 324990,
-    "maxPrice": 349990,
+    "maxPrice": 399990,
     "medianPrice": null
   },
   "OUT HAYS CO": {
     "homesAvailable": 1,
     "minPrice": 325000,
     "maxPrice": 325000,
-    "medianPrice": null
-  },
-  "OUT OF COUNTY SEE RE": {
-    "homesAvailable": 1,
-    "minPrice": 337000,
-    "maxPrice": 337000,
     "medianPrice": null
   },
   "PARAMONT": {
@@ -216,7 +216,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
+    "homesAvailable": 55,
     "minPrice": 205990,
     "maxPrice": 524900,
     "medianPrice": null
@@ -235,7 +235,7 @@
   },
   "SAGE HOLLOW": {
     "homesAvailable": 13,
-    "minPrice": 329999,
+    "minPrice": 324999,
     "maxPrice": 499999,
     "medianPrice": null
   },
@@ -270,7 +270,7 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 320000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -283,7 +283,7 @@
   },
   "THE TRAILS": {
     "homesAvailable": 3,
-    "minPrice": 282844,
+    "minPrice": 269900,
     "maxPrice": 340000,
     "medianPrice": null
   },
@@ -300,7 +300,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 22,
+    "homesAvailable": 20,
     "minPrice": 196999,
     "maxPrice": 399990,
     "medianPrice": null
