@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":21,
-    "MedianSoldPrice_YTD":399990.0,
-    "MedianSoldDOM_YTD":99.0,
-    "MedianSoldToOrigPct_YTD":-0.0721664364,
-    "MedianSoldToOrigDollar_YTD":-33000.0
+    "Sold_YTD":27,
+    "MedianSoldPrice_YTD":379990.0,
+    "MedianSoldDOM_YTD":110.0,
+    "MedianSoldToOrigPct_YTD":-0.0714306123,
+    "MedianSoldToOrigDollar_YTD":-28000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -49,11 +49,11 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":15,
+    "Sold_YTD":16,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":57.0,
-    "MedianSoldToOrigPct_YTD":-0.0603213095,
-    "MedianSoldToOrigDollar_YTD":-18400.0
+    "MedianSoldDOM_YTD":55.0,
+    "MedianSoldToOrigPct_YTD":-0.0585034357,
+    "MedianSoldToOrigDollar_YTD":-17700.0
   },
   {
     "Subdivision":"CASETTA RANCH",
@@ -369,11 +369,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":53,
-    "MedianSoldPrice_YTD":303990.0,
-    "MedianSoldDOM_YTD":40.0,
-    "MedianSoldToOrigPct_YTD":-0.0687115215,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "Sold_YTD":52,
+    "MedianSoldPrice_YTD":306490.0,
+    "MedianSoldDOM_YTD":39.5,
+    "MedianSoldToOrigPct_YTD":-0.0680549168,
+    "MedianSoldToOrigDollar_YTD":-24270.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
