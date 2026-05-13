@@ -1,9 +1,9 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":53,
+    "Sold_YTD":55,
     "MedianSoldPrice_YTD":478591.0,
-    "MedianSoldDOM_YTD":161.0,
+    "MedianSoldDOM_YTD":132.0,
     "MedianSoldToOrigPct_YTD":-0.1377245509,
     "MedianSoldToOrigDollar_YTD":-77000.0
   },
@@ -30,6 +30,14 @@
     "MedianSoldDOM_YTD":25.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
+  },
+  {
+    "Subdivision":"BRADFORD MEADOWS",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":325000.0,
+    "MedianSoldDOM_YTD":119.0,
+    "MedianSoldToOrigPct_YTD":-0.0298507463,
+    "MedianSoldToOrigDollar_YTD":-10000.0
   },
   {
     "Subdivision":"BROOKS CROSSING",
@@ -89,11 +97,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":37,
+    "Sold_YTD":39,
     "MedianSoldPrice_YTD":340800.0,
     "MedianSoldDOM_YTD":125.0,
-    "MedianSoldToOrigPct_YTD":-0.1216494845,
-    "MedianSoldToOrigDollar_YTD":-44950.0
+    "MedianSoldToOrigPct_YTD":-0.1027711507,
+    "MedianSoldToOrigDollar_YTD":-44000.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -153,11 +161,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":321000.0,
-    "MedianSoldDOM_YTD":93.0,
-    "MedianSoldToOrigPct_YTD":-0.030947171,
-    "MedianSoldToOrigDollar_YTD":-9900.0
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":323000.0,
+    "MedianSoldDOM_YTD":87.5,
+    "MedianSoldToOrigPct_YTD":-0.0430898646,
+    "MedianSoldToOrigDollar_YTD":-14450.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -224,14 +232,6 @@
     "MedianSoldToOrigDollar_YTD":-16000.0
   },
   {
-    "Subdivision":"OUT OF SA BEXAR CO",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":400000.0,
-    "MedianSoldDOM_YTD":25.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
-  },
-  {
     "Subdivision":"PARAMOUNT",
     "Sold_YTD":5,
     "MedianSoldPrice_YTD":374990.0,
@@ -241,11 +241,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":59,
-    "MedianSoldPrice_YTD":316990.0,
+    "Sold_YTD":60,
+    "MedianSoldPrice_YTD":317965.0,
     "MedianSoldDOM_YTD":51.0,
-    "MedianSoldToOrigPct_YTD":-0.0707092684,
-    "MedianSoldToOrigDollar_YTD":-23000.0
+    "MedianSoldToOrigPct_YTD":-0.0706487518,
+    "MedianSoldToOrigDollar_YTD":-22875.0
   },
   {
     "Subdivision":"POST OAK",
@@ -369,11 +369,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":53,
-    "MedianSoldPrice_YTD":303990.0,
-    "MedianSoldDOM_YTD":39.0,
-    "MedianSoldToOrigPct_YTD":-0.0687115215,
-    "MedianSoldToOrigDollar_YTD":-23540.0
+    "Sold_YTD":54,
+    "MedianSoldPrice_YTD":303490.0,
+    "MedianSoldDOM_YTD":39.5,
+    "MedianSoldToOrigPct_YTD":-0.0693931413,
+    "MedianSoldToOrigDollar_YTD":-24270.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
