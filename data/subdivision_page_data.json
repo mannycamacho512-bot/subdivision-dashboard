@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 41,
+    "homesAvailable": 42,
     "minPrice": 274990,
     "maxPrice": 670894,
     "medianPrice": null
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 51,
+    "homesAvailable": 49,
     "minPrice": 270000,
     "maxPrice": 694900,
     "medianPrice": null
@@ -186,9 +186,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 364990,
-    "maxPrice": 469990,
+    "maxPrice": 460990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -222,7 +222,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
+    "homesAvailable": 60,
     "minPrice": 227999,
     "maxPrice": 494500,
     "medianPrice": null
@@ -258,8 +258,8 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 2,
-    "minPrice": 257500,
+    "homesAvailable": 3,
+    "minPrice": 237500,
     "maxPrice": 281000,
     "medianPrice": null
   },
@@ -282,9 +282,9 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 320000,
-    "maxPrice": 425000,
+    "maxPrice": 415000,
     "medianPrice": null
   },
   "TALAVERA": {
