@@ -176,6 +176,14 @@
     "MedianSoldToOrigDollar_YTD":-15000.0
   },
   {
+    "Subdivision":"JOSE ADD",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":240000.0,
+    "MedianSoldDOM_YTD":145.0,
+    "MedianSoldToOrigPct_YTD":-0.04,
+    "MedianSoldToOrigDollar_YTD":-10000.0
+  },
+  {
     "Subdivision":"KENSINGTON TRAILS",
     "Sold_YTD":7,
     "MedianSoldPrice_YTD":270000.0,
@@ -284,6 +292,14 @@
     "Sold_YTD":2,
     "MedianSoldPrice_YTD":271950.0,
     "MedianSoldDOM_YTD":16.5,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
+  },
+  {
+    "Subdivision":"SOUTHBEND I",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":625000.0,
+    "MedianSoldDOM_YTD":44.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
   },
