@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 92,
+    "homesAvailable": 94,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -33,6 +33,18 @@
     "homesAvailable": 1,
     "minPrice": 550000,
     "maxPrice": 550000,
+    "medianPrice": null
+  },
+  "BLAS M TENORIO": {
+    "homesAvailable": 1,
+    "minPrice": 95000,
+    "maxPrice": 95000,
+    "medianPrice": null
+  },
+  "BRADFORD MEADOWS": {
+    "homesAvailable": 1,
+    "minPrice": 274900,
+    "maxPrice": 274900,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -79,18 +91,18 @@
   },
   "CREEKSIDE": {
     "homesAvailable": 4,
-    "minPrice": 228500,
+    "minPrice": 225000,
     "maxPrice": 299999,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 284000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 49,
+    "homesAvailable": 48,
     "minPrice": 270000,
     "maxPrice": 694900,
     "medianPrice": null
@@ -132,7 +144,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 279999,
     "maxPrice": 484950,
     "medianPrice": null
@@ -168,9 +180,9 @@
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 1,
+    "homesAvailable": 3,
     "minPrice": 299900,
-    "maxPrice": 299900,
+    "maxPrice": 305000,
     "medianPrice": null
   },
   "MILLCREEK": {
@@ -210,7 +222,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 40,
+    "homesAvailable": 42,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -222,7 +234,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 60,
+    "homesAvailable": 63,
     "minPrice": 227999,
     "maxPrice": 494500,
     "medianPrice": null
@@ -240,8 +252,8 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
-    "minPrice": 324999,
+    "homesAvailable": 11,
+    "minPrice": 349999,
     "maxPrice": 499999,
     "medianPrice": null
   },
@@ -294,8 +306,8 @@
     "medianPrice": null
   },
   "THE TRAILS": {
-    "homesAvailable": 3,
-    "minPrice": 269900,
+    "homesAvailable": 2,
+    "minPrice": 309900,
     "maxPrice": 340000,
     "medianPrice": null
   },
@@ -312,9 +324,9 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 17,
+    "homesAvailable": 23,
     "minPrice": 196999,
-    "maxPrice": 399990,
+    "maxPrice": 394990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
