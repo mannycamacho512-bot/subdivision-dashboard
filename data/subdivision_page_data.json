@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 94,
+    "homesAvailable": 89,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -20,11 +20,11 @@
   "AMBERWOOD": {
     "homesAvailable": 4,
     "minPrice": 260000,
-    "maxPrice": 350000,
+    "maxPrice": 349990,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 42,
+    "homesAvailable": 41,
     "minPrice": 274990,
     "maxPrice": 670894,
     "medianPrice": null
@@ -33,12 +33,6 @@
     "homesAvailable": 1,
     "minPrice": 550000,
     "maxPrice": 550000,
-    "medianPrice": null
-  },
-  "BLAS M TENORIO": {
-    "homesAvailable": 1,
-    "minPrice": 95000,
-    "maxPrice": 95000,
     "medianPrice": null
   },
   "BRADFORD MEADOWS": {
@@ -73,8 +67,8 @@
   },
   "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
     "homesAvailable": 1,
-    "minPrice": 1118000,
-    "maxPrice": 1118000,
+    "minPrice": 1079000,
+    "maxPrice": 1079000,
     "medianPrice": null
   },
   "CLARA VISTA AT WATERRIDGE SPRING COLLECTION": {
@@ -115,14 +109,14 @@
   },
   "FOUR OAKS": {
     "homesAvailable": 1,
-    "minPrice": 289000,
-    "maxPrice": 289000,
+    "minPrice": 284000,
+    "maxPrice": 284000,
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
     "homesAvailable": 3,
-    "minPrice": 285000,
-    "maxPrice": 350000,
+    "minPrice": 279000,
+    "maxPrice": 325000,
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
@@ -134,7 +128,7 @@
   "HARVEST CREEK": {
     "homesAvailable": 5,
     "minPrice": 228500,
-    "maxPrice": 355000,
+    "maxPrice": 350000,
     "medianPrice": null
   },
   "HIGH MEADOWS": {
@@ -162,7 +156,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 14,
+    "homesAvailable": 15,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -222,7 +216,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 42,
+    "homesAvailable": 38,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -240,20 +234,20 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 10,
+    "homesAvailable": 12,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 3,
-    "minPrice": 200000,
+    "homesAvailable": 2,
+    "minPrice": 255000,
     "maxPrice": 280000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
     "homesAvailable": 11,
-    "minPrice": 349999,
+    "minPrice": 350000,
     "maxPrice": 499999,
     "medianPrice": null
   },
@@ -295,7 +289,7 @@
   },
   "SUNSET HILLS": {
     "homesAvailable": 4,
-    "minPrice": 320000,
+    "minPrice": 310000,
     "maxPrice": 415000,
     "medianPrice": null
   },
@@ -306,8 +300,8 @@
     "medianPrice": null
   },
   "THE TRAILS": {
-    "homesAvailable": 2,
-    "minPrice": 309900,
+    "homesAvailable": 1,
+    "minPrice": 340000,
     "maxPrice": 340000,
     "medianPrice": null
   },
@@ -318,14 +312,14 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 16,
+    "homesAvailable": 17,
     "minPrice": 235000,
     "maxPrice": 389999,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 23,
-    "minPrice": 196999,
+    "homesAvailable": 22,
+    "minPrice": 214999,
     "maxPrice": 394990,
     "medianPrice": null
   },
