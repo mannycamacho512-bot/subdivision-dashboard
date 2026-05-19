@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 89,
+    "homesAvailable": 90,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -20,11 +20,11 @@
   "AMBERWOOD": {
     "homesAvailable": 4,
     "minPrice": 260000,
-    "maxPrice": 349990,
+    "maxPrice": 339990,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 41,
+    "homesAvailable": 39,
     "minPrice": 274990,
     "maxPrice": 670894,
     "medianPrice": null
@@ -48,7 +48,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 244900,
     "maxPrice": 315000,
     "medianPrice": null
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 48,
+    "homesAvailable": 47,
     "minPrice": 270000,
     "maxPrice": 694900,
     "medianPrice": null
@@ -234,14 +234,14 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 2,
-    "minPrice": 255000,
+    "homesAvailable": 1,
+    "minPrice": 280000,
     "maxPrice": 280000,
     "medianPrice": null
   },
@@ -264,9 +264,9 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 237500,
-    "maxPrice": 281000,
+    "maxPrice": 249900,
     "medianPrice": null
   },
   "STAGECOACH": {
@@ -314,11 +314,11 @@
   "WATERLEAF": {
     "homesAvailable": 17,
     "minPrice": 235000,
-    "maxPrice": 389999,
+    "maxPrice": 389990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 22,
+    "homesAvailable": 25,
     "minPrice": 214999,
     "maxPrice": 394990,
     "medianPrice": null
