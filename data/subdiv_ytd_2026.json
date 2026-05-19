@@ -97,11 +97,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":40,
-    "MedianSoldPrice_YTD":340400.0,
-    "MedianSoldDOM_YTD":119.5,
-    "MedianSoldToOrigPct_YTD":-0.1013855753,
-    "MedianSoldToOrigDollar_YTD":-39950.0
+    "Sold_YTD":41,
+    "MedianSoldPrice_YTD":340000.0,
+    "MedianSoldDOM_YTD":125.0,
+    "MedianSoldToOrigPct_YTD":-0.1027711507,
+    "MedianSoldToOrigDollar_YTD":-44000.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -393,11 +393,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":57,
-    "MedianSoldPrice_YTD":302990.0,
+    "Sold_YTD":59,
+    "MedianSoldPrice_YTD":300990.0,
     "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0687115215,
-    "MedianSoldToOrigDollar_YTD":-23540.0
+    "MedianSoldToOrigPct_YTD":-0.0700747611,
+    "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
