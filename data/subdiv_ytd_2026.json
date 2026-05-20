@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":55,
-    "MedianSoldPrice_YTD":478591.0,
+    "Sold_YTD":57,
+    "MedianSoldPrice_YTD":473638.0,
     "MedianSoldDOM_YTD":132.0,
-    "MedianSoldToOrigPct_YTD":-0.1377245509,
-    "MedianSoldToOrigDollar_YTD":-77000.0
+    "MedianSoldToOrigPct_YTD":-0.1374308074,
+    "MedianSoldToOrigDollar_YTD":-75000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":291650.0,
-    "MedianSoldDOM_YTD":128.0,
-    "MedianSoldToOrigPct_YTD":-0.0756088601,
-    "MedianSoldToOrigDollar_YTD":-22850.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":303000.0,
+    "MedianSoldDOM_YTD":100.0,
+    "MedianSoldToOrigPct_YTD":-0.0702341137,
+    "MedianSoldToOrigDollar_YTD":-21000.0
   },
   {
     "Subdivision":"CROSSWINDS",
@@ -377,9 +377,9 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":299900.0,
-    "MedianSoldDOM_YTD":49.0,
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":287450.0,
+    "MedianSoldDOM_YTD":39.5,
     "MedianSoldToOrigPct_YTD":-0.0714285714,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
