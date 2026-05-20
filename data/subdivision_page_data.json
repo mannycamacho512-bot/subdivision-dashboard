@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 90,
+    "homesAvailable": 92,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -27,6 +27,12 @@
     "homesAvailable": 39,
     "minPrice": 274990,
     "maxPrice": 670894,
+    "medianPrice": null
+  },
+  "ARROYO RANCH": {
+    "homesAvailable": 1,
+    "minPrice": 539000,
+    "maxPrice": 539000,
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
@@ -114,7 +120,7 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 279000,
     "maxPrice": 325000,
     "medianPrice": null
@@ -126,7 +132,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 228500,
     "maxPrice": 350000,
     "medianPrice": null
@@ -156,7 +162,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -169,8 +175,8 @@
   },
   "MEADOW WOODS": {
     "homesAvailable": 1,
-    "minPrice": 485000,
-    "maxPrice": 485000,
+    "minPrice": 465000,
+    "maxPrice": 465000,
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
@@ -216,7 +222,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 38,
+    "homesAvailable": 37,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -241,8 +247,8 @@
   },
   "PRAIRIE ON THE CREEK": {
     "homesAvailable": 1,
-    "minPrice": 280000,
-    "maxPrice": 280000,
+    "minPrice": 270000,
+    "maxPrice": 270000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
@@ -282,8 +288,8 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 7,
-    "minPrice": 225000,
+    "homesAvailable": 8,
+    "minPrice": 219000,
     "maxPrice": 303000,
     "medianPrice": null
   },
@@ -299,12 +305,6 @@
     "maxPrice": 394999,
     "medianPrice": null
   },
-  "THE TRAILS": {
-    "homesAvailable": 1,
-    "minPrice": 340000,
-    "maxPrice": 340000,
-    "medianPrice": null
-  },
   "UNDEFINED": {
     "homesAvailable": 1,
     "minPrice": 385000,
@@ -318,7 +318,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 25,
+    "homesAvailable": 27,
     "minPrice": 214999,
     "maxPrice": 394990,
     "medianPrice": null
