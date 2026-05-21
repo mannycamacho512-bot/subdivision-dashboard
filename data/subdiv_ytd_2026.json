@@ -65,11 +65,19 @@
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":296860.0,
-    "MedianSoldDOM_YTD":177.0,
-    "MedianSoldToOrigPct_YTD":-0.0776735226,
-    "MedianSoldToOrigDollar_YTD":-24565.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":283642.5,
+    "MedianSoldDOM_YTD":197.5,
+    "MedianSoldToOrigPct_YTD":-0.080473766,
+    "MedianSoldToOrigDollar_YTD":-24782.5
+  },
+  {
+    "Subdivision":"CENTURY ACRES",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":1094400.0,
+    "MedianSoldDOM_YTD":15.0,
+    "MedianSoldToOrigPct_YTD":-0.12448,
+    "MedianSoldToOrigDollar_YTD":-155600.0
   },
   {
     "Subdivision":"COOL SPRINGS",
@@ -185,11 +193,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":7,
+    "Sold_YTD":8,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":18.0,
-    "MedianSoldToOrigPct_YTD":-0.0178246635,
-    "MedianSoldToOrigDollar_YTD":-4900.0
+    "MedianSoldDOM_YTD":13.0,
+    "MedianSoldToOrigPct_YTD":-0.0103424662,
+    "MedianSoldToOrigDollar_YTD":-2907.5
   },
   {
     "Subdivision":"MEADOW WOODS",
