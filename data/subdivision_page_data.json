@@ -132,7 +132,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 228500,
     "maxPrice": 350000,
     "medianPrice": null
@@ -186,9 +186,9 @@
     "medianPrice": null
   },
   "MILLCREEK": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 240000,
-    "maxPrice": 240000,
+    "maxPrice": 255000,
     "medianPrice": null
   },
   "NEIGHBORHOOD": {
@@ -222,7 +222,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 37,
+    "homesAvailable": 38,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -235,7 +235,7 @@
   },
   "PLUM CREEK": {
     "homesAvailable": 63,
-    "minPrice": 227999,
+    "minPrice": 226999,
     "maxPrice": 494500,
     "medianPrice": null
   },
@@ -288,9 +288,9 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 8,
+    "homesAvailable": 9,
     "minPrice": 219000,
-    "maxPrice": 303000,
+    "maxPrice": 329900,
     "medianPrice": null
   },
   "SUNSET HILLS": {
@@ -318,8 +318,8 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 27,
-    "minPrice": 214999,
+    "homesAvailable": 26,
+    "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
   },
