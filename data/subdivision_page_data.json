@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 92,
+    "homesAvailable": 93,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -18,14 +18,14 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 260000,
-    "maxPrice": 339990,
+    "maxPrice": 329990,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 39,
-    "minPrice": 274990,
+    "homesAvailable": 37,
+    "minPrice": 279990,
     "maxPrice": 670894,
     "medianPrice": null
   },
@@ -36,15 +36,21 @@
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 550000,
-    "maxPrice": 550000,
+    "maxPrice": 650000,
     "medianPrice": null
   },
   "BRADFORD MEADOWS": {
     "homesAvailable": 1,
-    "minPrice": 274900,
-    "maxPrice": 274900,
+    "minPrice": 264900,
+    "maxPrice": 264900,
+    "medianPrice": null
+  },
+  "BROOKS CROSSING": {
+    "homesAvailable": 1,
+    "minPrice": 249999,
+    "maxPrice": 249999,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -54,13 +60,13 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 10,
-    "minPrice": 244900,
+    "homesAvailable": 11,
+    "minPrice": 234000,
     "maxPrice": 315000,
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 15,
+    "homesAvailable": 16,
     "minPrice": 249990,
     "maxPrice": 326990,
     "medianPrice": null
@@ -86,7 +92,7 @@
   "COOL SPRINGS": {
     "homesAvailable": 3,
     "minPrice": 249900,
-    "maxPrice": 490000,
+    "maxPrice": 480000,
     "medianPrice": null
   },
   "CREEKSIDE": {
@@ -96,20 +102,20 @@
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 284000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 47,
+    "homesAvailable": 45,
     "minPrice": 270000,
     "maxPrice": 694900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
     "homesAvailable": 5,
-    "minPrice": 450000,
+    "minPrice": 449000,
     "maxPrice": 630000,
     "medianPrice": null
   },
@@ -120,9 +126,9 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 4,
-    "minPrice": 279000,
-    "maxPrice": 325000,
+    "homesAvailable": 5,
+    "minPrice": 285000,
+    "maxPrice": 375000,
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
@@ -144,8 +150,8 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 13,
-    "minPrice": 279999,
+    "homesAvailable": 12,
+    "minPrice": 275000,
     "maxPrice": 484950,
     "medianPrice": null
   },
@@ -156,13 +162,13 @@
     "medianPrice": null
   },
   "INFINITY SQUARE": {
-    "homesAvailable": 6,
-    "minPrice": 314990,
+    "homesAvailable": 5,
+    "minPrice": 319990,
     "maxPrice": 379990,
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 14,
+    "homesAvailable": 15,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -174,13 +180,13 @@
     "medianPrice": null
   },
   "MEADOW WOODS": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 465000,
-    "maxPrice": 465000,
+    "maxPrice": 469000,
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 299900,
     "maxPrice": 305000,
     "medianPrice": null
@@ -198,9 +204,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 3,
+    "homesAvailable": 7,
     "minPrice": 364990,
-    "maxPrice": 460990,
+    "maxPrice": 473990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -210,9 +216,9 @@
     "medianPrice": null
   },
   "OUT HAYS CO": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 315000,
-    "maxPrice": 315000,
+    "maxPrice": 400000,
     "medianPrice": null
   },
   "PARAMONT": {
@@ -222,32 +228,32 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 38,
+    "homesAvailable": 41,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 311490,
     "maxPrice": 434190,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 63,
+    "homesAvailable": 69,
     "minPrice": 226999,
     "maxPrice": 494500,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 1,
-    "minPrice": 270000,
+    "homesAvailable": 2,
+    "minPrice": 200000,
     "maxPrice": 270000,
     "medianPrice": null
   },
@@ -266,7 +272,7 @@
   "SOUTHLAKE RANCH": {
     "homesAvailable": 5,
     "minPrice": 216000,
-    "maxPrice": 279000,
+    "maxPrice": 269900,
     "medianPrice": null
   },
   "SPRING BRANCH": {
@@ -288,7 +294,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 219000,
     "maxPrice": 329900,
     "medianPrice": null
@@ -300,7 +306,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -312,13 +318,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 17,
+    "homesAvailable": 18,
     "minPrice": 235000,
     "maxPrice": 389990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 26,
+    "homesAvailable": 28,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
