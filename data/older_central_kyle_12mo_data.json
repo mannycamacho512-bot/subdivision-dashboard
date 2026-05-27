@@ -1,1 +1,26 @@
-
+[
+  {
+    "Subdivision":"JOSE ADDITION",
+    "Sold_12Mo":3,
+    "MedianSoldPrice_12Mo":160000.0,
+    "MedianSoldDOM_12Mo":64.0,
+    "MedianSoldToOrigPct_12Mo":-0.04,
+    "MedianSoldToOrigDollar_12Mo":-10000.0
+  },
+  {
+    "Subdivision":"D.A. YOUNG",
+    "Sold_12Mo":0,
+    "MedianSoldPrice_12Mo":null,
+    "MedianSoldDOM_12Mo":null,
+    "MedianSoldToOrigPct_12Mo":null,
+    "MedianSoldToOrigDollar_12Mo":null
+  },
+  {
+    "Subdivision":"ORIGINAL TOWN KYLE",
+    "Sold_12Mo":0,
+    "MedianSoldPrice_12Mo":null,
+    "MedianSoldDOM_12Mo":null,
+    "MedianSoldToOrigPct_12Mo":null,
+    "MedianSoldToOrigDollar_12Mo":null
+  }
+]
