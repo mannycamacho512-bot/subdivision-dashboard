@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 93,
+    "homesAvailable": 94,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 249900,
     "maxPrice": 480000,
     "medianPrice": null
@@ -168,7 +168,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 15,
+    "homesAvailable": 13,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -253,12 +253,12 @@
   },
   "PRAIRIE ON THE CREEK": {
     "homesAvailable": 2,
-    "minPrice": 200000,
+    "minPrice": 199999,
     "maxPrice": 270000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 350000,
     "maxPrice": 499999,
     "medianPrice": null
@@ -276,9 +276,9 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 2,
-    "minPrice": 237500,
-    "maxPrice": 249900,
+    "homesAvailable": 3,
+    "minPrice": 225000,
+    "maxPrice": 269000,
     "medianPrice": null
   },
   "STAGECOACH": {
@@ -294,7 +294,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 219000,
     "maxPrice": 329900,
     "medianPrice": null
@@ -306,7 +306,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -318,19 +318,19 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 18,
-    "minPrice": 235000,
+    "homesAvailable": 16,
+    "minPrice": 239000,
     "maxPrice": 389990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 28,
+    "homesAvailable": 27,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 240000,
     "maxPrice": 310000,
     "medianPrice": null
