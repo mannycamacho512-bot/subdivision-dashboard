@@ -2,6 +2,30 @@
 
 const params = new URLSearchParams(window.location.search);
 const subdivision = (params.get("sub") || "").toUpperCase().trim();
+const dataset = (params.get("dataset") || "ytd").toLowerCase().trim();
+const isOlderCentralKyle = dataset === "older-central-kyle";
+
+const dataFile = isOlderCentralKyle
+  ? "./data/older_central_kyle_12mo_data.json"
+  : "./data/subdiv_ytd_2026.json";
+
+const fieldNames = isOlderCentralKyle
+  ? {
+      sold: "Sold_12Mo",
+      medianPrice: "MedianSoldPrice_12Mo",
+      medianDom: "MedianSoldDOM_12Mo",
+      soldToOrigPct: "MedianSoldToOrigPct_12Mo",
+      soldToOrigDollar: "MedianSoldToOrigDollar_12Mo",
+      label: "Last 12 Months"
+    }
+  : {
+      sold: "Sold_YTD",
+      medianPrice: "MedianSoldPrice_YTD",
+      medianDom: "MedianSoldDOM_YTD",
+      soldToOrigPct: "MedianSoldToOrigPct_YTD",
+      soldToOrigDollar: "MedianSoldToOrigDollar_YTD",
+      label: "YTD"
+    };
 
 // ---------- formatting helpers ----------
 function money(n) {
@@ -28,7 +52,7 @@ function clamp(n, min, max) {
 
 // ---------- data loading ----------
 async function loadData() {
-  const res = await fetch("./data/subdiv_ytd_2026.json", { cache: "no-store" });
+  const res = await fetch(dataFile, { cache: "no-store" });
   if (!res.ok) throw new Error("Could not load data file.");
   const data = await res.json();
   if (!Array.isArray(data)) throw new Error("Data file is not an array of rows.");
@@ -97,7 +121,7 @@ function percentile(sorted, p) {
 
 function computeBand(data) {
   const prices = data
-    .map((r) => Number(r.MedianSoldPrice_YTD))
+    .map((r) => Number(r[fieldNames.medianPrice]))
     .filter((v) => Number.isFinite(v) && v > 0)
     .sort((a, b) => a - b);
 
@@ -111,11 +135,11 @@ function computeBand(data) {
 function renderCards(row, band) {
   const container = document.getElementById("dashboard");
 
-  const sold = Number(row.Sold_YTD || 0);
-  const price = Number(row.MedianSoldPrice_YTD || 0);
+  const sold = Number(row[fieldNames.sold] || 0);
+const price = Number(row[fieldNames.medianPrice] || 0);
 
-  // CLOSED discount from original list (negative means below original list)
-  const closedDiff = Number(row.MedianSoldToOrigPct_YTD ?? NaN); // ex: -0.0416 = -4.16%
+// CLOSED discount from original list (negative means below original list)
+const closedDiff = Number(row[fieldNames.soldToOrigPct] ?? NaN); // ex: -0.0416 = -4.16%
   const hasClosedDiff = Number.isFinite(closedDiff);
 
   const closedPct = hasClosedDiff ? Math.abs(closedDiff) * 100 : NaN;
@@ -193,9 +217,9 @@ function renderCards(row, band) {
         <!-- KPI row -->
         <div class="grid">
           <div class="card">
-            <div class="label">Sold (YTD)</div>
+            <div class="label">Sold (${fieldNames.label})</div>
             <div class="value">${num(sold)}</div>
-            <div class="sub">Homes sold so far this year</div>
+            <div class="sub">${isOlderCentralKyle ? "Homes sold in the last 12 months" : "Homes sold so far this year"}</div>
           </div>
 
           <div class="card">
@@ -221,7 +245,7 @@ function renderCards(row, band) {
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
               <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
             </div>
-            <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
+            <div class="sub" style="margin-top:8px;">${num(sold)} sales ${fieldNames.label}</div>
           </div>
 
           <!-- under Median Sold Price -->
@@ -253,9 +277,9 @@ function renderCards(row, band) {
 
           <!-- Sold → Activity -->
           <div class="card">
-            <div class="label">Sold (YTD)</div>
+            <div class="label">Sold (${fieldNames.label})</div>
             <div class="value">${num(sold)}</div>
-            <div class="sub">Homes sold so far this year</div>
+            <div class="sub">${isOlderCentralKyle ? "Homes sold in the last 12 months" : "Homes sold so far this year"}</div>
           </div>
 
           <div class="card">
@@ -264,7 +288,7 @@ function renderCards(row, band) {
             <div style="height:10px; background:${barTrack}; border-radius:8px; overflow:hidden;">
               <div style="width:${activityPct}%; height:100%; background:${barFill};"></div>
             </div>
-            <div class="sub" style="margin-top:8px;">${num(sold)} sales YTD</div>
+            <div class="sub" style="margin-top:8px;">${num(sold)} sales ${fieldNames.label}</div>
           </div>
 
           <!-- Price → Position -->
