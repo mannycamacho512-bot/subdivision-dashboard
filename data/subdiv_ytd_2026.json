@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":57,
-    "MedianSoldPrice_YTD":473638.0,
-    "MedianSoldDOM_YTD":132.0,
-    "MedianSoldToOrigPct_YTD":-0.1374308074,
-    "MedianSoldToOrigDollar_YTD":-75000.0
+    "Sold_YTD":61,
+    "MedianSoldPrice_YTD":478591.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.1335782267,
+    "MedianSoldToOrigDollar_YTD":-72000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -57,11 +57,11 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":16,
+    "Sold_YTD":17,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":55.0,
-    "MedianSoldToOrigPct_YTD":-0.0585034357,
-    "MedianSoldToOrigDollar_YTD":-17700.0
+    "MedianSoldDOM_YTD":53.0,
+    "MedianSoldToOrigPct_YTD":-0.0566855619,
+    "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"CASETTA RANCH",
@@ -265,11 +265,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":63,
-    "MedianSoldPrice_YTD":318940.0,
-    "MedianSoldDOM_YTD":48.0,
-    "MedianSoldToOrigPct_YTD":-0.0705882353,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "Sold_YTD":64,
+    "MedianSoldPrice_YTD":317965.0,
+    "MedianSoldDOM_YTD":49.5,
+    "MedianSoldToOrigPct_YTD":-0.0706487518,
+    "MedianSoldToOrigDollar_YTD":-21375.0
   },
   {
     "Subdivision":"POST OAK",
@@ -385,9 +385,9 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":11,
-    "MedianSoldPrice_YTD":275000.0,
-    "MedianSoldDOM_YTD":49.0,
+    "Sold_YTD":12,
+    "MedianSoldPrice_YTD":269950.0,
+    "MedianSoldDOM_YTD":39.5,
     "MedianSoldToOrigPct_YTD":-0.0714285714,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
@@ -401,11 +401,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":59,
+    "Sold_YTD":61,
     "MedianSoldPrice_YTD":300990.0,
-    "MedianSoldDOM_YTD":38.0,
+    "MedianSoldDOM_YTD":37.0,
     "MedianSoldToOrigPct_YTD":-0.0700747611,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "MedianSoldToOrigDollar_YTD":-24491.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
