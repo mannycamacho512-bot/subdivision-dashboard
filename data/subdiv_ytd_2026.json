@@ -1,10 +1,10 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":61,
-    "MedianSoldPrice_YTD":478591.0,
-    "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.1335782267,
+    "Sold_YTD":62,
+    "MedianSoldPrice_YTD":476745.5,
+    "MedianSoldDOM_YTD":121.5,
+    "MedianSoldToOrigPct_YTD":-0.1325638138,
     "MedianSoldToOrigDollar_YTD":-72000.0
   },
   {
@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":30,
-    "MedianSoldPrice_YTD":374990.0,
-    "MedianSoldDOM_YTD":106.5,
-    "MedianSoldToOrigPct_YTD":-0.0717985244,
-    "MedianSoldToOrigDollar_YTD":-29000.0
+    "Sold_YTD":31,
+    "MedianSoldPrice_YTD":379990.0,
+    "MedianSoldDOM_YTD":103.0,
+    "MedianSoldToOrigPct_YTD":-0.0714306123,
+    "MedianSoldToOrigDollar_YTD":-28000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -281,11 +281,11 @@
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":22.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":268500.0,
+    "MedianSoldDOM_YTD":13.5,
+    "MedianSoldToOrigPct_YTD":0.03,
+    "MedianSoldToOrigDollar_YTD":6000.0
   },
   {
     "Subdivision":"S9334 WATERLEAF",
@@ -353,11 +353,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":244500.0,
-    "MedianSoldDOM_YTD":7.5,
-    "MedianSoldToOrigPct_YTD":0.0094339623,
-    "MedianSoldToOrigDollar_YTD":2500.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":250000.0,
+    "MedianSoldDOM_YTD":10.0,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
   },
   {
     "Subdivision":"SUNSET HILLS",
