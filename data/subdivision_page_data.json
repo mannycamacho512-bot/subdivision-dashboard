@@ -1,8 +1,14 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 93,
+    "homesAvailable": 92,
     "minPrice": 360000,
     "maxPrice": 785000,
+    "medianPrice": null
+  },
+  "A0220 A0220 Z HINTON SURVEY": {
+    "homesAvailable": 1,
+    "minPrice": 96500,
+    "maxPrice": 96500,
     "medianPrice": null
   },
   "A0220 Z HINTON SURV": {
@@ -24,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 38,
+    "homesAvailable": 36,
     "minPrice": 279990,
     "maxPrice": 670894,
     "medianPrice": null
@@ -41,12 +47,6 @@
     "maxPrice": 650000,
     "medianPrice": null
   },
-  "BRADFORD MEADOWS": {
-    "homesAvailable": 1,
-    "minPrice": 264900,
-    "maxPrice": 264900,
-    "medianPrice": null
-  },
   "BROOKS CROSSING": {
     "homesAvailable": 2,
     "minPrice": 249999,
@@ -60,7 +60,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 10,
+    "homesAvailable": 11,
     "minPrice": 234000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -78,8 +78,8 @@
     "medianPrice": null
   },
   "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
-    "homesAvailable": 1,
-    "minPrice": 1059000,
+    "homesAvailable": 4,
+    "minPrice": 899000,
     "maxPrice": 1059000,
     "medianPrice": null
   },
@@ -90,8 +90,8 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 5,
-    "minPrice": 249900,
+    "homesAvailable": 4,
+    "minPrice": 267000,
     "maxPrice": 480000,
     "medianPrice": null
   },
@@ -102,13 +102,13 @@
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 5,
-    "minPrice": 284000,
+    "homesAvailable": 6,
+    "minPrice": 265000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 45,
+    "homesAvailable": 43,
     "minPrice": 270000,
     "maxPrice": 684900,
     "medianPrice": null
@@ -121,12 +121,12 @@
   },
   "FOUR OAKS": {
     "homesAvailable": 1,
-    "minPrice": 284000,
-    "maxPrice": 284000,
+    "minPrice": 269900,
+    "maxPrice": 269900,
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 280000,
     "maxPrice": 375000,
     "medianPrice": null
@@ -150,8 +150,8 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 12,
-    "minPrice": 275000,
+    "homesAvailable": 11,
+    "minPrice": 280000,
     "maxPrice": 484950,
     "medianPrice": null
   },
@@ -222,8 +222,8 @@
     "medianPrice": null
   },
   "OUT HAYS CO": {
-    "homesAvailable": 2,
-    "minPrice": 315000,
+    "homesAvailable": 3,
+    "minPrice": 265000,
     "maxPrice": 400000,
     "medianPrice": null
   },
@@ -234,26 +234,26 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 40,
+    "homesAvailable": 37,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 311490,
     "maxPrice": 434190,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 70,
+    "homesAvailable": 67,
     "minPrice": 226999,
     "maxPrice": 494500,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
-    "minPrice": 215000,
+    "homesAvailable": 13,
+    "minPrice": 199000,
     "maxPrice": 449000,
     "medianPrice": null
   },
@@ -270,25 +270,25 @@
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 245000,
-    "maxPrice": 425000,
+    "maxPrice": 325000,
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 216000,
     "maxPrice": 269900,
     "medianPrice": null
   },
   "SPRING BRANCH": {
     "homesAvailable": 3,
-    "minPrice": 225000,
-    "maxPrice": 269000,
+    "minPrice": 249900,
+    "maxPrice": 399999,
     "medianPrice": null
   },
   "STAGECOACH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 310000,
     "maxPrice": 485000,
     "medianPrice": null
@@ -306,7 +306,7 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 310000,
     "maxPrice": 415000,
     "medianPrice": null
@@ -324,21 +324,21 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 16,
+    "homesAvailable": 14,
     "minPrice": 239000,
     "maxPrice": 399900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 28,
+    "homesAvailable": 27,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 240000,
-    "maxPrice": 300000,
+    "maxPrice": 317500,
     "medianPrice": null
   },
   "Z HINTON ABS": {
