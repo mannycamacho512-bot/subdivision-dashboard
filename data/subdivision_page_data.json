@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 92,
+    "homesAvailable": 91,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -30,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 36,
+    "homesAvailable": 35,
     "minPrice": 279990,
     "maxPrice": 670894,
     "medianPrice": null
@@ -60,7 +60,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 234000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -108,7 +108,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 43,
+    "homesAvailable": 44,
     "minPrice": 270000,
     "maxPrice": 684900,
     "medianPrice": null
@@ -151,7 +151,7 @@
   },
   "HOMETOWN KYLE": {
     "homesAvailable": 11,
-    "minPrice": 280000,
+    "minPrice": 255000,
     "maxPrice": 484950,
     "medianPrice": null
   },
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 364990,
     "maxPrice": 473990,
     "medianPrice": null
@@ -219,6 +219,12 @@
     "homesAvailable": 4,
     "minPrice": 339990,
     "maxPrice": 389990,
+    "medianPrice": null
+  },
+  "ORIGINAL TOWN KYLE": {
+    "homesAvailable": 1,
+    "minPrice": 265000,
+    "maxPrice": 265000,
     "medianPrice": null
   },
   "OUT HAYS CO": {
@@ -234,7 +240,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 37,
+    "homesAvailable": 36,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -330,14 +336,14 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 27,
+    "homesAvailable": 25,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 5,
-    "minPrice": 240000,
+    "homesAvailable": 3,
+    "minPrice": 270000,
     "maxPrice": 317500,
     "medianPrice": null
   },
