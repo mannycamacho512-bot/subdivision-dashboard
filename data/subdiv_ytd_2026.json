@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":64,
-    "MedianSoldPrice_YTD":482440.5,
-    "MedianSoldDOM_YTD":121.5,
-    "MedianSoldToOrigPct_YTD":-0.1298994728,
-    "MedianSoldToOrigDollar_YTD":-71964.5
+    "Sold_YTD":65,
+    "MedianSoldPrice_YTD":486290.0,
+    "MedianSoldDOM_YTD":121.0,
+    "MedianSoldToOrigPct_YTD":-0.1282495446,
+    "MedianSoldToOrigDollar_YTD":-71929.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,10 +17,10 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":31,
-    "MedianSoldPrice_YTD":379990.0,
-    "MedianSoldDOM_YTD":103.0,
-    "MedianSoldToOrigPct_YTD":-0.0714306123,
+    "Sold_YTD":35,
+    "MedianSoldPrice_YTD":369990.0,
+    "MedianSoldDOM_YTD":99.0,
+    "MedianSoldToOrigPct_YTD":-0.0674172453,
     "MedianSoldToOrigDollar_YTD":-28000.0
   },
   {
@@ -257,19 +257,19 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":304000.0,
-    "MedianSoldDOM_YTD":167.0,
-    "MedianSoldToOrigPct_YTD":-0.0671658499,
-    "MedianSoldToOrigDollar_YTD":-27000.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":339495.0,
+    "MedianSoldDOM_YTD":130.0,
+    "MedianSoldToOrigPct_YTD":-0.0622968888,
+    "MedianSoldToOrigDollar_YTD":-25990.0
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":68,
-    "MedianSoldPrice_YTD":321465.0,
-    "MedianSoldDOM_YTD":47.5,
-    "MedianSoldToOrigPct_YTD":-0.0681512605,
-    "MedianSoldToOrigDollar_YTD":-20499.5
+    "Sold_YTD":69,
+    "MedianSoldPrice_YTD":318940.0,
+    "MedianSoldDOM_YTD":47.0,
+    "MedianSoldToOrigPct_YTD":-0.0657142857,
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"POST OAK",
