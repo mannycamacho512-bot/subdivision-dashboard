@@ -30,8 +30,8 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 35,
-    "minPrice": 279990,
+    "homesAvailable": 37,
+    "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
   },
@@ -66,7 +66,7 @@
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 16,
+    "homesAvailable": 17,
     "minPrice": 249990,
     "maxPrice": 326990,
     "medianPrice": null
@@ -108,7 +108,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 44,
+    "homesAvailable": 46,
     "minPrice": 270000,
     "maxPrice": 684900,
     "medianPrice": null
@@ -247,14 +247,14 @@
   },
   "PARKTON SQUARE": {
     "homesAvailable": 10,
-    "minPrice": 311490,
+    "minPrice": 299990,
     "maxPrice": 434190,
     "medianPrice": null
   },
   "PLUM CREEK": {
     "homesAvailable": 67,
-    "minPrice": 226999,
-    "maxPrice": 494500,
+    "minPrice": 227999,
+    "maxPrice": 491900,
     "medianPrice": null
   },
   "POST OAK": {
@@ -264,7 +264,7 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 2,
+    "homesAvailable": 3,
     "minPrice": 199999,
     "maxPrice": 270000,
     "medianPrice": null
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 249900,
     "maxPrice": 399999,
     "medianPrice": null
@@ -306,7 +306,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 215000,
     "maxPrice": 330000,
     "medianPrice": null
@@ -331,7 +331,7 @@
   },
   "WATERLEAF": {
     "homesAvailable": 14,
-    "minPrice": 239000,
+    "minPrice": 220000,
     "maxPrice": 399900,
     "medianPrice": null
   },
@@ -351,6 +351,12 @@
     "homesAvailable": 1,
     "minPrice": 950000,
     "maxPrice": 950000,
+    "medianPrice": null
+  },
+  "Z HINTON SURVEY": {
+    "homesAvailable": 1,
+    "minPrice": 1095000,
+    "maxPrice": 1095000,
     "medianPrice": null
   },
   "Z HINTON SURVEY ABS": {
