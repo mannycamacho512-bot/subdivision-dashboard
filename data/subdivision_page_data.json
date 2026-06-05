@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 92,
     "minPrice": 360000,
     "maxPrice": 785000,
     "medianPrice": null
@@ -60,7 +60,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 10,
+    "homesAvailable": 12,
     "minPrice": 234000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -108,8 +108,8 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 47,
-    "minPrice": 270000,
+    "homesAvailable": 49,
+    "minPrice": 299775,
     "maxPrice": 684900,
     "medianPrice": null
   },
@@ -126,7 +126,7 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 280000,
     "maxPrice": 375000,
     "medianPrice": null
@@ -150,7 +150,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 11,
+    "homesAvailable": 13,
     "minPrice": 255000,
     "maxPrice": 484950,
     "medianPrice": null
@@ -168,7 +168,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -199,7 +199,7 @@
   },
   "MILLCREEK": {
     "homesAvailable": 2,
-    "minPrice": 240000,
+    "minPrice": 235000,
     "maxPrice": 255000,
     "medianPrice": null
   },
@@ -330,7 +330,7 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 15,
+    "homesAvailable": 16,
     "minPrice": 220000,
     "maxPrice": 399900,
     "medianPrice": null

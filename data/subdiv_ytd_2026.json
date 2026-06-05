@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":66,
-    "MedianSoldPrice_YTD":488095.0,
-    "MedianSoldDOM_YTD":121.5,
-    "MedianSoldToOrigPct_YTD":-0.1267552525,
-    "MedianSoldToOrigDollar_YTD":-71169.0
+    "Sold_YTD":67,
+    "MedianSoldPrice_YTD":486290.0,
+    "MedianSoldDOM_YTD":121.0,
+    "MedianSoldToOrigPct_YTD":-0.1282495446,
+    "MedianSoldToOrigDollar_YTD":-70409.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -97,11 +97,11 @@
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":303000.0,
-    "MedianSoldDOM_YTD":100.0,
-    "MedianSoldToOrigPct_YTD":-0.0702341137,
-    "MedianSoldToOrigDollar_YTD":-21000.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":302500.0,
+    "MedianSoldDOM_YTD":86.0,
+    "MedianSoldToOrigPct_YTD":-0.0541646759,
+    "MedianSoldToOrigDollar_YTD":-16500.0
   },
   {
     "Subdivision":"CROSSWINDS",
@@ -281,11 +281,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":245300.0,
-    "MedianSoldDOM_YTD":71.5,
-    "MedianSoldToOrigPct_YTD":-0.1110875531,
-    "MedianSoldToOrigDollar_YTD":-30250.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":250000.0,
+    "MedianSoldDOM_YTD":62.0,
+    "MedianSoldToOrigPct_YTD":-0.0970873786,
+    "MedianSoldToOrigDollar_YTD":-30000.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
