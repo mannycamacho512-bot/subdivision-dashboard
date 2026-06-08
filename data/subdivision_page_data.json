@@ -1,8 +1,8 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 92,
+    "homesAvailable": 93,
     "minPrice": 360000,
-    "maxPrice": 785000,
+    "maxPrice": 796110,
     "medianPrice": null
   },
   "A0220 A0220 Z HINTON SURVEY": {
@@ -48,8 +48,8 @@
     "medianPrice": null
   },
   "BROOKS CROSSING": {
-    "homesAvailable": 2,
-    "minPrice": 249999,
+    "homesAvailable": 1,
+    "minPrice": 499900,
     "maxPrice": 499900,
     "medianPrice": null
   },
@@ -60,7 +60,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 234000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -108,14 +108,14 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 49,
+    "homesAvailable": 51,
     "minPrice": 299775,
     "maxPrice": 684900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
     "homesAvailable": 4,
-    "minPrice": 449000,
+    "minPrice": 450000,
     "maxPrice": 630000,
     "medianPrice": null
   },
@@ -133,19 +133,19 @@
   },
   "GRIST MILL HIGHLANDS": {
     "homesAvailable": 1,
-    "minPrice": 280000,
-    "maxPrice": 280000,
+    "minPrice": 275000,
+    "maxPrice": 275000,
     "medianPrice": null
   },
   "HARVEST CREEK": {
     "homesAvailable": 7,
     "minPrice": 228500,
-    "maxPrice": 350000,
+    "maxPrice": 345000,
     "medianPrice": null
   },
   "HIGH MEADOWS": {
     "homesAvailable": 2,
-    "minPrice": 399900,
+    "minPrice": 394900,
     "maxPrice": 444900,
     "medianPrice": null
   },
@@ -168,7 +168,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 13,
+    "homesAvailable": 10,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 7,
+    "homesAvailable": 10,
     "minPrice": 364990,
     "maxPrice": 473990,
     "medianPrice": null
@@ -252,13 +252,13 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 62,
+    "homesAvailable": 63,
     "minPrice": 227999,
     "maxPrice": 491900,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
@@ -270,8 +270,8 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 10,
-    "minPrice": 350000,
+    "homesAvailable": 11,
+    "minPrice": 339999,
     "maxPrice": 499999,
     "medianPrice": null
   },
@@ -312,7 +312,7 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 310000,
     "maxPrice": 415000,
     "medianPrice": null
@@ -323,10 +323,16 @@
     "maxPrice": 394999,
     "medianPrice": null
   },
+  "THE TRAILS": {
+    "homesAvailable": 1,
+    "minPrice": 269900,
+    "maxPrice": 269900,
+    "medianPrice": null
+  },
   "UNDEFINED": {
     "homesAvailable": 1,
-    "minPrice": 385000,
-    "maxPrice": 385000,
+    "minPrice": 374999,
+    "maxPrice": 374999,
     "medianPrice": null
   },
   "WATERLEAF": {
@@ -342,8 +348,8 @@
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 2,
-    "minPrice": 295000,
+    "homesAvailable": 3,
+    "minPrice": 279000,
     "maxPrice": 317500,
     "medianPrice": null
   },
