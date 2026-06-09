@@ -30,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 37,
+    "homesAvailable": 36,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -115,7 +115,7 @@
   },
   "CYPRESS FOREST": {
     "homesAvailable": 4,
-    "minPrice": 450000,
+    "minPrice": 445000,
     "maxPrice": 630000,
     "medianPrice": null
   },
@@ -126,7 +126,7 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 8,
+    "homesAvailable": 6,
     "minPrice": 280000,
     "maxPrice": 375000,
     "medianPrice": null
@@ -150,7 +150,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 255000,
     "maxPrice": 484950,
     "medianPrice": null
@@ -162,7 +162,7 @@
     "medianPrice": null
   },
   "INFINITY SQUARE": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 319990,
     "maxPrice": 379990,
     "medianPrice": null
@@ -336,13 +336,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 16,
+    "homesAvailable": 15,
     "minPrice": 220000,
     "maxPrice": 399900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 25,
+    "homesAvailable": 26,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
@@ -355,8 +355,8 @@
   },
   "Z HINTON ABS": {
     "homesAvailable": 1,
-    "minPrice": 950000,
-    "maxPrice": 950000,
+    "minPrice": 925000,
+    "maxPrice": 925000,
     "medianPrice": null
   },
   "Z HINTON SURVEY": {

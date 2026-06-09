@@ -1,9 +1,9 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":67,
+    "Sold_YTD":69,
     "MedianSoldPrice_YTD":486290.0,
-    "MedianSoldDOM_YTD":121.0,
+    "MedianSoldDOM_YTD":116.0,
     "MedianSoldToOrigPct_YTD":-0.1282495446,
     "MedianSoldToOrigDollar_YTD":-70409.0
   },
@@ -17,10 +17,10 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":35,
-    "MedianSoldPrice_YTD":369990.0,
-    "MedianSoldDOM_YTD":99.0,
-    "MedianSoldToOrigPct_YTD":-0.0674172453,
+    "Sold_YTD":36,
+    "MedianSoldPrice_YTD":366490.0,
+    "MedianSoldDOM_YTD":101.0,
+    "MedianSoldToOrigPct_YTD":-0.0694239288,
     "MedianSoldToOrigDollar_YTD":-28000.0
   },
   {
