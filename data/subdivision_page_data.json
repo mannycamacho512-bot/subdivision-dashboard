@@ -30,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 36,
+    "homesAvailable": 35,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -90,13 +90,13 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 267000,
     "maxPrice": 480000,
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 215000,
     "maxPrice": 299999,
     "medianPrice": null
@@ -108,9 +108,9 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 51,
+    "homesAvailable": 49,
     "minPrice": 299775,
-    "maxPrice": 684900,
+    "maxPrice": 674900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
@@ -164,7 +164,7 @@
   "INFINITY SQUARE": {
     "homesAvailable": 6,
     "minPrice": 319990,
-    "maxPrice": 379990,
+    "maxPrice": 364990,
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
@@ -175,8 +175,8 @@
   },
   "LA MORAIA ESTATES": {
     "homesAvailable": 1,
-    "minPrice": 795900,
-    "maxPrice": 795900,
+    "minPrice": 750000,
+    "maxPrice": 750000,
     "medianPrice": null
   },
   "MEADOW WOODS": {
@@ -240,7 +240,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 36,
+    "homesAvailable": 35,
     "minPrice": 249990,
     "maxPrice": 443000,
     "medianPrice": null
@@ -252,7 +252,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 63,
+    "homesAvailable": 62,
     "minPrice": 227999,
     "maxPrice": 491900,
     "medianPrice": null
@@ -264,7 +264,7 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 199999,
     "maxPrice": 270000,
     "medianPrice": null
@@ -284,7 +284,7 @@
   "SOUTHLAKE RANCH": {
     "homesAvailable": 3,
     "minPrice": 216000,
-    "maxPrice": 269900,
+    "maxPrice": 267500,
     "medianPrice": null
   },
   "SPRING BRANCH": {
@@ -318,7 +318,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 15,
+    "homesAvailable": 16,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -342,7 +342,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 26,
+    "homesAvailable": 25,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
