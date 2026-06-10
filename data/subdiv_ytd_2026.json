@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":69,
-    "MedianSoldPrice_YTD":486290.0,
-    "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1282495446,
-    "MedianSoldToOrigDollar_YTD":-70409.0
+    "Sold_YTD":70,
+    "MedianSoldPrice_YTD":482440.5,
+    "MedianSoldDOM_YTD":118.5,
+    "MedianSoldToOrigPct_YTD":-0.1298994728,
+    "MedianSoldToOrigDollar_YTD":-71169.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -345,11 +345,11 @@
   },
   {
     "Subdivision":"SPRING BRANCH",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":249500.0,
-    "MedianSoldDOM_YTD":50.5,
-    "MedianSoldToOrigPct_YTD":-0.0115384615,
-    "MedianSoldToOrigDollar_YTD":-3000.0
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":250000.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
   },
   {
     "Subdivision":"STAGECOACH",
