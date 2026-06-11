@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":70,
-    "MedianSoldPrice_YTD":482440.5,
-    "MedianSoldDOM_YTD":118.5,
-    "MedianSoldToOrigPct_YTD":-0.1298994728,
-    "MedianSoldToOrigDollar_YTD":-71169.0
+    "Sold_YTD":71,
+    "MedianSoldPrice_YTD":486290.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1282495446,
+    "MedianSoldToOrigDollar_YTD":-70409.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,10 +17,10 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":36,
-    "MedianSoldPrice_YTD":366490.0,
-    "MedianSoldDOM_YTD":101.0,
-    "MedianSoldToOrigPct_YTD":-0.0694239288,
+    "Sold_YTD":37,
+    "MedianSoldPrice_YTD":362990.0,
+    "MedianSoldDOM_YTD":99.0,
+    "MedianSoldToOrigPct_YTD":-0.0674172453,
     "MedianSoldToOrigDollar_YTD":-28000.0
   },
   {
@@ -177,11 +177,11 @@
   },
   {
     "Subdivision":"HIGH MEADOWS",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":439000.0,
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":382000.0,
     "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.0435729847,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "MedianSoldToOrigPct_YTD":-0.0217864924,
+    "MedianSoldToOrigDollar_YTD":-10000.0
   },
   {
     "Subdivision":"HOMETOWN KYLE",
@@ -353,11 +353,11 @@
   },
   {
     "Subdivision":"STAGECOACH",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":347000.0,
-    "MedianSoldDOM_YTD":75.0,
-    "MedianSoldToOrigPct_YTD":-0.0271310975,
-    "MedianSoldToOrigDollar_YTD":-9950.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":345000.0,
+    "MedianSoldDOM_YTD":74.0,
+    "MedianSoldToOrigPct_YTD":-0.0264070419,
+    "MedianSoldToOrigDollar_YTD":-9900.0
   },
   {
     "Subdivision":"STAGECOACH CROSSING",
