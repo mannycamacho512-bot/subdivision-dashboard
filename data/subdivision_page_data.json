@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 93,
+    "homesAvailable": 91,
     "minPrice": 360000,
     "maxPrice": 796110,
     "medianPrice": null
@@ -108,7 +108,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 49,
+    "homesAvailable": 48,
     "minPrice": 299775,
     "maxPrice": 674900,
     "medianPrice": null
@@ -258,7 +258,7 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
+    "homesAvailable": 12,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
@@ -306,8 +306,8 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 8,
-    "minPrice": 215000,
+    "homesAvailable": 6,
+    "minPrice": 258900,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -342,7 +342,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 25,
+    "homesAvailable": 27,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
