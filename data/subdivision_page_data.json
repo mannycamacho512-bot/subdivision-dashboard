@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 92,
     "minPrice": 360000,
     "maxPrice": 796110,
     "medianPrice": null
@@ -30,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 35,
+    "homesAvailable": 34,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -73,8 +73,8 @@
   },
   "CENTURY ACRES": {
     "homesAvailable": 1,
-    "minPrice": 1189000,
-    "maxPrice": 1189000,
+    "minPrice": 1149000,
+    "maxPrice": 1149000,
     "medianPrice": null
   },
   "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
@@ -150,7 +150,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 255000,
     "maxPrice": 484950,
     "medianPrice": null
@@ -216,7 +216,7 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 339990,
     "maxPrice": 389990,
     "medianPrice": null
@@ -240,9 +240,9 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 35,
+    "homesAvailable": 33,
     "minPrice": 249990,
-    "maxPrice": 443000,
+    "maxPrice": 419000,
     "medianPrice": null
   },
   "PARKTON SQUARE": {
@@ -252,7 +252,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 62,
+    "homesAvailable": 61,
     "minPrice": 227999,
     "maxPrice": 491900,
     "medianPrice": null
@@ -270,8 +270,8 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 11,
-    "minPrice": 339999,
+    "homesAvailable": 12,
+    "minPrice": 329999,
     "maxPrice": 499999,
     "medianPrice": null
   },
@@ -307,7 +307,7 @@
   },
   "STEEPLECHASE": {
     "homesAvailable": 6,
-    "minPrice": 258900,
+    "minPrice": 249900,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -336,13 +336,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 220000,
     "maxPrice": 399900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 27,
+    "homesAvailable": 29,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
@@ -367,8 +367,8 @@
   },
   "Z HINTON SURVEY ABS": {
     "homesAvailable": 1,
-    "minPrice": 650000,
-    "maxPrice": 650000,
+    "minPrice": 645000,
+    "maxPrice": 645000,
     "medianPrice": null
   }
 }
