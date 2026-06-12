@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":37,
-    "MedianSoldPrice_YTD":362990.0,
-    "MedianSoldDOM_YTD":99.0,
-    "MedianSoldToOrigPct_YTD":-0.0674172453,
-    "MedianSoldToOrigDollar_YTD":-28000.0
+    "Sold_YTD":38,
+    "MedianSoldPrice_YTD":358990.0,
+    "MedianSoldDOM_YTD":97.0,
+    "MedianSoldToOrigPct_YTD":-0.0671934529,
+    "MedianSoldToOrigDollar_YTD":-26500.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -209,11 +209,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":10,
+    "Sold_YTD":11,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":22.5,
-    "MedianSoldToOrigPct_YTD":-0.0265972192,
-    "MedianSoldToOrigDollar_YTD":-7400.0
+    "MedianSoldDOM_YTD":18.0,
+    "MedianSoldToOrigPct_YTD":-0.0178246635,
+    "MedianSoldToOrigDollar_YTD":-4900.0
   },
   {
     "Subdivision":"MEADOW WOODS",
