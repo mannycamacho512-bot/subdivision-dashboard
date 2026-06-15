@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":71,
-    "MedianSoldPrice_YTD":486290.0,
-    "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1282495446,
-    "MedianSoldToOrigDollar_YTD":-70409.0
+    "Sold_YTD":72,
+    "MedianSoldPrice_YTD":487645.0,
+    "MedianSoldDOM_YTD":110.0,
+    "MedianSoldToOrigPct_YTD":-0.1267552525,
+    "MedianSoldToOrigDollar_YTD":-70204.5
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -25,9 +25,9 @@
   },
   {
     "Subdivision":"ARROYO RANCH",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":565500.0,
-    "MedianSoldDOM_YTD":25.0,
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":557750.0,
+    "MedianSoldDOM_YTD":17.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
   },
@@ -65,17 +65,17 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":17,
+    "Sold_YTD":19,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":53.0,
+    "MedianSoldDOM_YTD":57.0,
     "MedianSoldToOrigPct_YTD":-0.0566855619,
     "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":283642.5,
-    "MedianSoldDOM_YTD":197.5,
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":298430.0,
+    "MedianSoldDOM_YTD":151.5,
     "MedianSoldToOrigPct_YTD":-0.080473766,
     "MedianSoldToOrigDollar_YTD":-24782.5
   },
@@ -113,11 +113,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":44,
-    "MedianSoldPrice_YTD":342900.0,
-    "MedianSoldDOM_YTD":119.5,
-    "MedianSoldToOrigPct_YTD":-0.1122103176,
-    "MedianSoldToOrigDollar_YTD":-44475.0
+    "Sold_YTD":47,
+    "MedianSoldPrice_YTD":346500.0,
+    "MedianSoldDOM_YTD":114.0,
+    "MedianSoldToOrigPct_YTD":-0.1,
+    "MedianSoldToOrigDollar_YTD":-39999.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":12,
-    "MedianSoldPrice_YTD":327500.0,
-    "MedianSoldDOM_YTD":81.5,
-    "MedianSoldToOrigPct_YTD":-0.0514314732,
-    "MedianSoldToOrigDollar_YTD":-19500.0
+    "Sold_YTD":13,
+    "MedianSoldPrice_YTD":330000.0,
+    "MedianSoldDOM_YTD":81.0,
+    "MedianSoldToOrigPct_YTD":-0.0476303882,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -198,6 +198,14 @@
     "MedianSoldDOM_YTD":6.0,
     "MedianSoldToOrigPct_YTD":-0.0306122449,
     "MedianSoldToOrigDollar_YTD":-7500.0
+  },
+  {
+    "Subdivision":"INFINITY SQUARE",
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":332000.0,
+    "MedianSoldDOM_YTD":181.0,
+    "MedianSoldToOrigPct_YTD":-0.1146430571,
+    "MedianSoldToOrigDollar_YTD":-40000.0
   },
   {
     "Subdivision":"JOSE ADDITION",
@@ -273,9 +281,9 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":339495.0,
-    "MedianSoldDOM_YTD":130.0,
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":311245.0,
+    "MedianSoldDOM_YTD":87.0,
     "MedianSoldToOrigPct_YTD":-0.0622968888,
     "MedianSoldToOrigDollar_YTD":-25990.0
   },
@@ -385,26 +393,26 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":290000.0,
-    "MedianSoldDOM_YTD":55.0,
-    "MedianSoldToOrigPct_YTD":-0.0257887045,
-    "MedianSoldToOrigDollar_YTD":-9000.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":298500.0,
+    "MedianSoldDOM_YTD":40.0,
+    "MedianSoldToOrigPct_YTD":-0.0128943523,
+    "MedianSoldToOrigDollar_YTD":-4500.0
   },
   {
     "Subdivision":"THE TRAILS",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":249000.0,
-    "MedianSoldDOM_YTD":31.0,
-    "MedianSoldToOrigPct_YTD":-0.0529686085,
-    "MedianSoldToOrigDollar_YTD":-13950.0
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":250000.0,
+    "MedianSoldDOM_YTD":49.0,
+    "MedianSoldToOrigPct_YTD":-0.0457868411,
+    "MedianSoldToOrigDollar_YTD":-11900.0
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":264900.0,
-    "MedianSoldDOM_YTD":49.0,
-    "MedianSoldToOrigPct_YTD":-0.0714285714,
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":262450.0,
+    "MedianSoldDOM_YTD":56.5,
+    "MedianSoldToOrigPct_YTD":-0.0811688312,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
