@@ -1,7 +1,7 @@
 {
   "6 CREEKS": {
     "homesAvailable": 92,
-    "minPrice": 360000,
+    "minPrice": 355000,
     "maxPrice": 796110,
     "medianPrice": null
   },
@@ -108,15 +108,21 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 48,
+    "homesAvailable": 47,
     "minPrice": 299775,
     "maxPrice": 674900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 4,
-    "minPrice": 445000,
+    "homesAvailable": 3,
+    "minPrice": 539000,
     "maxPrice": 630000,
+    "medianPrice": null
+  },
+  "CYPRESS FOREST SIX CREEKS 6 CR": {
+    "homesAvailable": 1,
+    "minPrice": 445000,
+    "maxPrice": 445000,
     "medianPrice": null
   },
   "FOUR OAKS": {
@@ -138,7 +144,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 228500,
     "maxPrice": 345000,
     "medianPrice": null
@@ -168,7 +174,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 10,
+    "homesAvailable": 11,
     "minPrice": 235000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -182,13 +188,13 @@
   "MEADOW WOODS": {
     "homesAvailable": 3,
     "minPrice": 399000,
-    "maxPrice": 469000,
+    "maxPrice": 545000,
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 2,
+    "homesAvailable": 3,
     "minPrice": 299900,
-    "maxPrice": 305000,
+    "maxPrice": 335000,
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
@@ -199,7 +205,7 @@
   },
   "MILLCREEK": {
     "homesAvailable": 2,
-    "minPrice": 235000,
+    "minPrice": 220000,
     "maxPrice": 255000,
     "medianPrice": null
   },
@@ -210,9 +216,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 364990,
-    "maxPrice": 473990,
+    "maxPrice": 464990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -221,14 +227,8 @@
     "maxPrice": 389990,
     "medianPrice": null
   },
-  "ORIGINAL TOWN KYLE": {
-    "homesAvailable": 1,
-    "minPrice": 265000,
-    "maxPrice": 265000,
-    "medianPrice": null
-  },
   "OUT HAYS CO": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 265000,
     "maxPrice": 515000,
     "medianPrice": null
@@ -289,7 +289,7 @@
   },
   "SPRING BRANCH": {
     "homesAvailable": 4,
-    "minPrice": 249900,
+    "minPrice": 239999,
     "maxPrice": 399999,
     "medianPrice": null
   },
@@ -336,13 +336,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 14,
+    "homesAvailable": 15,
     "minPrice": 220000,
     "maxPrice": 399900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 29,
+    "homesAvailable": 28,
     "minPrice": 212999,
     "maxPrice": 394990,
     "medianPrice": null
