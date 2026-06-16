@@ -113,11 +113,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":47,
-    "MedianSoldPrice_YTD":346500.0,
-    "MedianSoldDOM_YTD":114.0,
-    "MedianSoldToOrigPct_YTD":-0.1,
-    "MedianSoldToOrigDollar_YTD":-39999.0
+    "Sold_YTD":48,
+    "MedianSoldPrice_YTD":348200.0,
+    "MedianSoldDOM_YTD":119.5,
+    "MedianSoldToOrigPct_YTD":-0.1013855753,
+    "MedianSoldToOrigDollar_YTD":-41999.5
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":330000.0,
-    "MedianSoldDOM_YTD":81.0,
-    "MedianSoldToOrigPct_YTD":-0.0476303882,
-    "MedianSoldToOrigDollar_YTD":-19000.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":334500.0,
+    "MedianSoldDOM_YTD":67.0,
+    "MedianSoldToOrigPct_YTD":-0.0393910729,
+    "MedianSoldToOrigDollar_YTD":-14950.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -249,11 +249,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":17,
-    "MedianSoldPrice_YTD":425210.0,
-    "MedianSoldDOM_YTD":104.0,
-    "MedianSoldToOrigPct_YTD":-0.0857746536,
-    "MedianSoldToOrigDollar_YTD":-41535.0
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":430100.0,
+    "MedianSoldDOM_YTD":102.0,
+    "MedianSoldToOrigPct_YTD":-0.0913502451,
+    "MedianSoldToOrigDollar_YTD":-41877.5
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -425,11 +425,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":71,
-    "MedianSoldPrice_YTD":300990.0,
+    "Sold_YTD":72,
+    "MedianSoldPrice_YTD":301990.0,
     "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.0687115215,
-    "MedianSoldToOrigDollar_YTD":-23540.0
+    "MedianSoldToOrigPct_YTD":-0.0693931413,
+    "MedianSoldToOrigDollar_YTD":-24015.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
