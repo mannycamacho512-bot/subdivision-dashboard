@@ -65,11 +65,11 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":19,
+    "Sold_YTD":20,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":57.0,
-    "MedianSoldToOrigPct_YTD":-0.0566855619,
-    "MedianSoldToOrigDollar_YTD":-17000.0
+    "MedianSoldDOM_YTD":55.0,
+    "MedianSoldToOrigPct_YTD":-0.0581547057,
+    "MedianSoldToOrigDollar_YTD":-16625.0
   },
   {
     "Subdivision":"CASETTA RANCH",
@@ -289,10 +289,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":74,
+    "Sold_YTD":75,
     "MedianSoldPrice_YTD":310000.0,
-    "MedianSoldDOM_YTD":47.5,
-    "MedianSoldToOrigPct_YTD":-0.0681512605,
+    "MedianSoldDOM_YTD":47.0,
+    "MedianSoldToOrigPct_YTD":-0.0657142857,
     "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
@@ -409,10 +409,10 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":14,
-    "MedianSoldPrice_YTD":262450.0,
-    "MedianSoldDOM_YTD":56.5,
-    "MedianSoldToOrigPct_YTD":-0.0811688312,
+    "Sold_YTD":15,
+    "MedianSoldPrice_YTD":260000.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0784313725,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
