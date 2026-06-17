@@ -80,19 +80,19 @@
   "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
     "homesAvailable": 4,
     "minPrice": 899000,
-    "maxPrice": 1059000,
+    "maxPrice": 1049000,
     "medianPrice": null
   },
   "CLARA VISTA AT WATERRIDGE SPRING COLLECTION": {
     "homesAvailable": 2,
-    "minPrice": 1193000,
-    "maxPrice": 1299000,
+    "minPrice": 1175000,
+    "maxPrice": 1280000,
     "medianPrice": null
   },
   "COOL SPRINGS": {
     "homesAvailable": 3,
     "minPrice": 267000,
-    "maxPrice": 480000,
+    "maxPrice": 470000,
     "medianPrice": null
   },
   "CREEKSIDE": {
@@ -108,14 +108,14 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 50,
+    "homesAvailable": 49,
     "minPrice": 299775,
     "maxPrice": 674900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 3,
-    "minPrice": 539000,
+    "homesAvailable": 4,
+    "minPrice": 358799,
     "maxPrice": 630000,
     "medianPrice": null
   },
@@ -193,7 +193,7 @@
   },
   "MEADOWS AT KYLE": {
     "homesAvailable": 3,
-    "minPrice": 299900,
+    "minPrice": 294900,
     "maxPrice": 335000,
     "medianPrice": null
   },
@@ -252,7 +252,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 59,
+    "homesAvailable": 61,
     "minPrice": 227999,
     "maxPrice": 491900,
     "medianPrice": null
@@ -289,7 +289,7 @@
   },
   "SPRING BRANCH": {
     "homesAvailable": 4,
-    "minPrice": 239999,
+    "minPrice": 239900,
     "maxPrice": 399999,
     "medianPrice": null
   },
@@ -348,8 +348,8 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 27,
-    "minPrice": 212999,
+    "homesAvailable": 29,
+    "minPrice": 204999,
     "maxPrice": 394990,
     "medianPrice": null
   },
@@ -367,8 +367,8 @@
   },
   "Z HINTON SURVEY": {
     "homesAvailable": 1,
-    "minPrice": 1095000,
-    "maxPrice": 1095000,
+    "minPrice": 995000,
+    "maxPrice": 995000,
     "medianPrice": null
   },
   "Z HINTON SURVEY ABS": {
