@@ -1,8 +1,8 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 92,
+    "homesAvailable": 98,
     "minPrice": 355000,
-    "maxPrice": 796110,
+    "maxPrice": 1280000,
     "medianPrice": null
   },
   "A0220 A0220 Z HINTON SURVEY": {
@@ -75,18 +75,6 @@
     "homesAvailable": 1,
     "minPrice": 1149000,
     "maxPrice": 1149000,
-    "medianPrice": null
-  },
-  "CLARA VISTA AT WATERRIDGE BROOK COLLECTION": {
-    "homesAvailable": 4,
-    "minPrice": 899000,
-    "maxPrice": 1049000,
-    "medianPrice": null
-  },
-  "CLARA VISTA AT WATERRIDGE SPRING COLLECTION": {
-    "homesAvailable": 2,
-    "minPrice": 1175000,
-    "maxPrice": 1280000,
     "medianPrice": null
   },
   "COOL SPRINGS": {
