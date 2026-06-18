@@ -305,11 +305,11 @@
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":268500.0,
-    "MedianSoldDOM_YTD":13.5,
-    "MedianSoldToOrigPct_YTD":0.03,
-    "MedianSoldToOrigDollar_YTD":6000.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":245000.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
   },
   {
     "Subdivision":"S9334 WATERLEAF",
@@ -377,19 +377,19 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":10.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":244500.0,
+    "MedianSoldDOM_YTD":23.5,
+    "MedianSoldToOrigPct_YTD":-0.0333422246,
+    "MedianSoldToOrigDollar_YTD":-12500.0
   },
   {
     "Subdivision":"SUNSET HILLS",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":410000.0,
-    "MedianSoldDOM_YTD":143.0,
-    "MedianSoldToOrigPct_YTD":-0.0888888889,
-    "MedianSoldToOrigDollar_YTD":-40000.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":395000.0,
+    "MedianSoldDOM_YTD":132.5,
+    "MedianSoldToOrigPct_YTD":-0.1101587302,
+    "MedianSoldToOrigDollar_YTD":-48750.0
   },
   {
     "Subdivision":"TALAVERA",
@@ -425,11 +425,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":72,
-    "MedianSoldPrice_YTD":301990.0,
+    "Sold_YTD":73,
+    "MedianSoldPrice_YTD":300990.0,
     "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.0693931413,
-    "MedianSoldToOrigDollar_YTD":-24015.5
+    "MedianSoldToOrigPct_YTD":-0.0687115215,
+    "MedianSoldToOrigDollar_YTD":-23540.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
