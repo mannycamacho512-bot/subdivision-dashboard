@@ -26,7 +26,7 @@
   "AMBERWOOD": {
     "homesAvailable": 3,
     "minPrice": 260000,
-    "maxPrice": 329990,
+    "maxPrice": 319000,
     "medianPrice": null
   },
   "ANTHEM": {
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 215000,
     "maxPrice": 299999,
     "medianPrice": null
@@ -144,7 +144,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 228500,
     "maxPrice": 345000,
     "medianPrice": null
@@ -175,7 +175,7 @@
   },
   "KENSINGTON TRAILS": {
     "homesAvailable": 11,
-    "minPrice": 235000,
+    "minPrice": 230000,
     "maxPrice": 425000,
     "medianPrice": null
   },
@@ -222,9 +222,9 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 339990,
-    "maxPrice": 389990,
+    "maxPrice": 399990,
     "medianPrice": null
   },
   "OUT HAYS CO": {
@@ -276,7 +276,7 @@
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 245000,
     "maxPrice": 395000,
     "medianPrice": null
@@ -306,8 +306,8 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 7,
-    "minPrice": 249900,
+    "homesAvailable": 8,
+    "minPrice": 215000,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -323,12 +323,6 @@
     "maxPrice": 394999,
     "medianPrice": null
   },
-  "THE TRAILS": {
-    "homesAvailable": 1,
-    "minPrice": 269900,
-    "maxPrice": 269900,
-    "medianPrice": null
-  },
   "TRAILS": {
     "homesAvailable": 1,
     "minPrice": 289900,
@@ -342,8 +336,8 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 15,
-    "minPrice": 220000,
+    "homesAvailable": 14,
+    "minPrice": 239000,
     "maxPrice": 399900,
     "medianPrice": null
   },
