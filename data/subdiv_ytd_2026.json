@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":72,
-    "MedianSoldPrice_YTD":487645.0,
-    "MedianSoldDOM_YTD":110.0,
-    "MedianSoldToOrigPct_YTD":-0.1267552525,
-    "MedianSoldToOrigDollar_YTD":-70204.5
+    "Sold_YTD":73,
+    "MedianSoldPrice_YTD":486290.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1252609603,
+    "MedianSoldToOrigDollar_YTD":-70000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":38,
+    "Sold_YTD":40,
     "MedianSoldPrice_YTD":358990.0,
-    "MedianSoldDOM_YTD":97.0,
-    "MedianSoldToOrigPct_YTD":-0.0671934529,
-    "MedianSoldToOrigDollar_YTD":-26500.0
+    "MedianSoldDOM_YTD":93.0,
+    "MedianSoldToOrigPct_YTD":-0.0668985155,
+    "MedianSoldToOrigDollar_YTD":-23625.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -97,11 +97,11 @@
   },
   {
     "Subdivision":"CREEKSIDE",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":269500.0,
-    "MedianSoldDOM_YTD":63.0,
-    "MedianSoldToOrigPct_YTD":-0.0441675073,
-    "MedianSoldToOrigDollar_YTD":-15314.0
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":239000.0,
+    "MedianSoldDOM_YTD":36.5,
+    "MedianSoldToOrigPct_YTD":-0.0026207288,
+    "MedianSoldToOrigDollar_YTD":-628.0
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
@@ -217,11 +217,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":11,
-    "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":18.0,
-    "MedianSoldToOrigPct_YTD":-0.0178246635,
-    "MedianSoldToOrigDollar_YTD":-4900.0
+    "Sold_YTD":12,
+    "MedianSoldPrice_YTD":262500.0,
+    "MedianSoldDOM_YTD":22.5,
+    "MedianSoldToOrigPct_YTD":-0.0265972192,
+    "MedianSoldToOrigDollar_YTD":-7400.0
   },
   {
     "Subdivision":"MEADOW WOODS",
@@ -401,18 +401,18 @@
   },
   {
     "Subdivision":"THE TRAILS",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":250000.0,
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":261000.0,
     "MedianSoldDOM_YTD":49.0,
-    "MedianSoldToOrigPct_YTD":-0.0457868411,
-    "MedianSoldToOrigDollar_YTD":-11900.0
+    "MedianSoldToOrigPct_YTD":-0.0529686085,
+    "MedianSoldToOrigDollar_YTD":-13950.0
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":15,
+    "Sold_YTD":16,
     "MedianSoldPrice_YTD":260000.0,
-    "MedianSoldDOM_YTD":64.0,
-    "MedianSoldToOrigPct_YTD":-0.0784313725,
+    "MedianSoldDOM_YTD":70.5,
+    "MedianSoldToOrigPct_YTD":-0.074929972,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
