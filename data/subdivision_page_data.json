@@ -30,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 33,
+    "homesAvailable": 34,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -49,8 +49,8 @@
   },
   "BROOKS CROSSING": {
     "homesAvailable": 1,
-    "minPrice": 499900,
-    "maxPrice": 499900,
+    "minPrice": 489999,
+    "maxPrice": 489999,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -60,7 +60,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 13,
+    "homesAvailable": 14,
     "minPrice": 234000,
     "maxPrice": 315000,
     "medianPrice": null
@@ -102,7 +102,7 @@
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 358799,
     "maxPrice": 630000,
     "medianPrice": null
@@ -162,7 +162,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 11,
+    "homesAvailable": 12,
     "minPrice": 230000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -174,9 +174,9 @@
     "medianPrice": null
   },
   "MEADOW WOODS": {
-    "homesAvailable": 3,
-    "minPrice": 399000,
-    "maxPrice": 545000,
+    "homesAvailable": 4,
+    "minPrice": 398000,
+    "maxPrice": 580000,
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
@@ -228,7 +228,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 34,
+    "homesAvailable": 35,
     "minPrice": 249990,
     "maxPrice": 540000,
     "medianPrice": null
@@ -240,13 +240,13 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 61,
+    "homesAvailable": 60,
     "minPrice": 227999,
     "maxPrice": 491900,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
+    "homesAvailable": 12,
     "minPrice": 215000,
     "maxPrice": 449000,
     "medianPrice": null
@@ -270,13 +270,13 @@
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 216000,
-    "maxPrice": 267500,
+    "maxPrice": 265000,
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 239900,
     "maxPrice": 399999,
     "medianPrice": null
@@ -296,7 +296,7 @@
   "STEEPLECHASE": {
     "homesAvailable": 8,
     "minPrice": 215000,
-    "maxPrice": 330000,
+    "maxPrice": 314900,
     "medianPrice": null
   },
   "SUNSET HILLS": {
@@ -324,9 +324,9 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 239000,
-    "maxPrice": 399900,
+    "maxPrice": 389990,
     "medianPrice": null
   },
   "WATERSTONE": {
