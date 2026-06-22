@@ -65,11 +65,11 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":20,
+    "Sold_YTD":21,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":55.0,
-    "MedianSoldToOrigPct_YTD":-0.0581547057,
-    "MedianSoldToOrigDollar_YTD":-16625.0
+    "MedianSoldDOM_YTD":57.0,
+    "MedianSoldToOrigPct_YTD":-0.0566855619,
+    "MedianSoldToOrigDollar_YTD":-16250.0
   },
   {
     "Subdivision":"CASETTA RANCH",
@@ -113,19 +113,19 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":48,
-    "MedianSoldPrice_YTD":348200.0,
-    "MedianSoldDOM_YTD":119.5,
-    "MedianSoldToOrigPct_YTD":-0.1013855753,
-    "MedianSoldToOrigDollar_YTD":-41999.5
+    "Sold_YTD":49,
+    "MedianSoldPrice_YTD":346500.0,
+    "MedianSoldDOM_YTD":114.0,
+    "MedianSoldToOrigPct_YTD":-0.1027711507,
+    "MedianSoldToOrigDollar_YTD":-44000.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":507000.0,
-    "MedianSoldDOM_YTD":66.0,
-    "MedianSoldToOrigPct_YTD":-0.0611111111,
-    "MedianSoldToOrigDollar_YTD":-33000.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":488500.0,
+    "MedianSoldDOM_YTD":58.5,
+    "MedianSoldToOrigPct_YTD":-0.0555555556,
+    "MedianSoldToOrigDollar_YTD":-31500.0
   },
   {
     "Subdivision":"DOVE HOLLOW ESTATES",
@@ -289,11 +289,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":75,
-    "MedianSoldPrice_YTD":310000.0,
-    "MedianSoldDOM_YTD":47.0,
-    "MedianSoldToOrigPct_YTD":-0.0657142857,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "Sold_YTD":76,
+    "MedianSoldPrice_YTD":313495.0,
+    "MedianSoldDOM_YTD":45.0,
+    "MedianSoldToOrigPct_YTD":-0.064659263,
+    "MedianSoldToOrigDollar_YTD":-19995.5
   },
   {
     "Subdivision":"POST OAK",
@@ -425,11 +425,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":73,
-    "MedianSoldPrice_YTD":300990.0,
-    "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.0687115215,
-    "MedianSoldToOrigDollar_YTD":-23540.0
+    "Sold_YTD":74,
+    "MedianSoldPrice_YTD":301990.0,
+    "MedianSoldDOM_YTD":36.5,
+    "MedianSoldToOrigPct_YTD":-0.0693931413,
+    "MedianSoldToOrigDollar_YTD":-24015.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
