@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":73,
-    "MedianSoldPrice_YTD":486290.0,
-    "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1252609603,
-    "MedianSoldToOrigDollar_YTD":-70000.0
+    "Sold_YTD":74,
+    "MedianSoldPrice_YTD":482440.5,
+    "MedianSoldDOM_YTD":118.5,
+    "MedianSoldToOrigPct_YTD":-0.1250393153,
+    "MedianSoldToOrigDollar_YTD":-69500.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -289,11 +289,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":76,
+    "Sold_YTD":74,
     "MedianSoldPrice_YTD":313495.0,
-    "MedianSoldDOM_YTD":45.0,
-    "MedianSoldToOrigPct_YTD":-0.064659263,
-    "MedianSoldToOrigDollar_YTD":-19995.5
+    "MedianSoldDOM_YTD":47.5,
+    "MedianSoldToOrigPct_YTD":-0.0681512605,
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"POST OAK",
