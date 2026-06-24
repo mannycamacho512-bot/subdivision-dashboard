@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":14,
-    "MedianSoldPrice_YTD":334500.0,
-    "MedianSoldDOM_YTD":67.0,
-    "MedianSoldToOrigPct_YTD":-0.0393910729,
-    "MedianSoldToOrigDollar_YTD":-14950.0
+    "Sold_YTD":15,
+    "MedianSoldPrice_YTD":339000.0,
+    "MedianSoldDOM_YTD":81.0,
+    "MedianSoldToOrigPct_YTD":-0.0476303882,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -217,11 +217,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":12,
-    "MedianSoldPrice_YTD":262500.0,
-    "MedianSoldDOM_YTD":22.5,
-    "MedianSoldToOrigPct_YTD":-0.0265972192,
-    "MedianSoldToOrigDollar_YTD":-7400.0
+    "Sold_YTD":13,
+    "MedianSoldPrice_YTD":255000.0,
+    "MedianSoldDOM_YTD":27.0,
+    "MedianSoldToOrigPct_YTD":-0.0204081633,
+    "MedianSoldToOrigDollar_YTD":-5000.0
   },
   {
     "Subdivision":"MEADOW WOODS",
@@ -233,11 +233,11 @@
   },
   {
     "Subdivision":"MEADOWS AT KYLE",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":295000.0,
-    "MedianSoldDOM_YTD":72.0,
-    "MedianSoldToOrigPct_YTD":-0.1060606061,
-    "MedianSoldToOrigDollar_YTD":-35000.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":292500.0,
+    "MedianSoldDOM_YTD":40.5,
+    "MedianSoldToOrigPct_YTD":-0.0695358049,
+    "MedianSoldToOrigDollar_YTD":-22450.0
   },
   {
     "Subdivision":"MILLCREEK",
@@ -281,18 +281,18 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":311245.0,
-    "MedianSoldDOM_YTD":87.0,
-    "MedianSoldToOrigPct_YTD":-0.0622968888,
-    "MedianSoldToOrigDollar_YTD":-25990.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":318490.0,
+    "MedianSoldDOM_YTD":93.0,
+    "MedianSoldToOrigPct_YTD":-0.0671658499,
+    "MedianSoldToOrigDollar_YTD":-27000.0
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":74,
-    "MedianSoldPrice_YTD":313495.0,
-    "MedianSoldDOM_YTD":47.5,
-    "MedianSoldToOrigPct_YTD":-0.0681512605,
+    "Sold_YTD":75,
+    "MedianSoldPrice_YTD":316990.0,
+    "MedianSoldDOM_YTD":48.0,
+    "MedianSoldToOrigPct_YTD":-0.0705882353,
     "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
@@ -305,8 +305,8 @@
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":245000.0,
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":228500.0,
     "MedianSoldDOM_YTD":22.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
