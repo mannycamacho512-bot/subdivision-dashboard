@@ -79,7 +79,7 @@
   },
   "COOL SPRINGS": {
     "homesAvailable": 3,
-    "minPrice": 267000,
+    "minPrice": 320000,
     "maxPrice": 470000,
     "medianPrice": null
   },
@@ -102,7 +102,7 @@
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 358799,
     "maxPrice": 650000,
     "medianPrice": null
@@ -144,7 +144,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 255000,
     "maxPrice": 484950,
     "medianPrice": null
@@ -162,7 +162,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 230000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -204,7 +204,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 8,
+    "homesAvailable": 9,
     "minPrice": 364990,
     "maxPrice": 464990,
     "medianPrice": null
@@ -240,7 +240,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 59,
+    "homesAvailable": 57,
     "minPrice": 227999,
     "maxPrice": 491900,
     "medianPrice": null
@@ -306,7 +306,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 16,
+    "homesAvailable": 14,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -330,7 +330,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 27,
+    "homesAvailable": 28,
     "minPrice": 204999,
     "maxPrice": 394990,
     "medianPrice": null
