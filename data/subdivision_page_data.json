@@ -24,13 +24,13 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 260000,
     "maxPrice": 332900,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 36,
+    "homesAvailable": 35,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -144,7 +144,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 10,
+    "homesAvailable": 11,
     "minPrice": 255000,
     "maxPrice": 484950,
     "medianPrice": null
@@ -228,7 +228,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 35,
+    "homesAvailable": 39,
     "minPrice": 249990,
     "maxPrice": 540000,
     "medianPrice": null
@@ -242,7 +242,7 @@
   "PLUM CREEK": {
     "homesAvailable": 57,
     "minPrice": 227999,
-    "maxPrice": 491900,
+    "maxPrice": 485000,
     "medianPrice": null
   },
   "POST OAK": {
@@ -276,8 +276,8 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 5,
-    "minPrice": 239900,
+    "homesAvailable": 6,
+    "minPrice": 229900,
     "maxPrice": 399999,
     "medianPrice": null
   },
@@ -324,13 +324,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 14,
+    "homesAvailable": 16,
     "minPrice": 239000,
     "maxPrice": 389990,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 28,
+    "homesAvailable": 30,
     "minPrice": 204999,
     "maxPrice": 394990,
     "medianPrice": null
