@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":15,
-    "MedianSoldPrice_YTD":339000.0,
-    "MedianSoldDOM_YTD":81.0,
-    "MedianSoldToOrigPct_YTD":-0.0476303882,
-    "MedianSoldToOrigDollar_YTD":-19000.0
+    "Sold_YTD":16,
+    "MedianSoldPrice_YTD":334500.0,
+    "MedianSoldDOM_YTD":67.0,
+    "MedianSoldToOrigPct_YTD":-0.0393910729,
+    "MedianSoldToOrigDollar_YTD":-14950.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -321,19 +321,19 @@
   },
   {
     "Subdivision":"SAGE HOLLOW",
-    "Sold_YTD":10,
-    "MedianSoldPrice_YTD":323499.0,
-    "MedianSoldDOM_YTD":132.0,
-    "MedianSoldToOrigPct_YTD":-0.103597341,
-    "MedianSoldToOrigDollar_YTD":-39269.0
+    "Sold_YTD":11,
+    "MedianSoldPrice_YTD":324999.0,
+    "MedianSoldDOM_YTD":94.0,
+    "MedianSoldToOrigPct_YTD":-0.1118832814,
+    "MedianSoldToOrigDollar_YTD":-45352.0
   },
   {
     "Subdivision":"SILVERADO AT PLUM CREEK",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":274000.0,
-    "MedianSoldDOM_YTD":21.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":298000.0,
+    "MedianSoldDOM_YTD":19.5,
+    "MedianSoldToOrigPct_YTD":-0.0258823529,
+    "MedianSoldToOrigDollar_YTD":-11000.0
   },
   {
     "Subdivision":"SOUTHBEND I",
