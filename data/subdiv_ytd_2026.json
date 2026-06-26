@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":74,
-    "MedianSoldPrice_YTD":482440.5,
-    "MedianSoldDOM_YTD":118.5,
-    "MedianSoldToOrigPct_YTD":-0.1250393153,
-    "MedianSoldToOrigDollar_YTD":-69500.0
+    "Sold_YTD":75,
+    "MedianSoldPrice_YTD":478591.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1252609603,
+    "MedianSoldToOrigDollar_YTD":-70000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":40,
-    "MedianSoldPrice_YTD":358990.0,
-    "MedianSoldDOM_YTD":93.0,
-    "MedianSoldToOrigPct_YTD":-0.0668985155,
-    "MedianSoldToOrigDollar_YTD":-23625.0
+    "Sold_YTD":41,
+    "MedianSoldPrice_YTD":354990.0,
+    "MedianSoldDOM_YTD":91.0,
+    "MedianSoldToOrigPct_YTD":-0.0668273706,
+    "MedianSoldToOrigDollar_YTD":-22250.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -297,11 +297,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":62.0,
-    "MedianSoldToOrigPct_YTD":-0.0970873786,
-    "MedianSoldToOrigDollar_YTD":-30000.0
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":245300.0,
+    "MedianSoldDOM_YTD":60.0,
+    "MedianSoldToOrigPct_YTD":-0.0955425568,
+    "MedianSoldToOrigDollar_YTD":-27450.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -345,11 +345,11 @@
   },
   {
     "Subdivision":"SOUTHLAKE RANCH",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":215500.0,
-    "MedianSoldDOM_YTD":96.5,
-    "MedianSoldToOrigPct_YTD":-0.1439847281,
-    "MedianSoldToOrigDollar_YTD":-39000.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":219000.0,
+    "MedianSoldDOM_YTD":61.0,
+    "MedianSoldToOrigPct_YTD":-0.1033034434,
+    "MedianSoldToOrigDollar_YTD":-30990.0
   },
   {
     "Subdivision":"SPRING BRANCH",
@@ -377,11 +377,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":244500.0,
-    "MedianSoldDOM_YTD":23.5,
-    "MedianSoldToOrigPct_YTD":-0.0333422246,
-    "MedianSoldToOrigDollar_YTD":-12500.0
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":243000.0,
+    "MedianSoldDOM_YTD":32.0,
+    "MedianSoldToOrigPct_YTD":-0.0650250096,
+    "MedianSoldToOrigDollar_YTD":-16900.0
   },
   {
     "Subdivision":"SUNSET HILLS",
