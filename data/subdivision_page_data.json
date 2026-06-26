@@ -2,7 +2,7 @@
   "6 CREEKS": {
     "homesAvailable": 101,
     "minPrice": 355000,
-    "maxPrice": 1280000,
+    "maxPrice": 1250000,
     "medianPrice": null
   },
   "A0220 A0220 Z HINTON SURVEY": {
@@ -60,8 +60,8 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 15,
-    "minPrice": 234000,
+    "homesAvailable": 16,
+    "minPrice": 232950,
     "maxPrice": 300000,
     "medianPrice": null
   },
@@ -90,13 +90,13 @@
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 259000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 48,
+    "homesAvailable": 49,
     "minPrice": 299775,
     "maxPrice": 674900,
     "medianPrice": null
@@ -115,13 +115,13 @@
   },
   "FOUR OAKS": {
     "homesAvailable": 1,
-    "minPrice": 269900,
-    "maxPrice": 269900,
+    "minPrice": 265000,
+    "maxPrice": 265000,
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
     "homesAvailable": 6,
-    "minPrice": 280000,
+    "minPrice": 275000,
     "maxPrice": 375000,
     "medianPrice": null
   },
@@ -163,7 +163,7 @@
   },
   "KENSINGTON TRAILS": {
     "homesAvailable": 12,
-    "minPrice": 230000,
+    "minPrice": 229900,
     "maxPrice": 425000,
     "medianPrice": null
   },
@@ -228,7 +228,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 39,
+    "homesAvailable": 38,
     "minPrice": 249990,
     "maxPrice": 540000,
     "medianPrice": null
@@ -249,6 +249,12 @@
     "homesAvailable": 12,
     "minPrice": 200000,
     "maxPrice": 449000,
+    "medianPrice": null
+  },
+  "PRAIRIE ON CREEK": {
+    "homesAvailable": 1,
+    "minPrice": 295000,
+    "maxPrice": 295000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
@@ -276,7 +282,7 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 229900,
     "maxPrice": 399999,
     "medianPrice": null
@@ -324,7 +330,7 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 16,
+    "homesAvailable": 15,
     "minPrice": 239000,
     "maxPrice": 389990,
     "medianPrice": null
@@ -336,9 +342,9 @@
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 279000,
-    "maxPrice": 320000,
+    "maxPrice": 317500,
     "medianPrice": null
   },
   "Z HINTON ABS": {
