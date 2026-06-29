@@ -1,7 +1,7 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 101,
-    "minPrice": 355000,
+    "homesAvailable": 102,
+    "minPrice": 349000,
     "maxPrice": 1250000,
     "medianPrice": null
   },
@@ -30,7 +30,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 35,
+    "homesAvailable": 34,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -54,8 +54,8 @@
     "medianPrice": null
   },
   "BROOKS RANCH": {
-    "homesAvailable": 2,
-    "minPrice": 455000,
+    "homesAvailable": 1,
+    "minPrice": 525000,
     "maxPrice": 525000,
     "medianPrice": null
   },
@@ -78,25 +78,25 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 320000,
-    "maxPrice": 470000,
+    "maxPrice": 340000,
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 215000,
     "maxPrice": 299999,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 259000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 49,
+    "homesAvailable": 53,
     "minPrice": 299775,
     "maxPrice": 674900,
     "medianPrice": null
@@ -109,8 +109,8 @@
   },
   "CYPRESS FOREST SIX CREEKS 6 CR": {
     "homesAvailable": 1,
-    "minPrice": 445000,
-    "maxPrice": 445000,
+    "minPrice": 420000,
+    "maxPrice": 420000,
     "medianPrice": null
   },
   "FOUR OAKS": {
@@ -126,8 +126,8 @@
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
-    "homesAvailable": 2,
-    "minPrice": 275000,
+    "homesAvailable": 1,
+    "minPrice": 299999,
     "maxPrice": 299999,
     "medianPrice": null
   },
@@ -150,7 +150,7 @@
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 8,
+    "homesAvailable": 6,
     "minPrice": 210000,
     "maxPrice": 299900,
     "medianPrice": null
@@ -221,40 +221,28 @@
     "maxPrice": 515000,
     "medianPrice": null
   },
-  "PARAMONT": {
-    "homesAvailable": 1,
-    "minPrice": 340000,
-    "maxPrice": 340000,
-    "medianPrice": null
-  },
   "PARAMOUNT": {
-    "homesAvailable": 38,
+    "homesAvailable": 37,
     "minPrice": 249990,
     "maxPrice": 540000,
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 299990,
     "maxPrice": 434190,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 57,
+    "homesAvailable": 56,
     "minPrice": 227999,
     "maxPrice": 485000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 200000,
     "maxPrice": 449000,
-    "medianPrice": null
-  },
-  "PRAIRIE ON CREEK": {
-    "homesAvailable": 1,
-    "minPrice": 295000,
-    "maxPrice": 295000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
@@ -330,21 +318,21 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 239000,
-    "maxPrice": 389990,
+    "maxPrice": 369999,
     "medianPrice": null
   },
   "WATERSTONE": {
     "homesAvailable": 30,
-    "minPrice": 204999,
+    "minPrice": 202999,
     "maxPrice": 394990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
     "homesAvailable": 3,
     "minPrice": 279000,
-    "maxPrice": 317500,
+    "maxPrice": 315000,
     "medianPrice": null
   },
   "Z HINTON ABS": {
