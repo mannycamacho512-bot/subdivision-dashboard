@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 102,
+    "homesAvailable": 100,
     "minPrice": 349000,
     "maxPrice": 1250000,
     "medianPrice": null
@@ -162,7 +162,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 229900,
     "maxPrice": 425000,
     "medianPrice": null
@@ -182,7 +182,7 @@
   "MEADOWS AT KYLE": {
     "homesAvailable": 2,
     "minPrice": 294900,
-    "maxPrice": 305000,
+    "maxPrice": 295000,
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 339990,
     "maxPrice": 399990,
     "medianPrice": null
@@ -223,7 +223,7 @@
   },
   "PARAMOUNT": {
     "homesAvailable": 37,
-    "minPrice": 249990,
+    "minPrice": 249900,
     "maxPrice": 540000,
     "medianPrice": null
   },
@@ -258,7 +258,7 @@
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 245000,
     "maxPrice": 395000,
     "medianPrice": null
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 215000,
     "maxPrice": 314900,
     "medianPrice": null
@@ -313,8 +313,8 @@
   },
   "UNDEFINED": {
     "homesAvailable": 1,
-    "minPrice": 374999,
-    "maxPrice": 374999,
+    "minPrice": 349999,
+    "maxPrice": 349999,
     "medianPrice": null
   },
   "WATERLEAF": {
