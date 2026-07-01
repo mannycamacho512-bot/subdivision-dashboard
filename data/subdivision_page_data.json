@@ -1,14 +1,8 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 100,
+    "homesAvailable": 97,
     "minPrice": 349000,
     "maxPrice": 1250000,
-    "medianPrice": null
-  },
-  "A0220 A0220 Z HINTON SURVEY": {
-    "homesAvailable": 1,
-    "minPrice": 96500,
-    "maxPrice": 96500,
     "medianPrice": null
   },
   "A0220 Z HINTON SURV": {
@@ -30,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 34,
+    "homesAvailable": 32,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -45,12 +39,6 @@
     "homesAvailable": 2,
     "minPrice": 550000,
     "maxPrice": 650000,
-    "medianPrice": null
-  },
-  "BROOKS CROSSING": {
-    "homesAvailable": 1,
-    "minPrice": 489999,
-    "maxPrice": 489999,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -84,13 +72,13 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 215000,
     "maxPrice": 299999,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 259000,
     "maxPrice": 330000,
     "medianPrice": null
@@ -98,7 +86,7 @@
   "CROSSWINDS": {
     "homesAvailable": 53,
     "minPrice": 299775,
-    "maxPrice": 674900,
+    "maxPrice": 649900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
@@ -138,14 +126,14 @@
     "medianPrice": null
   },
   "HIGH MEADOWS": {
-    "homesAvailable": 2,
-    "minPrice": 394900,
+    "homesAvailable": 1,
+    "minPrice": 444900,
     "maxPrice": 444900,
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 11,
-    "minPrice": 255000,
+    "homesAvailable": 12,
+    "minPrice": 249000,
     "maxPrice": 484950,
     "medianPrice": null
   },
@@ -169,13 +157,13 @@
   },
   "LA MORAIA ESTATES": {
     "homesAvailable": 1,
-    "minPrice": 750000,
-    "maxPrice": 750000,
+    "minPrice": 649900,
+    "maxPrice": 649900,
     "medianPrice": null
   },
   "MEADOW WOODS": {
     "homesAvailable": 4,
-    "minPrice": 398000,
+    "minPrice": 397900,
     "maxPrice": 580000,
     "medianPrice": null
   },
@@ -204,9 +192,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 9,
+    "homesAvailable": 8,
     "minPrice": 364990,
-    "maxPrice": 464990,
+    "maxPrice": 460990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -216,25 +204,25 @@
     "medianPrice": null
   },
   "OUT HAYS CO": {
-    "homesAvailable": 3,
-    "minPrice": 265000,
-    "maxPrice": 515000,
+    "homesAvailable": 2,
+    "minPrice": 400000,
+    "maxPrice": 512500,
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 37,
+    "homesAvailable": 36,
     "minPrice": 249900,
     "maxPrice": 540000,
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 9,
+    "homesAvailable": 8,
     "minPrice": 299990,
-    "maxPrice": 434190,
+    "maxPrice": 412090,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 56,
+    "homesAvailable": 59,
     "minPrice": 227999,
     "maxPrice": 485000,
     "medianPrice": null
@@ -243,6 +231,12 @@
     "homesAvailable": 13,
     "minPrice": 200000,
     "maxPrice": 449000,
+    "medianPrice": null
+  },
+  "PRAIRIE ON CREEK": {
+    "homesAvailable": 1,
+    "minPrice": 295000,
+    "maxPrice": 295000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
@@ -270,8 +264,8 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 7,
-    "minPrice": 229900,
+    "homesAvailable": 5,
+    "minPrice": 239900,
     "maxPrice": 399999,
     "medianPrice": null
   },
@@ -300,7 +294,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -324,7 +318,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 30,
+    "homesAvailable": 29,
     "minPrice": 202999,
     "maxPrice": 394990,
     "medianPrice": null
