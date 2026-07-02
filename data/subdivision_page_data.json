@@ -36,19 +36,19 @@
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
-    "homesAvailable": 2,
-    "minPrice": 550000,
+    "homesAvailable": 1,
+    "minPrice": 650000,
     "maxPrice": 650000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
-    "homesAvailable": 1,
-    "minPrice": 525000,
+    "homesAvailable": 2,
+    "minPrice": 445000,
     "maxPrice": 525000,
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 16,
+    "homesAvailable": 15,
     "minPrice": 232950,
     "maxPrice": 300000,
     "medianPrice": null
@@ -72,7 +72,7 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 215000,
     "maxPrice": 299999,
     "medianPrice": null
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 36,
+    "homesAvailable": 35,
     "minPrice": 249900,
     "maxPrice": 540000,
     "medianPrice": null
@@ -318,7 +318,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 29,
+    "homesAvailable": 30,
     "minPrice": 202999,
     "maxPrice": 394990,
     "medianPrice": null
