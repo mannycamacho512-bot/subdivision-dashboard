@@ -2,10 +2,10 @@
   {
     "Subdivision":"6 CREEKS",
     "Sold_YTD":80,
-    "MedianSoldPrice_YTD":487645.0,
-    "MedianSoldDOM_YTD":110.0,
-    "MedianSoldToOrigPct_YTD":-0.1250393153,
-    "MedianSoldToOrigDollar_YTD":-69500.0
+    "MedianSoldPrice_YTD":489000.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1252609603,
+    "MedianSoldToOrigDollar_YTD":-70000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -97,11 +97,11 @@
   },
   {
     "Subdivision":"CREEKSIDE",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":239000.0,
-    "MedianSoldDOM_YTD":36.5,
-    "MedianSoldToOrigPct_YTD":-0.0026207288,
-    "MedianSoldToOrigDollar_YTD":-628.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":252690.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":-0.0013103644,
+    "MedianSoldToOrigDollar_YTD":-314.0
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
@@ -298,10 +298,10 @@
   {
     "Subdivision":"PLUM CREEK",
     "Sold_YTD":80,
-    "MedianSoldPrice_YTD":317965.0,
+    "MedianSoldPrice_YTD":313495.0,
     "MedianSoldDOM_YTD":47.5,
-    "MedianSoldToOrigPct_YTD":-0.0681512605,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "MedianSoldToOrigPct_YTD":-0.0706487518,
+    "MedianSoldToOrigDollar_YTD":-20495.5
   },
   {
     "Subdivision":"POST OAK",
@@ -433,18 +433,18 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":76,
-    "MedianSoldPrice_YTD":303490.0,
-    "MedianSoldDOM_YTD":36.5,
+    "Sold_YTD":80,
+    "MedianSoldPrice_YTD":304490.0,
+    "MedianSoldDOM_YTD":37.5,
     "MedianSoldToOrigPct_YTD":-0.0680549168,
-    "MedianSoldToOrigDollar_YTD":-22924.5
+    "MedianSoldToOrigDollar_YTD":-24015.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":267000.0,
-    "MedianSoldDOM_YTD":64.0,
-    "MedianSoldToOrigPct_YTD":-0.0385454545,
-    "MedianSoldToOrigDollar_YTD":-10600.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":270999.5,
+    "MedianSoldDOM_YTD":68.0,
+    "MedianSoldToOrigPct_YTD":-0.0356803266,
+    "MedianSoldToOrigDollar_YTD":-10050.0
   }
 ]
