@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 97,
+    "homesAvailable": 96,
     "minPrice": 349000,
     "maxPrice": 1250000,
     "medianPrice": null
@@ -20,18 +20,18 @@
   "AMBERWOOD": {
     "homesAvailable": 5,
     "minPrice": 260000,
-    "maxPrice": 332900,
+    "maxPrice": 325400,
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 32,
+    "homesAvailable": 31,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
   },
   "ARROYO RANCH": {
     "homesAvailable": 2,
-    "minPrice": 539000,
+    "minPrice": 529000,
     "maxPrice": 685000,
     "medianPrice": null
   },
@@ -50,11 +50,11 @@
   "BUNTON CREEK": {
     "homesAvailable": 15,
     "minPrice": 232950,
-    "maxPrice": 300000,
+    "maxPrice": 299995,
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 16,
+    "homesAvailable": 13,
     "minPrice": 249990,
     "maxPrice": 326990,
     "medianPrice": null
@@ -84,21 +84,15 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 53,
+    "homesAvailable": 54,
     "minPrice": 299775,
     "maxPrice": 649900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 358799,
-    "maxPrice": 650000,
-    "medianPrice": null
-  },
-  "CYPRESS FOREST SIX CREEKS 6 CR": {
-    "homesAvailable": 1,
-    "minPrice": 420000,
-    "maxPrice": 420000,
+    "maxPrice": 645000,
     "medianPrice": null
   },
   "FOUR OAKS": {
@@ -114,8 +108,8 @@
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
-    "homesAvailable": 1,
-    "minPrice": 299999,
+    "homesAvailable": 2,
+    "minPrice": 270000,
     "maxPrice": 299999,
     "medianPrice": null
   },
@@ -132,13 +126,13 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 249000,
     "maxPrice": 484950,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 210000,
     "maxPrice": 299900,
     "medianPrice": null
@@ -161,15 +155,21 @@
     "maxPrice": 649900,
     "medianPrice": null
   },
+  "LIMESTONE CREEK SUB": {
+    "homesAvailable": 1,
+    "minPrice": 283000,
+    "maxPrice": 283000,
+    "medianPrice": null
+  },
   "MEADOW WOODS": {
-    "homesAvailable": 4,
-    "minPrice": 397900,
+    "homesAvailable": 5,
+    "minPrice": 390000,
     "maxPrice": 580000,
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 2,
-    "minPrice": 294900,
+    "homesAvailable": 1,
+    "minPrice": 295000,
     "maxPrice": 295000,
     "medianPrice": null
   },
@@ -192,7 +192,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 364990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -211,7 +211,7 @@
   },
   "PARAMOUNT": {
     "homesAvailable": 35,
-    "minPrice": 249900,
+    "minPrice": 224999,
     "maxPrice": 540000,
     "medianPrice": null
   },
@@ -222,7 +222,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 59,
+    "homesAvailable": 60,
     "minPrice": 227999,
     "maxPrice": 485000,
     "medianPrice": null
@@ -240,13 +240,13 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 2,
+    "homesAvailable": 3,
     "minPrice": 199999,
-    "maxPrice": 270000,
+    "maxPrice": 299000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 329999,
     "maxPrice": 499999,
     "medianPrice": null
@@ -275,14 +275,8 @@
     "maxPrice": 485000,
     "medianPrice": null
   },
-  "STEEPLE CHASE": {
-    "homesAvailable": 1,
-    "minPrice": 339900,
-    "maxPrice": 339900,
-    "medianPrice": null
-  },
   "STEEPLECHASE": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 215000,
     "maxPrice": 314900,
     "medianPrice": null
@@ -318,14 +312,14 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 30,
+    "homesAvailable": 32,
     "minPrice": 202999,
     "maxPrice": 394990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 3,
-    "minPrice": 279000,
+    "homesAvailable": 4,
+    "minPrice": 275000,
     "maxPrice": 315000,
     "medianPrice": null
   },
