@@ -2,10 +2,10 @@
   {
     "Subdivision":"6 CREEKS",
     "Sold_YTD":80,
-    "MedianSoldPrice_YTD":489000.0,
-    "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1252609603,
-    "MedianSoldToOrigDollar_YTD":-70000.0
+    "MedianSoldPrice_YTD":489450.0,
+    "MedianSoldDOM_YTD":118.5,
+    "MedianSoldToOrigPct_YTD":-0.1267552525,
+    "MedianSoldToOrigDollar_YTD":-70204.5
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"COOL SPRINGS",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":290000.0,
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":298500.0,
     "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.0375,
-    "MedianSoldToOrigDollar_YTD":-15000.0
+    "MedianSoldToOrigPct_YTD":-0.0493310398,
+    "MedianSoldToOrigDollar_YTD":-17500.0
   },
   {
     "Subdivision":"CREEKSIDE",
@@ -297,11 +297,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":80,
-    "MedianSoldPrice_YTD":313495.0,
-    "MedianSoldDOM_YTD":47.5,
-    "MedianSoldToOrigPct_YTD":-0.0706487518,
-    "MedianSoldToOrigDollar_YTD":-20495.5
+    "Sold_YTD":81,
+    "MedianSoldPrice_YTD":316990.0,
+    "MedianSoldDOM_YTD":47.0,
+    "MedianSoldToOrigPct_YTD":-0.0705882353,
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"POST OAK",
@@ -337,11 +337,11 @@
   },
   {
     "Subdivision":"SILVERADO AT PLUM CREEK",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":298000.0,
-    "MedianSoldDOM_YTD":19.5,
-    "MedianSoldToOrigPct_YTD":-0.0258823529,
-    "MedianSoldToOrigDollar_YTD":-11000.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":322000.0,
+    "MedianSoldDOM_YTD":18.0,
+    "MedianSoldToOrigPct_YTD":0.0,
+    "MedianSoldToOrigDollar_YTD":0.0
   },
   {
     "Subdivision":"SOUTHBEND I",
@@ -361,11 +361,11 @@
   },
   {
     "Subdivision":"SPRING BRANCH",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":10.0,
-    "MedianSoldToOrigPct_YTD":-0.0215053763,
-    "MedianSoldToOrigDollar_YTD":-5000.0
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":249500.0,
+    "MedianSoldDOM_YTD":11.5,
+    "MedianSoldToOrigPct_YTD":-0.0218637993,
+    "MedianSoldToOrigDollar_YTD":-5500.0
   },
   {
     "Subdivision":"STAGECOACH",
@@ -417,11 +417,11 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":17,
-    "MedianSoldPrice_YTD":260000.0,
-    "MedianSoldDOM_YTD":64.0,
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":262450.0,
+    "MedianSoldDOM_YTD":56.5,
     "MedianSoldToOrigPct_YTD":-0.0714285714,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "MedianSoldToOrigDollar_YTD":-22500.0
   },
   {
     "Subdivision":"WATERMILL",
