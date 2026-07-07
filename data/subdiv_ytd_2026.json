@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":80,
-    "MedianSoldPrice_YTD":489450.0,
-    "MedianSoldDOM_YTD":118.5,
-    "MedianSoldToOrigPct_YTD":-0.1267552525,
-    "MedianSoldToOrigDollar_YTD":-70204.5
+    "Sold_YTD":81,
+    "MedianSoldPrice_YTD":489900.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1252609603,
+    "MedianSoldToOrigDollar_YTD":-70000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":41,
-    "MedianSoldPrice_YTD":354990.0,
-    "MedianSoldDOM_YTD":91.0,
-    "MedianSoldToOrigPct_YTD":-0.0668273706,
-    "MedianSoldToOrigDollar_YTD":-22250.0
+    "Sold_YTD":42,
+    "MedianSoldPrice_YTD":358990.0,
+    "MedianSoldDOM_YTD":88.0,
+    "MedianSoldToOrigPct_YTD":-0.0652325903,
+    "MedianSoldToOrigDollar_YTD":-22175.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -49,11 +49,11 @@
   },
   {
     "Subdivision":"BROOKS CROSSING",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":335050.0,
-    "MedianSoldDOM_YTD":48.5,
-    "MedianSoldToOrigPct_YTD":-0.0347736249,
-    "MedianSoldToOrigDollar_YTD":-11950.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":320100.0,
+    "MedianSoldDOM_YTD":48.0,
+    "MedianSoldToOrigPct_YTD":-0.0250696379,
+    "MedianSoldToOrigDollar_YTD":-9000.0
   },
   {
     "Subdivision":"BROOKS RANCH",
@@ -264,6 +264,14 @@
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
+    "Subdivision":"ORIGINAL TOWN KYLE",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":255000.0,
+    "MedianSoldDOM_YTD":12.0,
+    "MedianSoldToOrigPct_YTD":-0.0377358491,
+    "MedianSoldToOrigDollar_YTD":-10000.0
+  },
+  {
     "Subdivision":"OUT HAYS",
     "Sold_YTD":1,
     "MedianSoldPrice_YTD":315000.0,
@@ -297,11 +305,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":81,
-    "MedianSoldPrice_YTD":316990.0,
-    "MedianSoldDOM_YTD":47.0,
-    "MedianSoldToOrigPct_YTD":-0.0705882353,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "Sold_YTD":82,
+    "MedianSoldPrice_YTD":313495.0,
+    "MedianSoldDOM_YTD":47.5,
+    "MedianSoldToOrigPct_YTD":-0.0706487518,
+    "MedianSoldToOrigDollar_YTD":-20495.5
   },
   {
     "Subdivision":"POST OAK",
@@ -417,11 +425,11 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":18,
-    "MedianSoldPrice_YTD":262450.0,
-    "MedianSoldDOM_YTD":56.5,
+    "Sold_YTD":19,
+    "MedianSoldPrice_YTD":264900.0,
+    "MedianSoldDOM_YTD":49.0,
     "MedianSoldToOrigPct_YTD":-0.0714285714,
-    "MedianSoldToOrigDollar_YTD":-22500.0
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"WATERMILL",
