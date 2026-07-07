@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 96,
+    "homesAvailable": 95,
     "minPrice": 349000,
     "maxPrice": 1250000,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 31,
+    "homesAvailable": 30,
     "minPrice": 299190,
     "maxPrice": 670894,
     "medianPrice": null
@@ -84,7 +84,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 54,
+    "homesAvailable": 55,
     "minPrice": 299775,
     "maxPrice": 649900,
     "medianPrice": null
@@ -102,9 +102,9 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 275000,
-    "maxPrice": 375000,
+    "maxPrice": 345500,
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
@@ -132,7 +132,7 @@
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 210000,
     "maxPrice": 299900,
     "medianPrice": null
@@ -144,7 +144,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 11,
+    "homesAvailable": 13,
     "minPrice": 229900,
     "maxPrice": 425000,
     "medianPrice": null
@@ -162,7 +162,7 @@
     "medianPrice": null
   },
   "MEADOW WOODS": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 390000,
     "maxPrice": 580000,
     "medianPrice": null
@@ -192,7 +192,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 364990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -264,7 +264,7 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 239900,
     "maxPrice": 399999,
     "medianPrice": null
@@ -293,12 +293,6 @@
     "maxPrice": 394999,
     "medianPrice": null
   },
-  "TRAILS": {
-    "homesAvailable": 1,
-    "minPrice": 289900,
-    "maxPrice": 289900,
-    "medianPrice": null
-  },
   "UNDEFINED": {
     "homesAvailable": 1,
     "minPrice": 349999,
@@ -318,8 +312,8 @@
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 4,
-    "minPrice": 275000,
+    "homesAvailable": 5,
+    "minPrice": 259900,
     "maxPrice": 315000,
     "medianPrice": null
   },
