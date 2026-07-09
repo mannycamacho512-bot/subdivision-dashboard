@@ -24,9 +24,9 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 30,
-    "minPrice": 299190,
-    "maxPrice": 670894,
+    "homesAvailable": 32,
+    "minPrice": 289990,
+    "maxPrice": 654013,
     "medianPrice": null
   },
   "ARROYO RANCH": {
@@ -37,8 +37,8 @@
   },
   "BLANCO RIVER CROSSING": {
     "homesAvailable": 1,
-    "minPrice": 650000,
-    "maxPrice": 650000,
+    "minPrice": 635000,
+    "maxPrice": 635000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -79,7 +79,7 @@
   },
   "CREEKSIDE": {
     "homesAvailable": 5,
-    "minPrice": 215000,
+    "minPrice": 209890,
     "maxPrice": 299999,
     "medianPrice": null
   },
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 56,
+    "homesAvailable": 55,
     "minPrice": 299775,
     "maxPrice": 649900,
     "medianPrice": null
@@ -114,7 +114,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 228500,
     "maxPrice": 345000,
     "medianPrice": null
@@ -168,8 +168,8 @@
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 1,
-    "minPrice": 295000,
+    "homesAvailable": 2,
+    "minPrice": 289999,
     "maxPrice": 295000,
     "medianPrice": null
   },
@@ -192,7 +192,7 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 339990,
     "maxPrice": 399990,
     "medianPrice": null
@@ -210,15 +210,15 @@
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 8,
+    "homesAvailable": 9,
     "minPrice": 299990,
-    "maxPrice": 412090,
+    "maxPrice": 399990,
     "medianPrice": null
   },
   "PLUM CREEK": {
     "homesAvailable": 59,
     "minPrice": 227999,
-    "maxPrice": 485000,
+    "maxPrice": 483000,
     "medianPrice": null
   },
   "POST OAK": {
@@ -276,8 +276,8 @@
     "medianPrice": null
   },
   "SUNSET HILLS": {
-    "homesAvailable": 6,
-    "minPrice": 310000,
+    "homesAvailable": 5,
+    "minPrice": 340000,
     "maxPrice": 415000,
     "medianPrice": null
   },
@@ -300,7 +300,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 35,
+    "homesAvailable": 33,
     "minPrice": 202999,
     "maxPrice": 394990,
     "medianPrice": null
