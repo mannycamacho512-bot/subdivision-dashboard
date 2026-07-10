@@ -85,13 +85,13 @@
   },
   "CREEKSIDE VILLAGE": {
     "homesAvailable": 6,
-    "minPrice": 259000,
+    "minPrice": 254000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
     "homesAvailable": 55,
-    "minPrice": 299775,
+    "minPrice": 299900,
     "maxPrice": 649900,
     "medianPrice": null
   },
@@ -114,7 +114,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 228500,
     "maxPrice": 345000,
     "medianPrice": null
@@ -126,7 +126,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 13,
+    "homesAvailable": 14,
     "minPrice": 249000,
     "maxPrice": 484950,
     "medianPrice": null
@@ -144,8 +144,8 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 13,
-    "minPrice": 229900,
+    "homesAvailable": 12,
+    "minPrice": 230000,
     "maxPrice": 425000,
     "medianPrice": null
   },
@@ -204,7 +204,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 34,
+    "homesAvailable": 35,
     "minPrice": 265000,
     "maxPrice": 540000,
     "medianPrice": null
@@ -222,7 +222,7 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 13,
+    "homesAvailable": 14,
     "minPrice": 200000,
     "maxPrice": 449000,
     "medianPrice": null
@@ -248,7 +248,7 @@
   "SILVERADO AT PLUM CREEK": {
     "homesAvailable": 4,
     "minPrice": 245000,
-    "maxPrice": 395000,
+    "maxPrice": 385000,
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
@@ -282,7 +282,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 15,
+    "homesAvailable": 14,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
