@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":83,
-    "MedianSoldPrice_YTD":489000.0,
-    "MedianSoldDOM_YTD":121.0,
-    "MedianSoldToOrigPct_YTD":-0.1252609603,
-    "MedianSoldToOrigDollar_YTD":-70000.0
+    "Sold_YTD":84,
+    "MedianSoldPrice_YTD":489450.0,
+    "MedianSoldDOM_YTD":118.5,
+    "MedianSoldToOrigPct_YTD":-0.1250393153,
+    "MedianSoldToOrigDollar_YTD":-69500.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":17,
-    "MedianSoldPrice_YTD":330000.0,
-    "MedianSoldDOM_YTD":81.0,
-    "MedianSoldToOrigPct_YTD":-0.0476303882,
-    "MedianSoldToOrigDollar_YTD":-19000.0
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":327500.0,
+    "MedianSoldDOM_YTD":81.5,
+    "MedianSoldToOrigPct_YTD":-0.0514314732,
+    "MedianSoldToOrigDollar_YTD":-19500.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -289,11 +289,11 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":10,
-    "MedianSoldPrice_YTD":334245.0,
-    "MedianSoldDOM_YTD":130.0,
-    "MedianSoldToOrigPct_YTD":-0.0622968888,
-    "MedianSoldToOrigDollar_YTD":-25990.0
+    "Sold_YTD":11,
+    "MedianSoldPrice_YTD":350000.0,
+    "MedianSoldDOM_YTD":167.0,
+    "MedianSoldToOrigPct_YTD":-0.0574279277,
+    "MedianSoldToOrigDollar_YTD":-24980.0
   },
   {
     "Subdivision":"PARKTON SQUARE",
@@ -305,10 +305,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":85,
-    "MedianSoldPrice_YTD":318940.0,
-    "MedianSoldDOM_YTD":43.0,
-    "MedianSoldToOrigPct_YTD":-0.0657142857,
+    "Sold_YTD":86,
+    "MedianSoldPrice_YTD":321465.0,
+    "MedianSoldDOM_YTD":42.0,
+    "MedianSoldToOrigPct_YTD":-0.0680684105,
     "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
