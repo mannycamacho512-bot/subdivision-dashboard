@@ -305,19 +305,19 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":86,
-    "MedianSoldPrice_YTD":321465.0,
-    "MedianSoldDOM_YTD":42.0,
-    "MedianSoldToOrigPct_YTD":-0.0680684105,
+    "Sold_YTD":87,
+    "MedianSoldPrice_YTD":323990.0,
+    "MedianSoldDOM_YTD":41.0,
+    "MedianSoldToOrigPct_YTD":-0.0657142857,
     "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":62.0,
-    "MedianSoldToOrigPct_YTD":-0.093997735,
-    "MedianSoldToOrigDollar_YTD":-24900.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":245300.0,
+    "MedianSoldDOM_YTD":60.0,
+    "MedianSoldToOrigPct_YTD":-0.0828131932,
+    "MedianSoldToOrigDollar_YTD":-21400.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -393,11 +393,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":243500.0,
-    "MedianSoldDOM_YTD":24.5,
-    "MedianSoldToOrigPct_YTD":-0.0614700338,
-    "MedianSoldToOrigDollar_YTD":-15950.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":243000.0,
+    "MedianSoldDOM_YTD":17.0,
+    "MedianSoldToOrigPct_YTD":-0.0650250096,
+    "MedianSoldToOrigDollar_YTD":-16900.0
   },
   {
     "Subdivision":"SUNSET HILLS",
@@ -409,11 +409,11 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":298500.0,
-    "MedianSoldDOM_YTD":40.0,
-    "MedianSoldToOrigPct_YTD":-0.0128943523,
-    "MedianSoldToOrigDollar_YTD":-4500.0
+    "Sold_YTD":11,
+    "MedianSoldPrice_YTD":298935.0,
+    "MedianSoldDOM_YTD":55.0,
+    "MedianSoldToOrigPct_YTD":-0.0257887045,
+    "MedianSoldToOrigDollar_YTD":-9000.0
   },
   {
     "Subdivision":"THE TRAILS",
