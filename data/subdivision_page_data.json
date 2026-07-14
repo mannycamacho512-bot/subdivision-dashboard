@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 95,
+    "homesAvailable": 98,
     "minPrice": 349000,
     "maxPrice": 1250000,
     "medianPrice": null
@@ -90,8 +90,8 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 54,
-    "minPrice": 299900,
+    "homesAvailable": 55,
+    "minPrice": 240000,
     "maxPrice": 649900,
     "medianPrice": null
   },
@@ -126,7 +126,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 249000,
     "maxPrice": 419900,
     "medianPrice": null
@@ -205,7 +205,7 @@
   },
   "PARAMOUNT": {
     "homesAvailable": 34,
-    "minPrice": 265000,
+    "minPrice": 264000,
     "maxPrice": 540000,
     "medianPrice": null
   },
@@ -234,9 +234,9 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 199999,
-    "maxPrice": 299000,
+    "maxPrice": 255000,
     "medianPrice": null
   },
   "SAGE HOLLOW": {
@@ -282,7 +282,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 263990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -300,7 +300,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 32,
+    "homesAvailable": 33,
     "minPrice": 202999,
     "maxPrice": 394990,
     "medianPrice": null
