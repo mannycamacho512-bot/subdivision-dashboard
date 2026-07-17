@@ -18,26 +18,26 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 260000,
     "maxPrice": 325400,
     "medianPrice": null
   },
   "ANTHEM": {
     "homesAvailable": 32,
-    "minPrice": 289990,
-    "maxPrice": 654013,
+    "minPrice": 282690,
+    "maxPrice": 628590,
     "medianPrice": null
   },
   "ARROYO RANCH": {
     "homesAvailable": 2,
-    "minPrice": 529000,
+    "minPrice": 519900,
     "maxPrice": 685000,
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
-    "homesAvailable": 1,
-    "minPrice": 635000,
+    "homesAvailable": 2,
+    "minPrice": 575550,
     "maxPrice": 635000,
     "medianPrice": null
   },
@@ -54,15 +54,15 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 16,
+    "homesAvailable": 17,
     "minPrice": 232950,
     "maxPrice": 299995,
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 13,
+    "homesAvailable": 16,
     "minPrice": 249990,
-    "maxPrice": 326990,
+    "maxPrice": 342780,
     "medianPrice": null
   },
   "CENTURY ACRES": {
@@ -74,7 +74,7 @@
   "COOL SPRINGS": {
     "homesAvailable": 3,
     "minPrice": 320000,
-    "maxPrice": 340000,
+    "maxPrice": 339000,
     "medianPrice": null
   },
   "CREEKSIDE": {
@@ -92,7 +92,7 @@
   "CROSSWINDS": {
     "homesAvailable": 55,
     "minPrice": 240000,
-    "maxPrice": 649900,
+    "maxPrice": 624900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
@@ -110,13 +110,13 @@
   "GRIST MILL HIGHLANDS": {
     "homesAvailable": 2,
     "minPrice": 270000,
-    "maxPrice": 299999,
+    "maxPrice": 296000,
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 228500,
-    "maxPrice": 345000,
+    "maxPrice": 370000,
     "medianPrice": null
   },
   "HIGH MEADOWS": {
@@ -126,9 +126,9 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 249000,
-    "maxPrice": 419900,
+    "maxPrice": 480000,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
@@ -186,7 +186,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 9,
+    "homesAvailable": 8,
     "minPrice": 384990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -204,33 +204,33 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 34,
+    "homesAvailable": 33,
     "minPrice": 264000,
     "maxPrice": 540000,
     "medianPrice": null
   },
   "PARKTON SQUARE": {
     "homesAvailable": 9,
-    "minPrice": 299990,
-    "maxPrice": 399990,
+    "minPrice": 303999,
+    "maxPrice": 401990,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
+    "homesAvailable": 55,
     "minPrice": 227999,
     "maxPrice": 483000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 200000,
-    "maxPrice": 449000,
+    "maxPrice": 439000,
     "medianPrice": null
   },
   "PRAIRIE ON CREEK": {
     "homesAvailable": 1,
-    "minPrice": 295000,
-    "maxPrice": 295000,
+    "minPrice": 285000,
+    "maxPrice": 285000,
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
@@ -240,9 +240,9 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 329999,
-    "maxPrice": 499999,
+    "maxPrice": 484999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
@@ -259,7 +259,7 @@
   },
   "SPRING BRANCH": {
     "homesAvailable": 3,
-    "minPrice": 239999,
+    "minPrice": 235000,
     "maxPrice": 399999,
     "medianPrice": null
   },
@@ -271,7 +271,7 @@
   },
   "STEEPLECHASE": {
     "homesAvailable": 6,
-    "minPrice": 215000,
+    "minPrice": 213000,
     "maxPrice": 300000,
     "medianPrice": null
   },
@@ -282,7 +282,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 13,
+    "homesAvailable": 15,
     "minPrice": 263990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -294,7 +294,7 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 14,
+    "homesAvailable": 16,
     "minPrice": 239000,
     "maxPrice": 369999,
     "medianPrice": null
@@ -308,7 +308,7 @@
   "WOODLANDS PARK": {
     "homesAvailable": 4,
     "minPrice": 259900,
-    "maxPrice": 285000,
+    "maxPrice": 299000,
     "medianPrice": null
   },
   "Z HINTON ABS": {
