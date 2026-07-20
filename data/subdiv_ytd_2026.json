@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":48,
-    "MedianSoldPrice_YTD":353174.5,
-    "MedianSoldDOM_YTD":88.0,
-    "MedianSoldToOrigPct_YTD":-0.0617337092,
-    "MedianSoldToOrigDollar_YTD":-18725.0
+    "Sold_YTD":49,
+    "MedianSoldPrice_YTD":354990.0,
+    "MedianSoldDOM_YTD":85.0,
+    "MedianSoldToOrigPct_YTD":-0.0618214717,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -289,11 +289,11 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":11,
+    "Sold_YTD":13,
     "MedianSoldPrice_YTD":350000.0,
     "MedianSoldDOM_YTD":167.0,
-    "MedianSoldToOrigPct_YTD":-0.0574279277,
-    "MedianSoldToOrigDollar_YTD":-24980.0
+    "MedianSoldToOrigPct_YTD":-0.0671658499,
+    "MedianSoldToOrigDollar_YTD":-27000.0
   },
   {
     "Subdivision":"PARKTON SQUARE",
@@ -305,11 +305,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":88,
-    "MedianSoldPrice_YTD":323995.0,
-    "MedianSoldDOM_YTD":42.0,
-    "MedianSoldToOrigPct_YTD":-0.064659263,
-    "MedianSoldToOrigDollar_YTD":-19995.5
+    "Sold_YTD":89,
+    "MedianSoldPrice_YTD":323990.0,
+    "MedianSoldDOM_YTD":43.0,
+    "MedianSoldToOrigPct_YTD":-0.0636042403,
+    "MedianSoldToOrigDollar_YTD":-19991.0
   },
   {
     "Subdivision":"POST OAK",
