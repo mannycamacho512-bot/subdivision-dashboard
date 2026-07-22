@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":86,
-    "MedianSoldPrice_YTD":489950.0,
-    "MedianSoldDOM_YTD":118.5,
-    "MedianSoldToOrigPct_YTD":-0.1267552525,
-    "MedianSoldToOrigDollar_YTD":-70204.5
+    "Sold_YTD":87,
+    "MedianSoldPrice_YTD":490000.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1252609603,
+    "MedianSoldToOrigDollar_YTD":-70000.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -41,10 +41,10 @@
   },
   {
     "Subdivision":"BRADFORD MEADOWS",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":119.0,
-    "MedianSoldToOrigPct_YTD":-0.0298507463,
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":294950.0,
+    "MedianSoldDOM_YTD":65.0,
+    "MedianSoldToOrigPct_YTD":-0.0331138053,
     "MedianSoldToOrigDollar_YTD":-10000.0
   },
   {
@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":18,
-    "MedianSoldPrice_YTD":327500.0,
-    "MedianSoldDOM_YTD":81.5,
-    "MedianSoldToOrigPct_YTD":-0.0514314732,
-    "MedianSoldToOrigDollar_YTD":-19500.0
+    "Sold_YTD":19,
+    "MedianSoldPrice_YTD":325000.0,
+    "MedianSoldDOM_YTD":82.0,
+    "MedianSoldToOrigPct_YTD":-0.0483870968,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -217,11 +217,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":255000.0,
-    "MedianSoldDOM_YTD":27.0,
-    "MedianSoldToOrigPct_YTD":-0.0204081633,
-    "MedianSoldToOrigDollar_YTD":-5000.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":262500.0,
+    "MedianSoldDOM_YTD":29.0,
+    "MedianSoldToOrigPct_YTD":-0.0278889691,
+    "MedianSoldToOrigDollar_YTD":-7450.0
   },
   {
     "Subdivision":"MEADOW WOODS",
@@ -249,11 +249,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":23,
-    "MedianSoldPrice_YTD":437590.0,
-    "MedianSoldDOM_YTD":100.0,
-    "MedianSoldToOrigPct_YTD":-0.0853707415,
-    "MedianSoldToOrigDollar_YTD":-39175.0
+    "Sold_YTD":24,
+    "MedianSoldPrice_YTD":436290.0,
+    "MedianSoldDOM_YTD":98.5,
+    "MedianSoldToOrigPct_YTD":-0.0802673448,
+    "MedianSoldToOrigDollar_YTD":-37467.5
   },
   {
     "Subdivision":"OPAL RANCH",
