@@ -18,8 +18,8 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 5,
-    "minPrice": 260000,
+    "homesAvailable": 6,
+    "minPrice": 229999,
     "maxPrice": 325400,
     "medianPrice": null
   },
@@ -54,9 +54,9 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 16,
+    "homesAvailable": 17,
     "minPrice": 232950,
-    "maxPrice": 299900,
+    "maxPrice": 299500,
     "medianPrice": null
   },
   "CASETTA RANCH": {
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 55,
+    "homesAvailable": 54,
     "minPrice": 240000,
     "maxPrice": 624900,
     "medianPrice": null
@@ -102,7 +102,7 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 275000,
     "maxPrice": 345500,
     "medianPrice": null
@@ -203,12 +203,6 @@
     "maxPrice": 512500,
     "medianPrice": null
   },
-  "PARAMONT": {
-    "homesAvailable": 1,
-    "minPrice": 1750,
-    "maxPrice": 1750,
-    "medianPrice": null
-  },
   "PARAMOUNT": {
     "homesAvailable": 33,
     "minPrice": 264000,
@@ -222,9 +216,9 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 59,
+    "homesAvailable": 61,
     "minPrice": 227999,
-    "maxPrice": 483000,
+    "maxPrice": 475000,
     "medianPrice": null
   },
   "POST OAK": {
@@ -245,6 +239,12 @@
     "maxPrice": 255000,
     "medianPrice": null
   },
+  "S1264 CASETTA RANCH": {
+    "homesAvailable": 1,
+    "minPrice": 300000,
+    "maxPrice": 300000,
+    "medianPrice": null
+  },
   "SAGE HOLLOW": {
     "homesAvailable": 13,
     "minPrice": 329999,
@@ -252,15 +252,15 @@
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 245000,
     "maxPrice": 385000,
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 216000,
-    "maxPrice": 319000,
+    "maxPrice": 259900,
     "medianPrice": null
   },
   "SPRING BRANCH": {
@@ -276,7 +276,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 213000,
     "maxPrice": 450000,
     "medianPrice": null
@@ -306,13 +306,13 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 34,
+    "homesAvailable": 35,
     "minPrice": 202999,
     "maxPrice": 389900,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 259900,
     "maxPrice": 299000,
     "medianPrice": null
