@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":87,
+    "Sold_YTD":89,
     "MedianSoldPrice_YTD":490000.0,
     "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1252609603,
-    "MedianSoldToOrigDollar_YTD":-70000.0
+    "MedianSoldToOrigPct_YTD":-0.1248176703,
+    "MedianSoldToOrigDollar_YTD":-70409.0
   },
   {
     "Subdivision":"AMBERWOOD",
@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":49,
-    "MedianSoldPrice_YTD":354990.0,
-    "MedianSoldDOM_YTD":85.0,
-    "MedianSoldToOrigPct_YTD":-0.0618214717,
-    "MedianSoldToOrigDollar_YTD":-19000.0
+    "Sold_YTD":52,
+    "MedianSoldPrice_YTD":358990.0,
+    "MedianSoldDOM_YTD":84.0,
+    "MedianSoldToOrigPct_YTD":-0.0617337092,
+    "MedianSoldToOrigDollar_YTD":-20550.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -73,11 +73,11 @@
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":10,
-    "MedianSoldPrice_YTD":298430.0,
-    "MedianSoldDOM_YTD":151.5,
-    "MedianSoldToOrigPct_YTD":-0.080473766,
-    "MedianSoldToOrigDollar_YTD":-24782.5
+    "Sold_YTD":13,
+    "MedianSoldPrice_YTD":281990.0,
+    "MedianSoldDOM_YTD":177.0,
+    "MedianSoldToOrigPct_YTD":-0.0832740093,
+    "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
     "Subdivision":"CENTURY ACRES",
@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"COOL SPRINGS",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":290000.0,
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":276000.0,
     "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.0375,
-    "MedianSoldToOrigDollar_YTD":-15000.0
+    "MedianSoldToOrigPct_YTD":-0.042114486,
+    "MedianSoldToOrigDollar_YTD":-13750.0
   },
   {
     "Subdivision":"CREEKSIDE",
@@ -161,11 +161,11 @@
   },
   {
     "Subdivision":"GRIST MILL HIGHLANDS",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":315000.0,
-    "MedianSoldDOM_YTD":120.0,
-    "MedianSoldToOrigPct_YTD":-0.0597014925,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":290000.0,
+    "MedianSoldDOM_YTD":85.0,
+    "MedianSoldToOrigPct_YTD":-0.0566364606,
+    "MedianSoldToOrigDollar_YTD":-17500.0
   },
   {
     "Subdivision":"HARVEST CREEK",
@@ -305,11 +305,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":89,
-    "MedianSoldPrice_YTD":323990.0,
-    "MedianSoldDOM_YTD":43.0,
-    "MedianSoldToOrigPct_YTD":-0.0636042403,
-    "MedianSoldToOrigDollar_YTD":-19991.0
+    "Sold_YTD":92,
+    "MedianSoldPrice_YTD":317965.0,
+    "MedianSoldDOM_YTD":46.0,
+    "MedianSoldToOrigPct_YTD":-0.0635590351,
+    "MedianSoldToOrigDollar_YTD":-19945.5
   },
   {
     "Subdivision":"POST OAK",
@@ -369,11 +369,11 @@
   },
   {
     "Subdivision":"SPRING BRANCH",
-    "Sold_YTD":11,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":13.0,
-    "MedianSoldToOrigPct_YTD":-0.0215053763,
-    "MedianSoldToOrigDollar_YTD":-5000.0
+    "Sold_YTD":12,
+    "MedianSoldPrice_YTD":249500.0,
+    "MedianSoldDOM_YTD":11.5,
+    "MedianSoldToOrigPct_YTD":-0.0181876324,
+    "MedianSoldToOrigDollar_YTD":-4500.0
   },
   {
     "Subdivision":"STAGECOACH",
@@ -393,10 +393,10 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":243000.0,
+    "Sold_YTD":11,
+    "MedianSoldPrice_YTD":244000.0,
     "MedianSoldDOM_YTD":17.0,
-    "MedianSoldToOrigPct_YTD":-0.0650250096,
+    "MedianSoldToOrigPct_YTD":-0.0636363636,
     "MedianSoldToOrigDollar_YTD":-16900.0
   },
   {
@@ -441,11 +441,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":83,
-    "MedianSoldPrice_YTD":302990.0,
+    "Sold_YTD":84,
+    "MedianSoldPrice_YTD":301990.0,
     "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0700747611,
-    "MedianSoldToOrigDollar_YTD":-24491.0
+    "MedianSoldToOrigPct_YTD":-0.0703255019,
+    "MedianSoldToOrigDollar_YTD":-24745.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
