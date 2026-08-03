@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":89,
+    "Sold_YTD":91,
     "MedianSoldPrice_YTD":490000.0,
     "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1248176703,
-    "MedianSoldToOrigDollar_YTD":-70409.0
+    "MedianSoldToOrigPct_YTD":-0.1228795141,
+    "MedianSoldToOrigDollar_YTD":-70000.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -193,11 +193,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":19,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":82.0,
-    "MedianSoldToOrigPct_YTD":-0.0483870968,
-    "MedianSoldToOrigDollar_YTD":-19000.0
+    "Sold_YTD":20,
+    "MedianSoldPrice_YTD":327500.0,
+    "MedianSoldDOM_YTD":81.5,
+    "MedianSoldToOrigPct_YTD":-0.0480087425,
+    "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -209,11 +209,11 @@
   },
   {
     "Subdivision":"INFINITY SQUARE",
-    "Sold_YTD":6,
-    "MedianSoldPrice_YTD":326995.0,
-    "MedianSoldDOM_YTD":200.5,
-    "MedianSoldToOrigPct_YTD":-0.1102639507,
-    "MedianSoldToOrigDollar_YTD":-41495.0
+    "Sold_YTD":7,
+    "MedianSoldPrice_YTD":326410.0,
+    "MedianSoldDOM_YTD":215.0,
+    "MedianSoldToOrigPct_YTD":-0.1146430571,
+    "MedianSoldToOrigDollar_YTD":-42990.0
   },
   {
     "Subdivision":"JOSE ADDITION",
@@ -233,8 +233,8 @@
   },
   {
     "Subdivision":"MEADOW WOODS",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":400000.0,
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":466000.0,
     "MedianSoldDOM_YTD":27.0,
     "MedianSoldToOrigPct_YTD":-0.0333301111,
     "MedianSoldToOrigDollar_YTD":-9999.0
@@ -297,27 +297,27 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":14,
+    "Sold_YTD":15,
     "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":130.0,
-    "MedianSoldToOrigPct_YTD":-0.0622968888,
-    "MedianSoldToOrigDollar_YTD":-25990.0
+    "MedianSoldDOM_YTD":93.0,
+    "MedianSoldToOrigPct_YTD":-0.0671658499,
+    "MedianSoldToOrigDollar_YTD":-27000.0
   },
   {
     "Subdivision":"PARKTON SQUARE",
-    "Sold_YTD":1,
-    "MedianSoldPrice_YTD":360990.0,
-    "MedianSoldDOM_YTD":44.0,
-    "MedianSoldToOrigPct_YTD":-0.0260360458,
-    "MedianSoldToOrigDollar_YTD":-9650.0
+    "Sold_YTD":2,
+    "MedianSoldPrice_YTD":359115.0,
+    "MedianSoldDOM_YTD":41.0,
+    "MedianSoldToOrigPct_YTD":-0.0130180229,
+    "MedianSoldToOrigDollar_YTD":-4825.0
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":94,
-    "MedianSoldPrice_YTD":315995.0,
-    "MedianSoldDOM_YTD":46.0,
-    "MedianSoldToOrigPct_YTD":-0.0635590351,
-    "MedianSoldToOrigDollar_YTD":-19945.5
+    "Sold_YTD":95,
+    "MedianSoldPrice_YTD":315000.0,
+    "MedianSoldDOM_YTD":47.0,
+    "MedianSoldToOrigPct_YTD":-0.0636042403,
+    "MedianSoldToOrigDollar_YTD":-19991.0
   },
   {
     "Subdivision":"POST OAK",
@@ -377,11 +377,11 @@
   },
   {
     "Subdivision":"SPRING BRANCH",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":10.0,
-    "MedianSoldToOrigPct_YTD":-0.0148698885,
-    "MedianSoldToOrigDollar_YTD":-4000.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":252000.0,
+    "MedianSoldDOM_YTD":11.5,
+    "MedianSoldToOrigPct_YTD":-0.009392317,
+    "MedianSoldToOrigDollar_YTD":-2450.0
   },
   {
     "Subdivision":"STAGECOACH",
@@ -432,11 +432,19 @@
     "MedianSoldToOrigDollar_YTD":-16000.0
   },
   {
+    "Subdivision":"TRAILS",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":279000.0,
+    "MedianSoldDOM_YTD":12.0,
+    "MedianSoldToOrigPct_YTD":-0.0375991721,
+    "MedianSoldToOrigDollar_YTD":-10900.0
+  },
+  {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":22,
-    "MedianSoldPrice_YTD":262450.0,
-    "MedianSoldDOM_YTD":70.5,
-    "MedianSoldToOrigPct_YTD":-0.074929972,
+    "Sold_YTD":23,
+    "MedianSoldPrice_YTD":260000.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0714285714,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
@@ -449,11 +457,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":84,
-    "MedianSoldPrice_YTD":301990.0,
+    "Sold_YTD":85,
+    "MedianSoldPrice_YTD":302990.0,
     "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0703255019,
-    "MedianSoldToOrigDollar_YTD":-24745.5
+    "MedianSoldToOrigPct_YTD":-0.0700747611,
+    "MedianSoldToOrigDollar_YTD":-24491.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
