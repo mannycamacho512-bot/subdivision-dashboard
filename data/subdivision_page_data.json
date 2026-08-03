@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 89,
+    "homesAvailable": 90,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -19,7 +19,7 @@
   },
   "AMBERWOOD": {
     "homesAvailable": 7,
-    "minPrice": 229999,
+    "minPrice": 215000,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -56,7 +56,7 @@
   "BUNTON CREEK": {
     "homesAvailable": 16,
     "minPrice": 229990,
-    "maxPrice": 297500,
+    "maxPrice": 295000,
     "medianPrice": null
   },
   "CASETTA RANCH": {
@@ -78,14 +78,14 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 6,
-    "minPrice": 209890,
+    "homesAvailable": 5,
+    "minPrice": 215000,
     "maxPrice": 259000,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
     "homesAvailable": 6,
-    "minPrice": 254000,
+    "minPrice": 249000,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -102,9 +102,9 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 275000,
-    "maxPrice": 345500,
+    "maxPrice": 299900,
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
@@ -162,7 +162,7 @@
     "medianPrice": null
   },
   "MEADOW WOODS": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 390000,
     "maxPrice": 580000,
     "medianPrice": null
@@ -198,7 +198,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 33,
+    "homesAvailable": 30,
     "minPrice": 250000,
     "maxPrice": 540000,
     "medianPrice": null
@@ -240,7 +240,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 15,
+    "homesAvailable": 13,
     "minPrice": 329999,
     "maxPrice": 484999,
     "medianPrice": null
@@ -264,7 +264,7 @@
     "medianPrice": null
   },
   "STAGECOACH": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 299000,
     "maxPrice": 485000,
     "medianPrice": null
@@ -283,7 +283,7 @@
   },
   "TALAVERA": {
     "homesAvailable": 13,
-    "minPrice": 278990,
+    "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
   },
@@ -301,26 +301,32 @@
   },
   "WATERLEAF": {
     "homesAvailable": 12,
-    "minPrice": 260000,
+    "minPrice": 259900,
     "maxPrice": 369999,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 36,
+    "homesAvailable": 33,
     "minPrice": 197999,
     "maxPrice": 389900,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 249500,
-    "maxPrice": 299000,
+    "maxPrice": 340000,
     "medianPrice": null
   },
   "Z HINTON ABS": {
     "homesAvailable": 1,
     "minPrice": 925000,
     "maxPrice": 925000,
+    "medianPrice": null
+  },
+  "Z HINTON SURVEY": {
+    "homesAvailable": 1,
+    "minPrice": 995000,
+    "maxPrice": 995000,
     "medianPrice": null
   },
   "Z HINTON SURVEY ABS": {
