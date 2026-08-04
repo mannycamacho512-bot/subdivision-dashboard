@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 90,
+    "homesAvailable": 89,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -92,7 +92,7 @@
   "CROSSWINDS": {
     "homesAvailable": 52,
     "minPrice": 240000,
-    "maxPrice": 619900,
+    "maxPrice": 618900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
@@ -114,7 +114,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 228500,
     "maxPrice": 360000,
     "medianPrice": null
@@ -126,7 +126,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 11,
+    "homesAvailable": 10,
     "minPrice": 315000,
     "maxPrice": 480000,
     "medianPrice": null
@@ -205,7 +205,7 @@
   },
   "PARKTON SQUARE": {
     "homesAvailable": 8,
-    "minPrice": 303999,
+    "minPrice": 299990,
     "maxPrice": 384990,
     "medianPrice": null
   },
@@ -270,7 +270,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 7,
+    "homesAvailable": 5,
     "minPrice": 213000,
     "maxPrice": 450000,
     "medianPrice": null
@@ -282,7 +282,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 13,
+    "homesAvailable": 15,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -306,7 +306,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 33,
+    "homesAvailable": 34,
     "minPrice": 197999,
     "maxPrice": 389900,
     "medianPrice": null
