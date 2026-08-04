@@ -81,11 +81,11 @@
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":281990.0,
-    "MedianSoldDOM_YTD":177.0,
-    "MedianSoldToOrigPct_YTD":-0.0832740093,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":289425.0,
+    "MedianSoldDOM_YTD":169.5,
+    "MedianSoldToOrigPct_YTD":-0.080473766,
+    "MedianSoldToOrigDollar_YTD":-24782.5
   },
   {
     "Subdivision":"CENTURY ACRES",
@@ -225,11 +225,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":15,
-    "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":27.0,
-    "MedianSoldToOrigPct_YTD":-0.0204081633,
-    "MedianSoldToOrigDollar_YTD":-5000.0
+    "Sold_YTD":16,
+    "MedianSoldPrice_YTD":262500.0,
+    "MedianSoldDOM_YTD":29.0,
+    "MedianSoldToOrigPct_YTD":-0.0278889691,
+    "MedianSoldToOrigDollar_YTD":-7450.0
   },
   {
     "Subdivision":"MEADOW WOODS",
@@ -313,11 +313,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":95,
-    "MedianSoldPrice_YTD":315000.0,
-    "MedianSoldDOM_YTD":47.0,
-    "MedianSoldToOrigPct_YTD":-0.0636042403,
-    "MedianSoldToOrigDollar_YTD":-19991.0
+    "Sold_YTD":96,
+    "MedianSoldPrice_YTD":315995.0,
+    "MedianSoldDOM_YTD":46.0,
+    "MedianSoldToOrigPct_YTD":-0.0635590351,
+    "MedianSoldToOrigDollar_YTD":-19945.5
   },
   {
     "Subdivision":"POST OAK",
@@ -457,11 +457,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":85,
-    "MedianSoldPrice_YTD":302990.0,
-    "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0700747611,
-    "MedianSoldToOrigDollar_YTD":-24491.0
+    "Sold_YTD":86,
+    "MedianSoldPrice_YTD":303490.0,
+    "MedianSoldDOM_YTD":37.5,
+    "MedianSoldToOrigPct_YTD":-0.0693931413,
+    "MedianSoldToOrigDollar_YTD":-24245.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
