@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 92,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -38,7 +38,7 @@
   "BLANCO RIVER CROSSING": {
     "homesAvailable": 2,
     "minPrice": 575550,
-    "maxPrice": 635000,
+    "maxPrice": 615000,
     "medianPrice": null
   },
   "BROOKS CROSSING": {
@@ -72,7 +72,7 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 316000,
     "maxPrice": 359000,
     "medianPrice": null
@@ -90,19 +90,19 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 55,
+    "homesAvailable": 52,
     "minPrice": 240000,
     "maxPrice": 618900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 350000,
-    "maxPrice": 630000,
+    "maxPrice": 629000,
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 265000,
     "maxPrice": 299900,
     "medianPrice": null
@@ -180,7 +180,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 9,
+    "homesAvailable": 8,
     "minPrice": 369990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -210,13 +210,13 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 57,
+    "homesAvailable": 58,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
+    "homesAvailable": 9,
     "minPrice": 185000,
     "maxPrice": 435000,
     "medianPrice": null
@@ -230,7 +230,7 @@
   "PRAIRIE ON THE CREEK": {
     "homesAvailable": 3,
     "minPrice": 255000,
-    "maxPrice": 299000,
+    "maxPrice": 288000,
     "medianPrice": null
   },
   "S1264 CASETTA RANCH": {
@@ -240,7 +240,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 334999,
     "maxPrice": 489999,
     "medianPrice": null
@@ -270,7 +270,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 6,
+    "homesAvailable": 8,
     "minPrice": 213000,
     "maxPrice": 450000,
     "medianPrice": null
