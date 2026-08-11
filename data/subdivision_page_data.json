@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 92,
+    "homesAvailable": 90,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -25,7 +25,7 @@
   },
   "ANTHEM": {
     "homesAvailable": 33,
-    "minPrice": 282690,
+    "minPrice": 279990,
     "maxPrice": 628590,
     "medianPrice": null
   },
@@ -43,8 +43,8 @@
   },
   "BROOKS CROSSING": {
     "homesAvailable": 1,
-    "minPrice": 499900,
-    "maxPrice": 499900,
+    "minPrice": 479800,
+    "maxPrice": 479800,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -72,7 +72,7 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 316000,
     "maxPrice": 359000,
     "medianPrice": null
@@ -140,7 +140,7 @@
   "INFINITY SQUARE": {
     "homesAvailable": 4,
     "minPrice": 319990,
-    "maxPrice": 364990,
+    "maxPrice": 359990,
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
@@ -187,8 +187,8 @@
   },
   "OPAL RANCH": {
     "homesAvailable": 3,
-    "minPrice": 349990,
-    "maxPrice": 399990,
+    "minPrice": 344990,
+    "maxPrice": 389990,
     "medianPrice": null
   },
   "OUT HAYS CO": {
@@ -205,12 +205,12 @@
   },
   "PARKTON SQUARE": {
     "homesAvailable": 8,
-    "minPrice": 299990,
+    "minPrice": 297990,
     "maxPrice": 384990,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
+    "homesAvailable": 57,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
@@ -301,12 +301,12 @@
   },
   "WATERLEAF": {
     "homesAvailable": 12,
-    "minPrice": 250000,
+    "minPrice": 259900,
     "maxPrice": 369999,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 38,
+    "homesAvailable": 37,
     "minPrice": 197999,
     "maxPrice": 389900,
     "medianPrice": null
