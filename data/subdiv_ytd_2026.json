@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":94,
-    "MedianSoldPrice_YTD":489945.0,
-    "MedianSoldDOM_YTD":121.5,
-    "MedianSoldToOrigPct_YTD":-0.1162618036,
-    "MedianSoldToOrigDollar_YTD":-68500.0
+    "Sold_YTD":95,
+    "MedianSoldPrice_YTD":489900.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.1166077739,
+    "MedianSoldToOrigDollar_YTD":-69000.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -305,11 +305,11 @@
   },
   {
     "Subdivision":"PARKTON SQUARE",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":359115.0,
-    "MedianSoldDOM_YTD":41.0,
-    "MedianSoldToOrigPct_YTD":-0.0130180229,
-    "MedianSoldToOrigDollar_YTD":-4825.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":360990.0,
+    "MedianSoldDOM_YTD":44.0,
+    "MedianSoldToOrigPct_YTD":-0.0260360458,
+    "MedianSoldToOrigDollar_YTD":-9650.0
   },
   {
     "Subdivision":"PLUM CREEK",
