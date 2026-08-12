@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":95,
-    "MedianSoldPrice_YTD":489900.0,
+    "Sold_YTD":96,
+    "MedianSoldPrice_YTD":489450.0,
     "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.1166077739,
-    "MedianSoldToOrigDollar_YTD":-69000.0
+    "MedianSoldToOrigPct_YTD":-0.119743644,
+    "MedianSoldToOrigDollar_YTD":-69500.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":106,
-    "MedianSoldPrice_YTD":303490.0,
-    "MedianSoldDOM_YTD":35.5,
-    "MedianSoldToOrigPct_YTD":-0.0673126955,
-    "MedianSoldToOrigDollar_YTD":-22399.5
+    "Sold_YTD":107,
+    "MedianSoldPrice_YTD":303990.0,
+    "MedianSoldDOM_YTD":35.0,
+    "MedianSoldToOrigPct_YTD":-0.0672270791,
+    "MedianSoldToOrigDollar_YTD":-22309.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
