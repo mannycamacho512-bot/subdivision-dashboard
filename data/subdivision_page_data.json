@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 90,
+    "homesAvailable": 91,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -18,7 +18,7 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 215000,
     "maxPrice": 330000,
     "medianPrice": null
@@ -54,13 +54,13 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 17,
+    "homesAvailable": 16,
     "minPrice": 225500,
     "maxPrice": 295000,
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 16,
+    "homesAvailable": 14,
     "minPrice": 240000,
     "maxPrice": 342780,
     "medianPrice": null
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 52,
+    "homesAvailable": 51,
     "minPrice": 240000,
     "maxPrice": 618900,
     "medianPrice": null
@@ -109,7 +109,7 @@
   },
   "GRIST MILL HIGHLANDS": {
     "homesAvailable": 2,
-    "minPrice": 296000,
+    "minPrice": 290000,
     "maxPrice": 319000,
     "medianPrice": null
   },
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 57,
+    "homesAvailable": 59,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
@@ -228,7 +228,7 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 255000,
     "maxPrice": 288000,
     "medianPrice": null
@@ -300,8 +300,8 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 12,
-    "minPrice": 259900,
+    "homesAvailable": 13,
+    "minPrice": 245000,
     "maxPrice": 369999,
     "medianPrice": null
   },
@@ -312,7 +312,7 @@
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 249500,
     "maxPrice": 340000,
     "medianPrice": null
