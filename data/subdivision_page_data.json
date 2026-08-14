@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 94,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 33,
+    "homesAvailable": 32,
     "minPrice": 279990,
     "maxPrice": 628590,
     "medianPrice": null
@@ -54,8 +54,8 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 16,
-    "minPrice": 225500,
+    "homesAvailable": 17,
+    "minPrice": 223900,
     "maxPrice": 295000,
     "medianPrice": null
   },
@@ -92,11 +92,11 @@
   "CROSSWINDS": {
     "homesAvailable": 51,
     "minPrice": 240000,
-    "maxPrice": 618900,
+    "maxPrice": 599900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 350000,
     "maxPrice": 629000,
     "medianPrice": null
@@ -126,9 +126,9 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 315000,
-    "maxPrice": 480000,
+    "maxPrice": 463000,
     "medianPrice": null
   },
   "INDIAN PAINTBRUSH": {
@@ -163,7 +163,7 @@
   },
   "MEADOW WOODS": {
     "homesAvailable": 3,
-    "minPrice": 390000,
+    "minPrice": 389750,
     "maxPrice": 580000,
     "medianPrice": null
   },
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 59,
+    "homesAvailable": 58,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
@@ -247,7 +247,7 @@
   },
   "SILVERADO AT PLUM CREEK": {
     "homesAvailable": 3,
-    "minPrice": 245000,
+    "minPrice": 225000,
     "maxPrice": 385000,
     "medianPrice": null
   },
@@ -258,7 +258,7 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 2,
+    "homesAvailable": 3,
     "minPrice": 235000,
     "maxPrice": 399999,
     "medianPrice": null
@@ -282,7 +282,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 16,
+    "homesAvailable": 19,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -291,6 +291,12 @@
     "homesAvailable": 1,
     "minPrice": 300000,
     "maxPrice": 300000,
+    "medianPrice": null
+  },
+  "THE TRAILS": {
+    "homesAvailable": 1,
+    "minPrice": 279990,
+    "maxPrice": 279990,
     "medianPrice": null
   },
   "UNDEFINED": {
@@ -306,7 +312,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 37,
+    "homesAvailable": 38,
     "minPrice": 197999,
     "maxPrice": 389900,
     "medianPrice": null
@@ -314,7 +320,7 @@
   "WOODLANDS PARK": {
     "homesAvailable": 4,
     "minPrice": 249500,
-    "maxPrice": 340000,
+    "maxPrice": 329900,
     "medianPrice": null
   },
   "Z HINTON ABS": {
