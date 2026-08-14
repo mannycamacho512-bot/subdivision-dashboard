@@ -57,11 +57,11 @@
   },
   {
     "Subdivision":"BROOKS CROSSING",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":320100.0,
-    "MedianSoldDOM_YTD":48.0,
-    "MedianSoldToOrigPct_YTD":-0.0250696379,
-    "MedianSoldToOrigDollar_YTD":-9000.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":335050.0,
+    "MedianSoldDOM_YTD":40.0,
+    "MedianSoldToOrigPct_YTD":-0.0264375995,
+    "MedianSoldToOrigDollar_YTD":-11450.0
   },
   {
     "Subdivision":"BROOKS RANCH",
@@ -313,10 +313,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":117,
-    "MedianSoldPrice_YTD":316990.0,
-    "MedianSoldDOM_YTD":39.0,
-    "MedianSoldToOrigPct_YTD":-0.0603213095,
+    "Sold_YTD":120,
+    "MedianSoldPrice_YTD":315995.0,
+    "MedianSoldDOM_YTD":39.5,
+    "MedianSoldToOrigPct_YTD":-0.0609185611,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
