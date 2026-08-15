@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 94,
+    "homesAvailable": 95,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -60,7 +60,7 @@
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 240000,
     "maxPrice": 342780,
     "medianPrice": null
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 51,
+    "homesAvailable": 50,
     "minPrice": 240000,
     "maxPrice": 599900,
     "medianPrice": null
@@ -126,7 +126,7 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 315000,
     "maxPrice": 463000,
     "medianPrice": null
@@ -179,6 +179,12 @@
     "maxPrice": 270000,
     "medianPrice": null
   },
+  "MILLCREEK": {
+    "homesAvailable": 1,
+    "minPrice": 330000,
+    "maxPrice": 330000,
+    "medianPrice": null
+  },
   "OPAL MEADOWS": {
     "homesAvailable": 8,
     "minPrice": 369990,
@@ -216,7 +222,7 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 185000,
     "maxPrice": 435000,
     "medianPrice": null
@@ -228,8 +234,8 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 2,
-    "minPrice": 255000,
+    "homesAvailable": 1,
+    "minPrice": 288000,
     "maxPrice": 288000,
     "medianPrice": null
   },
@@ -248,12 +254,12 @@
   "SILVERADO AT PLUM CREEK": {
     "homesAvailable": 3,
     "minPrice": 225000,
-    "maxPrice": 385000,
+    "maxPrice": 375000,
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 4,
-    "minPrice": 216000,
+    "homesAvailable": 3,
+    "minPrice": 235000,
     "maxPrice": 259900,
     "medianPrice": null
   },
@@ -312,7 +318,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 38,
+    "homesAvailable": 43,
     "minPrice": 197999,
     "maxPrice": 389900,
     "medianPrice": null
@@ -331,8 +337,8 @@
   },
   "Z HINTON SURVEY": {
     "homesAvailable": 1,
-    "minPrice": 995000,
-    "maxPrice": 995000,
+    "minPrice": 945000,
+    "maxPrice": 945000,
     "medianPrice": null
   },
   "Z HINTON SURVEY ABS": {
