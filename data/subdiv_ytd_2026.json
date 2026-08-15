@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":56,
-    "MedianSoldPrice_YTD":368945.0,
-    "MedianSoldDOM_YTD":84.0,
-    "MedianSoldToOrigPct_YTD":-0.0613401217,
-    "MedianSoldToOrigDollar_YTD":-19500.0
+    "Sold_YTD":57,
+    "MedianSoldPrice_YTD":369990.0,
+    "MedianSoldDOM_YTD":83.0,
+    "MedianSoldToOrigPct_YTD":-0.0610342966,
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -345,10 +345,10 @@
   },
   {
     "Subdivision":"SAGE HOLLOW",
-    "Sold_YTD":12,
-    "MedianSoldPrice_YTD":323499.0,
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":334999.0,
     "MedianSoldDOM_YTD":91.0,
-    "MedianSoldToOrigPct_YTD":-0.1283900756,
+    "MedianSoldToOrigPct_YTD":-0.1228162076,
     "MedianSoldToOrigDollar_YTD":-49279.5
   },
   {
