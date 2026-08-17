@@ -18,7 +18,7 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 215000,
     "maxPrice": 330000,
     "medianPrice": null
@@ -61,7 +61,7 @@
   },
   "CASETTA RANCH": {
     "homesAvailable": 13,
-    "minPrice": 240000,
+    "minPrice": 235000,
     "maxPrice": 342780,
     "medianPrice": null
   },
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 50,
+    "homesAvailable": 51,
     "minPrice": 240000,
     "maxPrice": 599900,
     "medianPrice": null
@@ -114,7 +114,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 228500,
     "maxPrice": 360000,
     "medianPrice": null
@@ -126,8 +126,8 @@
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 10,
-    "minPrice": 315000,
+    "homesAvailable": 11,
+    "minPrice": 288000,
     "maxPrice": 463000,
     "medianPrice": null
   },
@@ -138,8 +138,8 @@
     "medianPrice": null
   },
   "INFINITY SQUARE": {
-    "homesAvailable": 4,
-    "minPrice": 319990,
+    "homesAvailable": 5,
+    "minPrice": 294990,
     "maxPrice": 359990,
     "medianPrice": null
   },
@@ -192,9 +192,9 @@
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 3,
-    "minPrice": 344990,
-    "maxPrice": 389990,
+    "homesAvailable": 5,
+    "minPrice": 329990,
+    "maxPrice": 394990,
     "medianPrice": null
   },
   "OUT HAYS CO": {
@@ -210,19 +210,19 @@
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 8,
-    "minPrice": 297990,
+    "homesAvailable": 7,
+    "minPrice": 314990,
     "maxPrice": 384990,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
+    "homesAvailable": 57,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 10,
+    "homesAvailable": 9,
     "minPrice": 185000,
     "maxPrice": 435000,
     "medianPrice": null
@@ -246,13 +246,13 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 12,
-    "minPrice": 334999,
+    "homesAvailable": 14,
+    "minPrice": 329000,
     "maxPrice": 489999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 225000,
     "maxPrice": 375000,
     "medianPrice": null
@@ -276,7 +276,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 8,
+    "homesAvailable": 6,
     "minPrice": 213000,
     "maxPrice": 450000,
     "medianPrice": null
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 19,
+    "homesAvailable": 17,
     "minPrice": 273990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -318,9 +318,9 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 43,
+    "homesAvailable": 41,
     "minPrice": 197999,
-    "maxPrice": 389900,
+    "maxPrice": 384990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
