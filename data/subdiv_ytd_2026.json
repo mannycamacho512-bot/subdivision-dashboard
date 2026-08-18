@@ -257,11 +257,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":25,
+    "Sold_YTD":27,
     "MedianSoldPrice_YTD":434990.0,
-    "MedianSoldDOM_YTD":100.0,
-    "MedianSoldToOrigPct_YTD":-0.0853707415,
-    "MedianSoldToOrigDollar_YTD":-35760.0
+    "MedianSoldDOM_YTD":97.0,
+    "MedianSoldToOrigPct_YTD":-0.0751639482,
+    "MedianSoldToOrigDollar_YTD":-34990.0
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -449,10 +449,10 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":23,
+    "Sold_YTD":24,
     "MedianSoldPrice_YTD":260000.0,
-    "MedianSoldDOM_YTD":64.0,
-    "MedianSoldToOrigPct_YTD":-0.0714285714,
+    "MedianSoldDOM_YTD":70.5,
+    "MedianSoldToOrigPct_YTD":-0.074929972,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":107,
-    "MedianSoldPrice_YTD":303990.0,
-    "MedianSoldDOM_YTD":35.0,
-    "MedianSoldToOrigPct_YTD":-0.0672270791,
-    "MedianSoldToOrigDollar_YTD":-22309.0
+    "Sold_YTD":110,
+    "MedianSoldPrice_YTD":304490.0,
+    "MedianSoldDOM_YTD":36.0,
+    "MedianSoldToOrigPct_YTD":-0.0673126955,
+    "MedianSoldToOrigDollar_YTD":-22399.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
