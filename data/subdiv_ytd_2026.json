@@ -257,11 +257,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":27,
-    "MedianSoldPrice_YTD":434990.0,
-    "MedianSoldDOM_YTD":97.0,
-    "MedianSoldToOrigPct_YTD":-0.0751639482,
-    "MedianSoldToOrigDollar_YTD":-34990.0
+    "Sold_YTD":28,
+    "MedianSoldPrice_YTD":430100.0,
+    "MedianSoldDOM_YTD":94.5,
+    "MedianSoldToOrigPct_YTD":-0.0685388221,
+    "MedianSoldToOrigDollar_YTD":-31025.0
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -321,11 +321,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":16,
-    "MedianSoldPrice_YTD":241800.0,
-    "MedianSoldDOM_YTD":56.0,
-    "MedianSoldToOrigPct_YTD":-0.0828131932,
-    "MedianSoldToOrigDollar_YTD":-21400.0
+    "Sold_YTD":17,
+    "MedianSoldPrice_YTD":243000.0,
+    "MedianSoldDOM_YTD":54.0,
+    "MedianSoldToOrigPct_YTD":-0.0740740741,
+    "MedianSoldToOrigDollar_YTD":-22000.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -369,11 +369,11 @@
   },
   {
     "Subdivision":"SOUTHLAKE RANCH",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":219000.0,
-    "MedianSoldDOM_YTD":61.0,
-    "MedianSoldToOrigPct_YTD":-0.1033034434,
-    "MedianSoldToOrigDollar_YTD":-30990.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":244000.0,
+    "MedianSoldDOM_YTD":56.0,
+    "MedianSoldToOrigPct_YTD":-0.0755647652,
+    "MedianSoldToOrigDollar_YTD":-20995.0
   },
   {
     "Subdivision":"SPRING BRANCH",
@@ -473,10 +473,10 @@
   },
   {
     "Subdivision":"WOODLANDS PARK",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":274999.0,
-    "MedianSoldDOM_YTD":72.0,
-    "MedianSoldToOrigPct_YTD":-0.0385454545,
-    "MedianSoldToOrigDollar_YTD":-10600.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":272499.5,
+    "MedianSoldDOM_YTD":68.0,
+    "MedianSoldToOrigPct_YTD":-0.0356803266,
+    "MedianSoldToOrigDollar_YTD":-10050.0
   }
 ]
