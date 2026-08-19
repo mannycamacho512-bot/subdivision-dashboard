@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 93,
+    "homesAvailable": 94,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -36,9 +36,9 @@
     "medianPrice": null
   },
   "BLANCO RIVER CROSSING": {
-    "homesAvailable": 2,
+    "homesAvailable": 1,
     "minPrice": 575550,
-    "maxPrice": 615000,
+    "maxPrice": 575550,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -180,7 +180,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 369990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -194,7 +194,7 @@
   "OUT HAYS CO": {
     "homesAvailable": 2,
     "minPrice": 400000,
-    "maxPrice": 506500,
+    "maxPrice": 499999,
     "medianPrice": null
   },
   "PARAMOUNT": {
@@ -240,7 +240,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 329000,
     "maxPrice": 489999,
     "medianPrice": null
