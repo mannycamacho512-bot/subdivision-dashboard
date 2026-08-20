@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 94,
+    "homesAvailable": 95,
     "minPrice": 345000,
     "maxPrice": 1200000,
     "medianPrice": null
@@ -48,7 +48,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 17,
+    "homesAvailable": 16,
     "minPrice": 223900,
     "maxPrice": 295000,
     "medianPrice": null
@@ -84,8 +84,8 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 51,
-    "minPrice": 240000,
+    "homesAvailable": 50,
+    "minPrice": 289999,
     "maxPrice": 599900,
     "medianPrice": null
   },
@@ -108,7 +108,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 228500,
     "maxPrice": 360000,
     "medianPrice": null
@@ -204,20 +204,20 @@
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 7,
-    "minPrice": 314990,
+    "homesAvailable": 8,
+    "minPrice": 301190,
     "maxPrice": 384990,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 57,
+    "homesAvailable": 58,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 10,
-    "minPrice": 185000,
+    "homesAvailable": 9,
+    "minPrice": 200000,
     "maxPrice": 435000,
     "medianPrice": null
   },
@@ -240,8 +240,8 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
-    "minPrice": 329000,
+    "homesAvailable": 14,
+    "minPrice": 324999,
     "maxPrice": 489999,
     "medianPrice": null
   },
@@ -258,7 +258,7 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 235000,
     "maxPrice": 399999,
     "medianPrice": null
@@ -270,14 +270,14 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 213000,
     "maxPrice": 450000,
     "medianPrice": null
   },
   "SUNSET HILLS": {
     "homesAvailable": 5,
-    "minPrice": 299999,
+    "minPrice": 299998,
     "maxPrice": 415000,
     "medianPrice": null
   },
@@ -312,15 +312,15 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 41,
+    "homesAvailable": 40,
     "minPrice": 197999,
-    "maxPrice": 384990,
+    "maxPrice": 375990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
     "homesAvailable": 4,
     "minPrice": 249500,
-    "maxPrice": 329900,
+    "maxPrice": 319900,
     "medianPrice": null
   },
   "Z HINTON ABS": {
