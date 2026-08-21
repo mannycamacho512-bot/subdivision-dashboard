@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":99,
-    "MedianSoldPrice_YTD":489990.0,
-    "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.1166077739,
-    "MedianSoldToOrigDollar_YTD":-69000.0
+    "Sold_YTD":100,
+    "MedianSoldPrice_YTD":489945.0,
+    "MedianSoldDOM_YTD":121.5,
+    "MedianSoldToOrigPct_YTD":-0.1162618036,
+    "MedianSoldToOrigDollar_YTD":-68500.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -105,11 +105,11 @@
   },
   {
     "Subdivision":"CREEKSIDE",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":16.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":244500.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":-0.0013103644,
+    "MedianSoldToOrigDollar_YTD":-314.0
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
@@ -121,11 +121,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":58,
-    "MedianSoldPrice_YTD":351295.0,
-    "MedianSoldDOM_YTD":123.5,
-    "MedianSoldToOrigPct_YTD":-0.1236818851,
-    "MedianSoldToOrigDollar_YTD":-48645.0
+    "Sold_YTD":59,
+    "MedianSoldPrice_YTD":350000.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.1216494845,
+    "MedianSoldToOrigDollar_YTD":-47200.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -257,11 +257,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":28,
-    "MedianSoldPrice_YTD":430100.0,
-    "MedianSoldDOM_YTD":94.5,
-    "MedianSoldToOrigPct_YTD":-0.0685388221,
-    "MedianSoldToOrigDollar_YTD":-31025.0
+    "Sold_YTD":29,
+    "MedianSoldPrice_YTD":425210.0,
+    "MedianSoldDOM_YTD":92.0,
+    "MedianSoldToOrigPct_YTD":-0.0619136961,
+    "MedianSoldToOrigDollar_YTD":-27060.0
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -313,10 +313,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":120,
-    "MedianSoldPrice_YTD":315995.0,
-    "MedianSoldDOM_YTD":39.5,
-    "MedianSoldToOrigPct_YTD":-0.0609185611,
+    "Sold_YTD":121,
+    "MedianSoldPrice_YTD":316990.0,
+    "MedianSoldDOM_YTD":39.0,
+    "MedianSoldToOrigPct_YTD":-0.0603213095,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
@@ -385,11 +385,11 @@
   },
   {
     "Subdivision":"STAGECOACH",
-    "Sold_YTD":9,
+    "Sold_YTD":10,
     "MedianSoldPrice_YTD":345000.0,
-    "MedianSoldDOM_YTD":74.0,
-    "MedianSoldToOrigPct_YTD":-0.0264070419,
-    "MedianSoldToOrigDollar_YTD":-9900.0
+    "MedianSoldDOM_YTD":53.5,
+    "MedianSoldToOrigPct_YTD":-0.0263778158,
+    "MedianSoldToOrigDollar_YTD":-9495.0
   },
   {
     "Subdivision":"STAGECOACH CROSSING",
