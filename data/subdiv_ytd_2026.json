@@ -225,11 +225,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":19,
-    "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":23.0,
-    "MedianSoldToOrigPct_YTD":-0.0204081633,
-    "MedianSoldToOrigDollar_YTD":-5000.0
+    "Sold_YTD":20,
+    "MedianSoldPrice_YTD":262500.0,
+    "MedianSoldDOM_YTD":25.0,
+    "MedianSoldToOrigPct_YTD":-0.0225117739,
+    "MedianSoldToOrigDollar_YTD":-6500.0
   },
   {
     "Subdivision":"MEADOW WOODS",
@@ -313,10 +313,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":121,
-    "MedianSoldPrice_YTD":316990.0,
-    "MedianSoldDOM_YTD":39.0,
-    "MedianSoldToOrigPct_YTD":-0.0603213095,
+    "Sold_YTD":122,
+    "MedianSoldPrice_YTD":315995.0,
+    "MedianSoldDOM_YTD":39.5,
+    "MedianSoldToOrigPct_YTD":-0.0609185611,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
