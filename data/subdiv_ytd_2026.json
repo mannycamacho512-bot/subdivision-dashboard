@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":100,
-    "MedianSoldPrice_YTD":489945.0,
-    "MedianSoldDOM_YTD":121.5,
-    "MedianSoldToOrigPct_YTD":-0.1162618036,
-    "MedianSoldToOrigDollar_YTD":-68500.0
+    "Sold_YTD":101,
+    "MedianSoldPrice_YTD":489990.0,
+    "MedianSoldDOM_YTD":121.0,
+    "MedianSoldToOrigPct_YTD":-0.1159158333,
+    "MedianSoldToOrigDollar_YTD":-68000.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"AMBERWOOD",
-    "Sold_YTD":6,
+    "Sold_YTD":7,
     "MedianSoldPrice_YTD":290000.0,
-    "MedianSoldDOM_YTD":12.5,
-    "MedianSoldToOrigPct_YTD":-0.0111989584,
-    "MedianSoldToOrigDollar_YTD":-2900.0
+    "MedianSoldDOM_YTD":8.0,
+    "MedianSoldToOrigPct_YTD":-0.0227010389,
+    "MedianSoldToOrigDollar_YTD":-5900.0
   },
   {
     "Subdivision":"ANTHEM",
@@ -193,11 +193,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":21,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":81.0,
-    "MedianSoldToOrigPct_YTD":-0.0476303882,
-    "MedianSoldToOrigDollar_YTD":-15000.0
+    "Sold_YTD":22,
+    "MedianSoldPrice_YTD":323000.0,
+    "MedianSoldDOM_YTD":68.5,
+    "MedianSoldToOrigPct_YTD":-0.0480087425,
+    "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -449,10 +449,10 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":24,
+    "Sold_YTD":25,
     "MedianSoldPrice_YTD":260000.0,
-    "MedianSoldDOM_YTD":70.5,
-    "MedianSoldToOrigPct_YTD":-0.074929972,
+    "MedianSoldDOM_YTD":72.0,
+    "MedianSoldToOrigPct_YTD":-0.0714285714,
     "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
