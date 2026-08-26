@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 95,
+    "homesAvailable": 96,
     "minPrice": 345000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -19,7 +19,7 @@
   },
   "AMBERWOOD": {
     "homesAvailable": 7,
-    "minPrice": 215000,
+    "minPrice": 199999,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -48,9 +48,9 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 18,
+    "homesAvailable": 17,
     "minPrice": 219900,
-    "maxPrice": 295000,
+    "maxPrice": 292500,
     "medianPrice": null
   },
   "CASETTA RANCH": {
@@ -84,9 +84,9 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 50,
+    "homesAvailable": 51,
     "minPrice": 279999,
-    "maxPrice": 599900,
+    "maxPrice": 594900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 265000,
     "maxPrice": 299900,
     "medianPrice": null
@@ -180,7 +180,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 369990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -240,7 +240,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 324999,
     "maxPrice": 489999,
     "medianPrice": null
@@ -312,8 +312,8 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 44,
-    "minPrice": 197999,
+    "homesAvailable": 49,
+    "minPrice": 194999,
     "maxPrice": 388990,
     "medianPrice": null
   },
