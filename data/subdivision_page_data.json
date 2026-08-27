@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 96,
+    "homesAvailable": 95,
     "minPrice": 345000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -55,7 +55,7 @@
   },
   "CASETTA RANCH": {
     "homesAvailable": 13,
-    "minPrice": 235000,
+    "minPrice": 225000,
     "maxPrice": 342780,
     "medianPrice": null
   },
@@ -138,7 +138,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 8,
+    "homesAvailable": 7,
     "minPrice": 225000,
     "maxPrice": 425000,
     "medianPrice": null
@@ -157,7 +157,7 @@
   },
   "MEADOW WOODS": {
     "homesAvailable": 3,
-    "minPrice": 389500,
+    "minPrice": 389250,
     "maxPrice": 578000,
     "medianPrice": null
   },
@@ -180,7 +180,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 369990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
+    "homesAvailable": 57,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
@@ -253,7 +253,7 @@
   },
   "SOUTHLAKE RANCH": {
     "homesAvailable": 4,
-    "minPrice": 235000,
+    "minPrice": 232500,
     "maxPrice": 350000,
     "medianPrice": null
   },
@@ -277,7 +277,7 @@
   },
   "SUNSET HILLS": {
     "homesAvailable": 5,
-    "minPrice": 299998,
+    "minPrice": 285000,
     "maxPrice": 415000,
     "medianPrice": null
   },
