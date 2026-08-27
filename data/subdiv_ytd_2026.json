@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":57,
+    "Sold_YTD":59,
     "MedianSoldPrice_YTD":369990.0,
     "MedianSoldDOM_YTD":83.0,
-    "MedianSoldToOrigPct_YTD":-0.0610342966,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "MedianSoldToOrigPct_YTD":-0.0555555556,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -185,11 +185,11 @@
   },
   {
     "Subdivision":"HIGH MEADOWS",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":382000.0,
-    "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.0217864924,
-    "MedianSoldToOrigDollar_YTD":-10000.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":365000.0,
+    "MedianSoldDOM_YTD":64.5,
+    "MedianSoldToOrigPct_YTD":-0.0132468235,
+    "MedianSoldToOrigDollar_YTD":-4900.0
   },
   {
     "Subdivision":"HOMETOWN KYLE",
@@ -201,11 +201,11 @@
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":257500.0,
-    "MedianSoldDOM_YTD":6.0,
-    "MedianSoldToOrigPct_YTD":-0.0306122449,
-    "MedianSoldToOrigDollar_YTD":-7500.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":230000.0,
+    "MedianSoldDOM_YTD":10.0,
+    "MedianSoldToOrigPct_YTD":-0.0612244898,
+    "MedianSoldToOrigDollar_YTD":-15000.0
   },
   {
     "Subdivision":"INFINITY SQUARE",
@@ -297,11 +297,11 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":15,
+    "Sold_YTD":16,
     "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":93.0,
-    "MedianSoldToOrigPct_YTD":-0.0671658499,
-    "MedianSoldToOrigDollar_YTD":-27000.0
+    "MedianSoldDOM_YTD":87.0,
+    "MedianSoldToOrigPct_YTD":-0.0622968888,
+    "MedianSoldToOrigDollar_YTD":-25990.0
   },
   {
     "Subdivision":"PARKTON SQUARE",
@@ -329,11 +329,11 @@
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":228500.0,
-    "MedianSoldDOM_YTD":22.0,
-    "MedianSoldToOrigPct_YTD":0.0,
-    "MedianSoldToOrigDollar_YTD":0.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":245000.0,
+    "MedianSoldDOM_YTD":30.0,
+    "MedianSoldToOrigPct_YTD":-0.0377358491,
+    "MedianSoldToOrigDollar_YTD":-10000.0
   },
   {
     "Subdivision":"S9334 WATERLEAF",
