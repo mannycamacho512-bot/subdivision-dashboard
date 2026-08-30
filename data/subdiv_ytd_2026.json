@@ -81,11 +81,11 @@
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":15,
-    "MedianSoldPrice_YTD":290000.0,
-    "MedianSoldDOM_YTD":162.0,
-    "MedianSoldToOrigPct_YTD":-0.0776735226,
-    "MedianSoldToOrigDollar_YTD":-24565.0
+    "Sold_YTD":16,
+    "MedianSoldPrice_YTD":285995.0,
+    "MedianSoldDOM_YTD":169.5,
+    "MedianSoldToOrigPct_YTD":-0.080473766,
+    "MedianSoldToOrigDollar_YTD":-24782.5
   },
   {
     "Subdivision":"CENTURY ACRES",
@@ -193,11 +193,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":22,
-    "MedianSoldPrice_YTD":323000.0,
-    "MedianSoldDOM_YTD":68.5,
-    "MedianSoldToOrigPct_YTD":-0.0480087425,
-    "MedianSoldToOrigDollar_YTD":-17000.0
+    "Sold_YTD":23,
+    "MedianSoldPrice_YTD":325000.0,
+    "MedianSoldDOM_YTD":69.0,
+    "MedianSoldToOrigPct_YTD":-0.0476303882,
+    "MedianSoldToOrigDollar_YTD":-15000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -313,10 +313,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":122,
-    "MedianSoldPrice_YTD":315995.0,
-    "MedianSoldDOM_YTD":39.5,
-    "MedianSoldToOrigPct_YTD":-0.0609185611,
+    "Sold_YTD":123,
+    "MedianSoldPrice_YTD":315000.0,
+    "MedianSoldDOM_YTD":39.0,
+    "MedianSoldToOrigPct_YTD":-0.0615158127,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
@@ -329,11 +329,11 @@
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":245000.0,
-    "MedianSoldDOM_YTD":30.0,
-    "MedianSoldToOrigPct_YTD":-0.0377358491,
-    "MedianSoldToOrigDollar_YTD":-10000.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":245750.0,
+    "MedianSoldDOM_YTD":22.0,
+    "MedianSoldToOrigPct_YTD":-0.037109375,
+    "MedianSoldToOrigDollar_YTD":-9500.0
   },
   {
     "Subdivision":"S9334 WATERLEAF",
@@ -409,11 +409,11 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":11,
-    "MedianSoldPrice_YTD":244000.0,
-    "MedianSoldDOM_YTD":17.0,
-    "MedianSoldToOrigPct_YTD":-0.0636363636,
-    "MedianSoldToOrigDollar_YTD":-16900.0
+    "Sold_YTD":12,
+    "MedianSoldPrice_YTD":245000.0,
+    "MedianSoldDOM_YTD":13.5,
+    "MedianSoldToOrigPct_YTD":-0.0607757108,
+    "MedianSoldToOrigDollar_YTD":-15950.0
   },
   {
     "Subdivision":"SUNSET HILLS",
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":110,
-    "MedianSoldPrice_YTD":304490.0,
-    "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.0673126955,
-    "MedianSoldToOrigDollar_YTD":-22399.5
+    "Sold_YTD":112,
+    "MedianSoldPrice_YTD":303490.0,
+    "MedianSoldDOM_YTD":36.5,
+    "MedianSoldToOrigPct_YTD":-0.0680549168,
+    "MedianSoldToOrigDollar_YTD":-23015.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
