@@ -72,9 +72,9 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 200000,
-    "maxPrice": 293700,
+    "maxPrice": 339000,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
@@ -84,8 +84,8 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 53,
-    "minPrice": 279999,
+    "homesAvailable": 52,
+    "minPrice": 289760,
     "maxPrice": 594900,
     "medianPrice": null
   },
@@ -138,9 +138,9 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 225000,
-    "maxPrice": 425000,
+    "maxPrice": 324900,
     "medianPrice": null
   },
   "LA MORAIA ESTATES": {
@@ -164,7 +164,7 @@
   "MEADOWS AT KYLE": {
     "homesAvailable": 3,
     "minPrice": 289999,
-    "maxPrice": 355000,
+    "maxPrice": 349900,
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
@@ -204,13 +204,13 @@
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 9,
+    "homesAvailable": 8,
     "minPrice": 301190,
     "maxPrice": 384990,
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 53,
+    "homesAvailable": 50,
     "minPrice": 219900,
     "maxPrice": 475000,
     "medianPrice": null
@@ -312,7 +312,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 47,
+    "homesAvailable": 46,
     "minPrice": 194999,
     "maxPrice": 388990,
     "medianPrice": null
