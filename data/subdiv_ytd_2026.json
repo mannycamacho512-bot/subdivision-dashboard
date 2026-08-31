@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":102,
-    "MedianSoldPrice_YTD":489945.0,
-    "MedianSoldDOM_YTD":118.5,
+    "Sold_YTD":104,
+    "MedianSoldPrice_YTD":489995.0,
+    "MedianSoldDOM_YTD":121.5,
     "MedianSoldToOrigPct_YTD":-0.1155916792,
-    "MedianSoldToOrigDollar_YTD":-66500.0
+    "MedianSoldToOrigDollar_YTD":-66940.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":59,
+    "Sold_YTD":60,
     "MedianSoldPrice_YTD":369990.0,
-    "MedianSoldDOM_YTD":83.0,
-    "MedianSoldToOrigPct_YTD":-0.0555555556,
-    "MedianSoldToOrigDollar_YTD":-19000.0
+    "MedianSoldDOM_YTD":84.0,
+    "MedianSoldToOrigPct_YTD":-0.0561761505,
+    "MedianSoldToOrigDollar_YTD":-19500.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -121,11 +121,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":59,
-    "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.1216494845,
-    "MedianSoldToOrigDollar_YTD":-47200.0
+    "Sold_YTD":60,
+    "MedianSoldPrice_YTD":351295.0,
+    "MedianSoldDOM_YTD":123.5,
+    "MedianSoldToOrigPct_YTD":-0.1236818851,
+    "MedianSoldToOrigDollar_YTD":-48645.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -305,11 +305,11 @@
   },
   {
     "Subdivision":"PARKTON SQUARE",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":360990.0,
-    "MedianSoldDOM_YTD":44.0,
-    "MedianSoldToOrigPct_YTD":-0.0260360458,
-    "MedianSoldToOrigDollar_YTD":-9650.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":380490.0,
+    "MedianSoldDOM_YTD":58.0,
+    "MedianSoldToOrigPct_YTD":-0.0372585627,
+    "MedianSoldToOrigDollar_YTD":-15350.0
   },
   {
     "Subdivision":"PLUM CREEK",
@@ -321,11 +321,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":17,
-    "MedianSoldPrice_YTD":243000.0,
-    "MedianSoldDOM_YTD":54.0,
-    "MedianSoldToOrigPct_YTD":-0.0740740741,
-    "MedianSoldToOrigDollar_YTD":-22000.0
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":241800.0,
+    "MedianSoldDOM_YTD":46.0,
+    "MedianSoldToOrigPct_YTD":-0.0840359045,
+    "MedianSoldToOrigDollar_YTD":-23450.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -425,11 +425,11 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":12,
-    "MedianSoldPrice_YTD":297356.0,
-    "MedianSoldDOM_YTD":59.5,
-    "MedianSoldToOrigPct_YTD":-0.0128943523,
-    "MedianSoldToOrigDollar_YTD":-4500.0
+    "Sold_YTD":13,
+    "MedianSoldPrice_YTD":295777.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0257887045,
+    "MedianSoldToOrigDollar_YTD":-9000.0
   },
   {
     "Subdivision":"THE TRAILS",
