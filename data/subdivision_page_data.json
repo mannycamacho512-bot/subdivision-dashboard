@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 97,
+    "homesAvailable": 90,
     "minPrice": 345000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -35,12 +35,6 @@
     "maxPrice": 675000,
     "medianPrice": null
   },
-  "BLANCO RIVER CROSSING": {
-    "homesAvailable": 1,
-    "minPrice": 575550,
-    "maxPrice": 575550,
-    "medianPrice": null
-  },
   "BROOKS RANCH": {
     "homesAvailable": 1,
     "minPrice": 430000,
@@ -54,7 +48,7 @@
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 225000,
     "maxPrice": 342780,
     "medianPrice": null
@@ -78,13 +72,13 @@
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 249000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 52,
+    "homesAvailable": 51,
     "minPrice": 289760,
     "maxPrice": 594900,
     "medianPrice": null
@@ -103,8 +97,8 @@
   },
   "GRIST MILL HIGHLANDS": {
     "homesAvailable": 2,
-    "minPrice": 290000,
-    "maxPrice": 319000,
+    "minPrice": 285000,
+    "maxPrice": 309000,
     "medianPrice": null
   },
   "HARVEST CREEK": {
@@ -138,7 +132,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 225000,
     "maxPrice": 324900,
     "medianPrice": null
@@ -168,9 +162,9 @@
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 270000,
-    "maxPrice": 270000,
+    "maxPrice": 325000,
     "medianPrice": null
   },
   "MILLCREEK": {
@@ -198,7 +192,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 29,
+    "homesAvailable": 27,
     "minPrice": 250000,
     "maxPrice": 540000,
     "medianPrice": null
@@ -240,7 +234,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 324999,
     "maxPrice": 489999,
     "medianPrice": null
@@ -306,14 +300,14 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 13,
+    "homesAvailable": 11,
     "minPrice": 245000,
-    "maxPrice": 369999,
+    "maxPrice": 364900,
     "medianPrice": null
   },
   "WATERSTONE": {
     "homesAvailable": 46,
-    "minPrice": 194999,
+    "minPrice": 190999,
     "maxPrice": 388990,
     "medianPrice": null
   },
