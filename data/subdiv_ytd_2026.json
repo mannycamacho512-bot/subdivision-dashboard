@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":104,
-    "MedianSoldPrice_YTD":489995.0,
-    "MedianSoldDOM_YTD":121.5,
-    "MedianSoldToOrigPct_YTD":-0.1155916792,
-    "MedianSoldToOrigDollar_YTD":-66940.0
+    "Sold_YTD":107,
+    "MedianSoldPrice_YTD":490000.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.1130631414,
+    "MedianSoldToOrigDollar_YTD":-65000.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -324,8 +324,8 @@
     "Sold_YTD":18,
     "MedianSoldPrice_YTD":241800.0,
     "MedianSoldDOM_YTD":46.0,
-    "MedianSoldToOrigPct_YTD":-0.0840359045,
-    "MedianSoldToOrigDollar_YTD":-23450.0
+    "MedianSoldToOrigPct_YTD":-0.0728513628,
+    "MedianSoldToOrigDollar_YTD":-19950.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":112,
-    "MedianSoldPrice_YTD":303490.0,
-    "MedianSoldDOM_YTD":36.5,
-    "MedianSoldToOrigPct_YTD":-0.0680549168,
-    "MedianSoldToOrigDollar_YTD":-23015.0
+    "Sold_YTD":109,
+    "MedianSoldPrice_YTD":300990.0,
+    "MedianSoldDOM_YTD":37.0,
+    "MedianSoldToOrigPct_YTD":-0.0687115215,
+    "MedianSoldToOrigDollar_YTD":-23540.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
