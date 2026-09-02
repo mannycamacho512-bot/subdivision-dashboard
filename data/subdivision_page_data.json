@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 34,
+    "homesAvailable": 33,
     "minPrice": 264990,
     "maxPrice": 956317,
     "medianPrice": null
@@ -60,8 +60,8 @@
     "medianPrice": null
   },
   "COOL SPRINGS": {
-    "homesAvailable": 4,
-    "minPrice": 314500,
+    "homesAvailable": 5,
+    "minPrice": 305000,
     "maxPrice": 359000,
     "medianPrice": null
   },
@@ -78,8 +78,8 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 51,
-    "minPrice": 289760,
+    "homesAvailable": 52,
+    "minPrice": 267760,
     "maxPrice": 594900,
     "medianPrice": null
   },
@@ -156,9 +156,9 @@
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 3,
-    "minPrice": 289999,
-    "maxPrice": 349900,
+    "homesAvailable": 2,
+    "minPrice": 279990,
+    "maxPrice": 289999,
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
@@ -234,7 +234,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 324999,
     "maxPrice": 489999,
     "medianPrice": null
@@ -300,14 +300,14 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 11,
+    "homesAvailable": 14,
     "minPrice": 245000,
-    "maxPrice": 364900,
+    "maxPrice": 369999,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 46,
-    "minPrice": 190999,
+    "homesAvailable": 56,
+    "minPrice": 184999,
     "maxPrice": 388990,
     "medianPrice": null
   },
