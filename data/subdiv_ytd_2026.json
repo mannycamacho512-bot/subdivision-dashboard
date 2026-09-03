@@ -17,11 +17,11 @@
   },
   {
     "Subdivision":"AMBERWOOD",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":290000.0,
-    "MedianSoldDOM_YTD":8.0,
-    "MedianSoldToOrigPct_YTD":-0.0227010389,
-    "MedianSoldToOrigDollar_YTD":-5900.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":287500.0,
+    "MedianSoldDOM_YTD":12.5,
+    "MedianSoldToOrigPct_YTD":-0.0267351348,
+    "MedianSoldToOrigDollar_YTD":-6950.0
   },
   {
     "Subdivision":"ANTHEM",
@@ -38,6 +38,14 @@
     "MedianSoldDOM_YTD":17.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
+  },
+  {
+    "Subdivision":"BLANCO RIVER CROSSING",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":615000.0,
+    "MedianSoldDOM_YTD":104.0,
+    "MedianSoldToOrigPct_YTD":-0.0538461538,
+    "MedianSoldToOrigDollar_YTD":-35000.0
   },
   {
     "Subdivision":"BLAS M TENORIO",
@@ -313,10 +321,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":123,
-    "MedianSoldPrice_YTD":315000.0,
+    "Sold_YTD":124,
+    "MedianSoldPrice_YTD":312500.0,
     "MedianSoldDOM_YTD":39.0,
-    "MedianSoldToOrigPct_YTD":-0.0615158127,
+    "MedianSoldToOrigPct_YTD":-0.0625148213,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
