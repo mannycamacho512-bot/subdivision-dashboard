@@ -105,11 +105,11 @@
   },
   {
     "Subdivision":"COOL SPRINGS",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":276000.0,
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":290000.0,
     "MedianSoldDOM_YTD":36.0,
-    "MedianSoldToOrigPct_YTD":-0.042114486,
-    "MedianSoldToOrigDollar_YTD":-13750.0
+    "MedianSoldToOrigPct_YTD":-0.0408163265,
+    "MedianSoldToOrigDollar_YTD":-15000.0
   },
   {
     "Subdivision":"CREEKSIDE",
@@ -321,19 +321,19 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":124,
-    "MedianSoldPrice_YTD":312500.0,
-    "MedianSoldDOM_YTD":39.0,
-    "MedianSoldToOrigPct_YTD":-0.0625148213,
+    "Sold_YTD":125,
+    "MedianSoldPrice_YTD":310000.0,
+    "MedianSoldDOM_YTD":39.5,
+    "MedianSoldToOrigPct_YTD":-0.0635138299,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":18,
-    "MedianSoldPrice_YTD":241800.0,
-    "MedianSoldDOM_YTD":46.0,
-    "MedianSoldToOrigPct_YTD":-0.0728513628,
-    "MedianSoldToOrigDollar_YTD":-19950.0
+    "Sold_YTD":19,
+    "MedianSoldPrice_YTD":243000.0,
+    "MedianSoldDOM_YTD":38.0,
+    "MedianSoldToOrigPct_YTD":-0.0716286515,
+    "MedianSoldToOrigDollar_YTD":-17900.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
