@@ -114,7 +114,7 @@
     "medianPrice": null
   },
   "HIGH MEADOWS": {
-    "homesAvailable": 4,
+    "homesAvailable": 3,
     "minPrice": 379000,
     "maxPrice": 429900,
     "medianPrice": null
@@ -313,7 +313,7 @@
   },
   "WATERLEAF": {
     "homesAvailable": 13,
-    "minPrice": 245000,
+    "minPrice": 239000,
     "maxPrice": 369999,
     "medianPrice": null
   },
