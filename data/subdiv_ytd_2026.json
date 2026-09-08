@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":60,
-    "MedianSoldPrice_YTD":351295.0,
-    "MedianSoldDOM_YTD":123.5,
-    "MedianSoldToOrigPct_YTD":-0.1236818851,
-    "MedianSoldToOrigDollar_YTD":-48645.0
+    "Sold_YTD":61,
+    "MedianSoldPrice_YTD":350000.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.1216494845,
+    "MedianSoldToOrigDollar_YTD":-47200.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -241,11 +241,11 @@
   },
   {
     "Subdivision":"MEADOW WOODS",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":466000.0,
-    "MedianSoldDOM_YTD":27.0,
-    "MedianSoldToOrigPct_YTD":-0.0333301111,
-    "MedianSoldToOrigDollar_YTD":-9999.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":467000.0,
+    "MedianSoldDOM_YTD":47.5,
+    "MedianSoldToOrigPct_YTD":-0.0187972517,
+    "MedianSoldToOrigDollar_YTD":-5999.5
   },
   {
     "Subdivision":"MEADOWS AT KYLE",
