@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 32,
+    "homesAvailable": 30,
     "minPrice": 259990,
     "maxPrice": 956317,
     "medianPrice": null
@@ -37,8 +37,8 @@
   },
   "BLANCO RIVER CROSSING": {
     "homesAvailable": 1,
-    "minPrice": 0,
-    "maxPrice": 0,
+    "minPrice": 500000,
+    "maxPrice": 500000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -49,7 +49,7 @@
   },
   "BUNTON CREEK": {
     "homesAvailable": 17,
-    "minPrice": 219900,
+    "minPrice": 217900,
     "maxPrice": 290000,
     "medianPrice": null
   },
@@ -84,7 +84,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 51,
+    "homesAvailable": 53,
     "minPrice": 267760,
     "maxPrice": 594900,
     "medianPrice": null
@@ -164,7 +164,7 @@
   "MEADOWS AT KYLE": {
     "homesAvailable": 2,
     "minPrice": 279990,
-    "maxPrice": 289999,
+    "maxPrice": 279999,
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
@@ -180,7 +180,7 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 369990,
     "maxPrice": 460990,
     "medianPrice": null
@@ -198,7 +198,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 29,
+    "homesAvailable": 28,
     "minPrice": 250000,
     "maxPrice": 540000,
     "medianPrice": null
@@ -222,7 +222,7 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 204900,
     "maxPrice": 435000,
     "medianPrice": null
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 18,
+    "homesAvailable": 16,
     "minPrice": 277990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -314,7 +314,7 @@
   "WATERLEAF": {
     "homesAvailable": 13,
     "minPrice": 239000,
-    "maxPrice": 369999,
+    "maxPrice": 364900,
     "medianPrice": null
   },
   "WATERSTONE": {
@@ -337,8 +337,8 @@
   },
   "Z HINTON SURVEY": {
     "homesAvailable": 1,
-    "minPrice": 945000,
-    "maxPrice": 945000,
+    "minPrice": 895000,
+    "maxPrice": 895000,
     "medianPrice": null
   },
   "Z HINTON SURVEY ABS": {
