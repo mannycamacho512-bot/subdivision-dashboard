@@ -42,8 +42,8 @@
     "medianPrice": null
   },
   "BROOKS RANCH": {
-    "homesAvailable": 2,
-    "minPrice": 355000,
+    "homesAvailable": 3,
+    "minPrice": 345000,
     "maxPrice": 400000,
     "medianPrice": null
   },
@@ -84,15 +84,15 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 53,
-    "minPrice": 267760,
+    "homesAvailable": 52,
+    "minPrice": 280490,
     "maxPrice": 594900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
     "homesAvailable": 8,
     "minPrice": 350000,
-    "maxPrice": 629000,
+    "maxPrice": 628000,
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
@@ -115,13 +115,13 @@
   },
   "HIGH MEADOWS": {
     "homesAvailable": 3,
-    "minPrice": 379000,
+    "minPrice": 349000,
     "maxPrice": 429900,
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
-    "homesAvailable": 10,
-    "minPrice": 288000,
+    "homesAvailable": 9,
+    "minPrice": 315000,
     "maxPrice": 463000,
     "medianPrice": null
   },
@@ -138,7 +138,7 @@
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 225000,
     "maxPrice": 324900,
     "medianPrice": null
@@ -180,9 +180,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 369990,
-    "maxPrice": 460990,
+    "maxPrice": 444990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -205,7 +205,7 @@
   },
   "PARKTON SQUARE": {
     "homesAvailable": 8,
-    "minPrice": 301190,
+    "minPrice": 299990,
     "maxPrice": 384990,
     "medianPrice": null
   },
@@ -270,8 +270,8 @@
     "medianPrice": null
   },
   "STAGECOACH": {
-    "homesAvailable": 4,
-    "minPrice": 299000,
+    "homesAvailable": 3,
+    "minPrice": 412000,
     "maxPrice": 450000,
     "medianPrice": null
   },
@@ -312,13 +312,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 13,
+    "homesAvailable": 14,
     "minPrice": 239000,
     "maxPrice": 364900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 57,
+    "homesAvailable": 60,
     "minPrice": 184999,
     "maxPrice": 388990,
     "medianPrice": null
