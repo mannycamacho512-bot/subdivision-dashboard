@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":61,
+    "Sold_YTD":62,
     "MedianSoldPrice_YTD":369990.0,
-    "MedianSoldDOM_YTD":85.0,
-    "MedianSoldToOrigPct_YTD":-0.0567967454,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "MedianSoldDOM_YTD":84.0,
+    "MedianSoldToOrigPct_YTD":-0.058915521,
+    "MedianSoldToOrigDollar_YTD":-21050.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":61,
-    "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.1216494845,
-    "MedianSoldToOrigDollar_YTD":-47200.0
+    "Sold_YTD":67,
+    "MedianSoldPrice_YTD":352590.0,
+    "MedianSoldDOM_YTD":114.0,
+    "MedianSoldToOrigPct_YTD":-0.1027711507,
+    "MedianSoldToOrigDollar_YTD":-44000.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -321,10 +321,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":125,
-    "MedianSoldPrice_YTD":310000.0,
-    "MedianSoldDOM_YTD":39.5,
-    "MedianSoldToOrigPct_YTD":-0.0635138299,
+    "Sold_YTD":126,
+    "MedianSoldPrice_YTD":312500.0,
+    "MedianSoldDOM_YTD":40.0,
+    "MedianSoldToOrigPct_YTD":-0.0625148213,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
