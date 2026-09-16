@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":67,
-    "MedianSoldPrice_YTD":352590.0,
+    "Sold_YTD":68,
+    "MedianSoldPrice_YTD":353795.0,
     "MedianSoldDOM_YTD":114.0,
-    "MedianSoldToOrigPct_YTD":-0.1027711507,
-    "MedianSoldToOrigDollar_YTD":-44000.0
+    "MedianSoldToOrigPct_YTD":-0.1049571315,
+    "MedianSoldToOrigDollar_YTD":-44475.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -233,11 +233,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":20,
-    "MedianSoldPrice_YTD":262500.0,
-    "MedianSoldDOM_YTD":25.0,
-    "MedianSoldToOrigPct_YTD":-0.0225117739,
-    "MedianSoldToOrigDollar_YTD":-6500.0
+    "Sold_YTD":21,
+    "MedianSoldPrice_YTD":270000.0,
+    "MedianSoldDOM_YTD":27.0,
+    "MedianSoldToOrigPct_YTD":-0.0234113712,
+    "MedianSoldToOrigDollar_YTD":-7000.0
   },
   {
     "Subdivision":"MEADOW WOODS",
@@ -265,11 +265,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":30,
-    "MedianSoldPrice_YTD":419600.0,
-    "MedianSoldDOM_YTD":79.5,
-    "MedianSoldToOrigPct_YTD":-0.059969602,
-    "MedianSoldToOrigDollar_YTD":-26030.0
+    "Sold_YTD":31,
+    "MedianSoldPrice_YTD":413990.0,
+    "MedianSoldDOM_YTD":80.0,
+    "MedianSoldToOrigPct_YTD":-0.058025508,
+    "MedianSoldToOrigDollar_YTD":-25000.0
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -417,19 +417,19 @@
   },
   {
     "Subdivision":"STEEPLECHASE",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":246000.0,
-    "MedianSoldDOM_YTD":17.0,
-    "MedianSoldToOrigPct_YTD":-0.0579150579,
-    "MedianSoldToOrigDollar_YTD":-15000.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":246750.0,
+    "MedianSoldDOM_YTD":18.0,
+    "MedianSoldToOrigPct_YTD":-0.0503583072,
+    "MedianSoldToOrigDollar_YTD":-13000.0
   },
   {
     "Subdivision":"SUNSET HILLS",
-    "Sold_YTD":2,
-    "MedianSoldPrice_YTD":395000.0,
-    "MedianSoldDOM_YTD":132.5,
-    "MedianSoldToOrigPct_YTD":-0.1101587302,
-    "MedianSoldToOrigDollar_YTD":-48750.0
+    "Sold_YTD":3,
+    "MedianSoldPrice_YTD":380000.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.0888888889,
+    "MedianSoldToOrigDollar_YTD":-40000.0
   },
   {
     "Subdivision":"TALAVERA",
