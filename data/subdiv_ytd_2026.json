@@ -240,6 +240,14 @@
     "MedianSoldToOrigDollar_YTD":-7000.0
   },
   {
+    "Subdivision":"LIMESTONE CREEK SUB",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":291490.0,
+    "MedianSoldDOM_YTD":68.0,
+    "MedianSoldToOrigPct_YTD":0.03,
+    "MedianSoldToOrigDollar_YTD":8490.0
+  },
+  {
     "Subdivision":"MEADOW WOODS",
     "Sold_YTD":5,
     "MedianSoldPrice_YTD":467000.0,
