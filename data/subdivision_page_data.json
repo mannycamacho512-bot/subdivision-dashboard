@@ -49,8 +49,8 @@
   },
   "BROOKS CROSSING": {
     "homesAvailable": 1,
-    "minPrice": 469999,
-    "maxPrice": 469999,
+    "minPrice": 460000,
+    "maxPrice": 460000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -199,8 +199,8 @@
   },
   "OUT HAYS CO": {
     "homesAvailable": 1,
-    "minPrice": 400000,
-    "maxPrice": 400000,
+    "minPrice": 399950,
+    "maxPrice": 399950,
     "medianPrice": null
   },
   "PARAMOUNT": {
@@ -222,7 +222,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 56,
+    "homesAvailable": 58,
     "minPrice": 234888,
     "maxPrice": 475000,
     "medianPrice": null
@@ -252,14 +252,14 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 324999,
     "maxPrice": 489999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
-    "homesAvailable": 2,
-    "minPrice": 329900,
+    "homesAvailable": 3,
+    "minPrice": 225000,
     "maxPrice": 375000,
     "medianPrice": null
   },
@@ -294,7 +294,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 14,
+    "homesAvailable": 13,
     "minPrice": 277990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -306,7 +306,7 @@
     "medianPrice": null
   },
   "THE TRAILS": {
-    "homesAvailable": 2,
+    "homesAvailable": 3,
     "minPrice": 260000,
     "maxPrice": 279990,
     "medianPrice": null
@@ -326,12 +326,12 @@
   "WATERLEAF": {
     "homesAvailable": 13,
     "minPrice": 229000,
-    "maxPrice": 359000,
+    "maxPrice": 354900,
     "medianPrice": null
   },
   "WATERSTONE": {
     "homesAvailable": 63,
-    "minPrice": 179999,
+    "minPrice": 184999,
     "maxPrice": 388990,
     "medianPrice": null
   },
