@@ -121,17 +121,17 @@
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":302000.0,
-    "MedianSoldDOM_YTD":72.0,
-    "MedianSoldToOrigPct_YTD":-0.0454545455,
-    "MedianSoldToOrigDollar_YTD":-13000.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":291150.0,
+    "MedianSoldDOM_YTD":82.0,
+    "MedianSoldToOrigPct_YTD":-0.0578443296,
+    "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":68,
-    "MedianSoldPrice_YTD":353795.0,
-    "MedianSoldDOM_YTD":114.0,
+    "Sold_YTD":70,
+    "MedianSoldPrice_YTD":351295.0,
+    "MedianSoldDOM_YTD":111.5,
     "MedianSoldToOrigPct_YTD":-0.1049571315,
     "MedianSoldToOrigDollar_YTD":-44475.0
   },
@@ -481,11 +481,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":112,
-    "MedianSoldPrice_YTD":301990.0,
+    "Sold_YTD":113,
+    "MedianSoldPrice_YTD":302990.0,
     "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0673126955,
-    "MedianSoldToOrigDollar_YTD":-22399.5
+    "MedianSoldToOrigPct_YTD":-0.0672270791,
+    "MedianSoldToOrigDollar_YTD":-22309.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
