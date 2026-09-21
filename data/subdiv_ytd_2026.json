@@ -321,11 +321,11 @@
   },
   {
     "Subdivision":"PARKTON SQUARE",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":399990.0,
-    "MedianSoldDOM_YTD":72.0,
-    "MedianSoldToOrigPct_YTD":-0.0260360458,
-    "MedianSoldToOrigDollar_YTD":-10100.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":380490.0,
+    "MedianSoldDOM_YTD":63.0,
+    "MedianSoldToOrigPct_YTD":-0.0372585627,
+    "MedianSoldToOrigDollar_YTD":-15045.0
   },
   {
     "Subdivision":"PLUM CREEK",
@@ -337,11 +337,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":20,
-    "MedianSoldPrice_YTD":241800.0,
-    "MedianSoldDOM_YTD":37.5,
-    "MedianSoldToOrigPct_YTD":-0.0540027579,
-    "MedianSoldToOrigDollar_YTD":-13950.0
+    "Sold_YTD":21,
+    "MedianSoldPrice_YTD":240600.0,
+    "MedianSoldDOM_YTD":38.0,
+    "MedianSoldToOrigPct_YTD":-0.0716286515,
+    "MedianSoldToOrigDollar_YTD":-17900.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -393,11 +393,11 @@
   },
   {
     "Subdivision":"SPRING BRANCH",
-    "Sold_YTD":15,
-    "MedianSoldPrice_YTD":250000.0,
-    "MedianSoldDOM_YTD":13.0,
-    "MedianSoldToOrigPct_YTD":-0.0148698885,
-    "MedianSoldToOrigDollar_YTD":-4000.0
+    "Sold_YTD":16,
+    "MedianSoldPrice_YTD":249500.0,
+    "MedianSoldDOM_YTD":11.5,
+    "MedianSoldToOrigPct_YTD":-0.0180732421,
+    "MedianSoldToOrigDollar_YTD":-4500.0
   },
   {
     "Subdivision":"STAGECOACH",
@@ -489,10 +489,10 @@
   },
   {
     "Subdivision":"WOODLANDS PARK",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":272499.5,
-    "MedianSoldDOM_YTD":68.0,
-    "MedianSoldToOrigPct_YTD":-0.0356803266,
-    "MedianSoldToOrigDollar_YTD":-10050.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":270000.0,
+    "MedianSoldDOM_YTD":64.0,
+    "MedianSoldToOrigPct_YTD":-0.0380915737,
+    "MedianSoldToOrigDollar_YTD":-9900.0
   }
 ]
