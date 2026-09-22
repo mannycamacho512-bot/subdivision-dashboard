@@ -1,7 +1,7 @@
 {
   "6 CREEKS": {
     "homesAvailable": 91,
-    "minPrice": 340000,
+    "minPrice": 339000,
     "maxPrice": 1100000,
     "medianPrice": null
   },
@@ -19,7 +19,7 @@
   },
   "AMBERWOOD": {
     "homesAvailable": 7,
-    "minPrice": 199999,
+    "minPrice": 247500,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 48,
+    "homesAvailable": 45,
     "minPrice": 290480,
     "maxPrice": 593900,
     "medianPrice": null
@@ -120,7 +120,7 @@
     "medianPrice": null
   },
   "HARVEST CREEK": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 228500,
     "maxPrice": 329900,
     "medianPrice": null
@@ -182,13 +182,13 @@
   "MILLCREEK": {
     "homesAvailable": 2,
     "minPrice": 180000,
-    "maxPrice": 330000,
+    "maxPrice": 325000,
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 6,
+    "homesAvailable": 7,
     "minPrice": 369990,
-    "maxPrice": 444990,
+    "maxPrice": 460990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -222,8 +222,8 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 58,
-    "minPrice": 234888,
+    "homesAvailable": 54,
+    "minPrice": 230999,
     "maxPrice": 475000,
     "medianPrice": null
   },
@@ -241,8 +241,8 @@
   },
   "PRAIRIE ON THE CREEK": {
     "homesAvailable": 1,
-    "minPrice": 279000,
-    "maxPrice": 279000,
+    "minPrice": 268000,
+    "maxPrice": 268000,
     "medianPrice": null
   },
   "S1264 CASETTA RANCH": {
@@ -330,7 +330,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 63,
+    "homesAvailable": 60,
     "minPrice": 184999,
     "maxPrice": 388990,
     "medianPrice": null
