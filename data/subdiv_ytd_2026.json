@@ -1,10 +1,10 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":109,
-    "MedianSoldPrice_YTD":490000.0,
-    "MedianSoldDOM_YTD":121.0,
-    "MedianSoldToOrigPct_YTD":-0.1130631414,
+    "Sold_YTD":110,
+    "MedianSoldPrice_YTD":489995.0,
+    "MedianSoldDOM_YTD":118.5,
+    "MedianSoldToOrigPct_YTD":-0.1133497525,
     "MedianSoldToOrigDollar_YTD":-65000.0
   },
   {
@@ -33,9 +33,9 @@
   },
   {
     "Subdivision":"ARROYO RANCH",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":557750.0,
-    "MedianSoldDOM_YTD":17.0,
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":550000.0,
+    "MedianSoldDOM_YTD":25.0,
     "MedianSoldToOrigPct_YTD":0.0,
     "MedianSoldToOrigDollar_YTD":0.0
   },
@@ -201,11 +201,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":23,
-    "MedianSoldPrice_YTD":325000.0,
-    "MedianSoldDOM_YTD":69.0,
-    "MedianSoldToOrigPct_YTD":-0.0476303882,
-    "MedianSoldToOrigDollar_YTD":-15000.0
+    "Sold_YTD":24,
+    "MedianSoldPrice_YTD":327500.0,
+    "MedianSoldDOM_YTD":75.0,
+    "MedianSoldToOrigPct_YTD":-0.0480087425,
+    "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -489,10 +489,10 @@
   },
   {
     "Subdivision":"WOODLANDS PARK",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":64.0,
-    "MedianSoldToOrigPct_YTD":-0.0380915737,
-    "MedianSoldToOrigDollar_YTD":-9900.0
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":268500.0,
+    "MedianSoldDOM_YTD":61.0,
+    "MedianSoldToOrigPct_YTD":-0.0354533862,
+    "MedianSoldToOrigDollar_YTD":-9700.0
   }
 ]
