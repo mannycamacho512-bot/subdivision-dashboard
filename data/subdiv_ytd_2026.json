@@ -81,7 +81,7 @@
   },
   {
     "Subdivision":"BUNTON CREEK",
-    "Sold_YTD":23,
+    "Sold_YTD":25,
     "MedianSoldPrice_YTD":270000.0,
     "MedianSoldDOM_YTD":57.0,
     "MedianSoldToOrigPct_YTD":-0.0566855619,
@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":70,
-    "MedianSoldPrice_YTD":351295.0,
-    "MedianSoldDOM_YTD":111.5,
-    "MedianSoldToOrigPct_YTD":-0.1049571315,
-    "MedianSoldToOrigDollar_YTD":-44475.0
+    "Sold_YTD":71,
+    "MedianSoldPrice_YTD":352590.0,
+    "MedianSoldDOM_YTD":114.0,
+    "MedianSoldToOrigPct_YTD":-0.1027711507,
+    "MedianSoldToOrigDollar_YTD":-44000.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
