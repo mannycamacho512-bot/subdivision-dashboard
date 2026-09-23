@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 90,
     "minPrice": 339000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -60,13 +60,13 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 18,
+    "homesAvailable": 17,
     "minPrice": 215000,
     "maxPrice": 290000,
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 225000,
     "maxPrice": 342780,
     "medianPrice": null
@@ -96,7 +96,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 45,
+    "homesAvailable": 49,
     "minPrice": 290480,
     "maxPrice": 593900,
     "medianPrice": null
@@ -157,8 +157,8 @@
   },
   "LA MORAIA ESTATES": {
     "homesAvailable": 1,
-    "minPrice": 649900,
-    "maxPrice": 649900,
+    "minPrice": 624900,
+    "maxPrice": 624900,
     "medianPrice": null
   },
   "MEADOW WOODS": {
@@ -223,7 +223,7 @@
   },
   "PLUM CREEK": {
     "homesAvailable": 54,
-    "minPrice": 230999,
+    "minPrice": 215000,
     "maxPrice": 475000,
     "medianPrice": null
   },
@@ -282,7 +282,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 8,
+    "homesAvailable": 9,
     "minPrice": 212000,
     "maxPrice": 450000,
     "medianPrice": null
@@ -294,7 +294,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 13,
+    "homesAvailable": 14,
     "minPrice": 277990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -331,7 +331,7 @@
   },
   "WATERSTONE": {
     "homesAvailable": 60,
-    "minPrice": 184999,
+    "minPrice": 175999,
     "maxPrice": 388990,
     "medianPrice": null
   },
