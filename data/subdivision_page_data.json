@@ -85,18 +85,18 @@
   },
   "CREEKSIDE": {
     "homesAvailable": 8,
-    "minPrice": 185000,
+    "minPrice": 175000,
     "maxPrice": 339000,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 249000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 52,
+    "homesAvailable": 53,
     "minPrice": 290480,
     "maxPrice": 593900,
     "medianPrice": null
@@ -222,14 +222,14 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 53,
-    "minPrice": 238999,
+    "homesAvailable": 55,
+    "minPrice": 228999,
     "maxPrice": 465000,
     "medianPrice": null
   },
   "POST OAK": {
     "homesAvailable": 13,
-    "minPrice": 199900,
+    "minPrice": 199000,
     "maxPrice": 435000,
     "medianPrice": null
   },
@@ -264,7 +264,7 @@
     "medianPrice": null
   },
   "SOUTHLAKE RANCH": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 228000,
     "maxPrice": 350000,
     "medianPrice": null
@@ -324,19 +324,19 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 229000,
     "maxPrice": 354900,
     "medianPrice": null
   },
   "WATERSTONE": {
     "homesAvailable": 60,
-    "minPrice": 175999,
+    "minPrice": 178999,
     "maxPrice": 388990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 4,
+    "homesAvailable": 5,
     "minPrice": 249500,
     "maxPrice": 310000,
     "medianPrice": null
