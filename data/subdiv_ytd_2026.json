@@ -1,10 +1,10 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":110,
-    "MedianSoldPrice_YTD":489995.0,
-    "MedianSoldDOM_YTD":118.5,
-    "MedianSoldToOrigPct_YTD":-0.1133497525,
+    "Sold_YTD":111,
+    "MedianSoldPrice_YTD":490000.0,
+    "MedianSoldDOM_YTD":116.0,
+    "MedianSoldToOrigPct_YTD":-0.1130631414,
     "MedianSoldToOrigDollar_YTD":-65000.0
   },
   {
@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":63,
+    "Sold_YTD":64,
     "MedianSoldPrice_YTD":369990.0,
-    "MedianSoldDOM_YTD":83.0,
-    "MedianSoldToOrigPct_YTD":-0.0610342966,
-    "MedianSoldToOrigDollar_YTD":-22100.0
+    "MedianSoldDOM_YTD":82.5,
+    "MedianSoldToOrigPct_YTD":-0.058915521,
+    "MedianSoldToOrigDollar_YTD":-21050.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -281,11 +281,11 @@
   },
   {
     "Subdivision":"OPAL RANCH",
-    "Sold_YTD":7,
-    "MedianSoldPrice_YTD":355000.0,
-    "MedianSoldDOM_YTD":95.0,
-    "MedianSoldToOrigPct_YTD":-0.060977097,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "Sold_YTD":8,
+    "MedianSoldPrice_YTD":359995.0,
+    "MedianSoldDOM_YTD":72.0,
+    "MedianSoldToOrigPct_YTD":-0.044774671,
+    "MedianSoldToOrigDollar_YTD":-17500.0
   },
   {
     "Subdivision":"ORIGINAL TOWN KYLE",
@@ -313,11 +313,11 @@
   },
   {
     "Subdivision":"PARAMOUNT",
-    "Sold_YTD":16,
+    "Sold_YTD":17,
     "MedianSoldPrice_YTD":350000.0,
-    "MedianSoldDOM_YTD":87.0,
-    "MedianSoldToOrigPct_YTD":-0.0622968888,
-    "MedianSoldToOrigDollar_YTD":-25990.0
+    "MedianSoldDOM_YTD":93.0,
+    "MedianSoldToOrigPct_YTD":-0.0671658499,
+    "MedianSoldToOrigDollar_YTD":-27000.0
   },
   {
     "Subdivision":"PARKTON SQUARE",
@@ -337,11 +337,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":21,
-    "MedianSoldPrice_YTD":240600.0,
-    "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0716286515,
-    "MedianSoldToOrigDollar_YTD":-17900.0
+    "Sold_YTD":22,
+    "MedianSoldPrice_YTD":241800.0,
+    "MedianSoldDOM_YTD":46.0,
+    "MedianSoldToOrigPct_YTD":-0.0643048918,
+    "MedianSoldToOrigDollar_YTD":-16500.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -481,11 +481,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":113,
-    "MedianSoldPrice_YTD":302990.0,
+    "Sold_YTD":114,
+    "MedianSoldPrice_YTD":303490.0,
     "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0672270791,
-    "MedianSoldToOrigDollar_YTD":-22309.0
+    "MedianSoldToOrigPct_YTD":-0.0667318941,
+    "MedianSoldToOrigDollar_YTD":-22154.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
