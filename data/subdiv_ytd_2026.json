@@ -121,11 +121,11 @@
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":291150.0,
-    "MedianSoldDOM_YTD":82.0,
-    "MedianSoldToOrigPct_YTD":-0.0578443296,
-    "MedianSoldToOrigDollar_YTD":-17000.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":302000.0,
+    "MedianSoldDOM_YTD":72.0,
+    "MedianSoldToOrigPct_YTD":-0.0454545455,
+    "MedianSoldToOrigDollar_YTD":-13000.0
   },
   {
     "Subdivision":"CROSSWINDS",
@@ -201,11 +201,11 @@
   },
   {
     "Subdivision":"HOMETOWN KYLE",
-    "Sold_YTD":24,
-    "MedianSoldPrice_YTD":327500.0,
-    "MedianSoldDOM_YTD":75.0,
-    "MedianSoldToOrigPct_YTD":-0.0480087425,
-    "MedianSoldToOrigDollar_YTD":-17000.0
+    "Sold_YTD":25,
+    "MedianSoldPrice_YTD":330000.0,
+    "MedianSoldDOM_YTD":81.0,
+    "MedianSoldToOrigPct_YTD":-0.0483870968,
+    "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
     "Subdivision":"INDIAN PAINTBRUSH",
@@ -281,11 +281,11 @@
   },
   {
     "Subdivision":"OPAL RANCH",
-    "Sold_YTD":8,
-    "MedianSoldPrice_YTD":359995.0,
-    "MedianSoldDOM_YTD":72.0,
-    "MedianSoldToOrigPct_YTD":-0.044774671,
-    "MedianSoldToOrigDollar_YTD":-17500.0
+    "Sold_YTD":9,
+    "MedianSoldPrice_YTD":355000.0,
+    "MedianSoldDOM_YTD":49.0,
+    "MedianSoldToOrigPct_YTD":-0.060977097,
+    "MedianSoldToOrigDollar_YTD":-24523.0
   },
   {
     "Subdivision":"ORIGINAL TOWN KYLE",
@@ -329,10 +329,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":128,
-    "MedianSoldPrice_YTD":315995.0,
+    "Sold_YTD":129,
+    "MedianSoldPrice_YTD":316990.0,
     "MedianSoldDOM_YTD":40.0,
-    "MedianSoldToOrigPct_YTD":-0.0609185611,
+    "MedianSoldToOrigPct_YTD":-0.0615158127,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
