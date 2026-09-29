@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 92,
     "minPrice": 339000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -90,7 +90,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 53,
+    "homesAvailable": 52,
     "minPrice": 290480,
     "maxPrice": 593900,
     "medianPrice": null
@@ -109,7 +109,7 @@
   },
   "GRIST MILL HIGHLANDS": {
     "homesAvailable": 2,
-    "minPrice": 285000,
+    "minPrice": 280000,
     "maxPrice": 309000,
     "medianPrice": null
   },
@@ -121,13 +121,13 @@
   },
   "HIGH MEADOWS": {
     "homesAvailable": 2,
-    "minPrice": 349000,
+    "minPrice": 325000,
     "maxPrice": 428000,
     "medianPrice": null
   },
   "HOMETOWN KYLE": {
     "homesAvailable": 10,
-    "minPrice": 314990,
+    "minPrice": 309990,
     "maxPrice": 450000,
     "medianPrice": null
   },
@@ -216,7 +216,7 @@
     "medianPrice": null
   },
   "PLUM CREEK": {
-    "homesAvailable": 57,
+    "homesAvailable": 59,
     "minPrice": 228999,
     "maxPrice": 465000,
     "medianPrice": null
@@ -288,7 +288,7 @@
     "medianPrice": null
   },
   "TALAVERA": {
-    "homesAvailable": 14,
+    "homesAvailable": 16,
     "minPrice": 277990,
     "maxPrice": 394999,
     "medianPrice": null
@@ -311,12 +311,6 @@
     "maxPrice": 350000,
     "medianPrice": null
   },
-  "UNDEFINED": {
-    "homesAvailable": 1,
-    "minPrice": 349999,
-    "maxPrice": 349999,
-    "medianPrice": null
-  },
   "WATERLEAF": {
     "homesAvailable": 12,
     "minPrice": 229000,
@@ -324,13 +318,13 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 60,
-    "minPrice": 178999,
+    "homesAvailable": 48,
+    "minPrice": 185999,
     "maxPrice": 388990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 249500,
     "maxPrice": 310000,
     "medianPrice": null
