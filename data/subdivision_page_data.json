@@ -19,7 +19,7 @@
   },
   "AMBERWOOD": {
     "homesAvailable": 7,
-    "minPrice": 247500,
+    "minPrice": 239900,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -35,12 +35,6 @@
     "maxPrice": 650000,
     "medianPrice": null
   },
-  "BRADFORD MEADOWS": {
-    "homesAvailable": 1,
-    "minPrice": 309999,
-    "maxPrice": 309999,
-    "medianPrice": null
-  },
   "BROOKS CROSSING": {
     "homesAvailable": 1,
     "minPrice": 460000,
@@ -54,7 +48,7 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 18,
+    "homesAvailable": 17,
     "minPrice": 210000,
     "maxPrice": 290000,
     "medianPrice": null
@@ -90,21 +84,21 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 52,
+    "homesAvailable": 51,
     "minPrice": 290480,
     "maxPrice": 593900,
     "medianPrice": null
   },
   "CYPRESS FOREST": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 330000,
     "maxPrice": 626000,
     "medianPrice": null
   },
   "FOUR SEASONS FARM": {
-    "homesAvailable": 5,
+    "homesAvailable": 4,
     "minPrice": 265000,
-    "maxPrice": 299900,
+    "maxPrice": 289000,
     "medianPrice": null
   },
   "GRIST MILL HIGHLANDS": {
@@ -222,7 +216,7 @@
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 199000,
     "maxPrice": 435000,
     "medianPrice": null
@@ -247,8 +241,8 @@
   },
   "SAGE HOLLOW": {
     "homesAvailable": 13,
-    "minPrice": 324999,
-    "maxPrice": 474999,
+    "minPrice": 314999,
+    "maxPrice": 464999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
@@ -312,13 +306,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 12,
+    "homesAvailable": 13,
     "minPrice": 229000,
     "maxPrice": 354900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 48,
+    "homesAvailable": 51,
     "minPrice": 185999,
     "maxPrice": 388990,
     "medianPrice": null
