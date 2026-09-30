@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":64,
+    "Sold_YTD":65,
     "MedianSoldPrice_YTD":369990.0,
-    "MedianSoldDOM_YTD":82.5,
-    "MedianSoldToOrigPct_YTD":-0.058915521,
-    "MedianSoldToOrigDollar_YTD":-21050.0
+    "MedianSoldDOM_YTD":83.0,
+    "MedianSoldToOrigPct_YTD":-0.0610342966,
+    "MedianSoldToOrigDollar_YTD":-22100.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -161,11 +161,11 @@
   },
   {
     "Subdivision":"FOUR SEASONS FARM",
-    "Sold_YTD":5,
-    "MedianSoldPrice_YTD":318000.0,
-    "MedianSoldDOM_YTD":35.0,
-    "MedianSoldToOrigPct_YTD":-0.0031347962,
-    "MedianSoldToOrigDollar_YTD":-1000.0
+    "Sold_YTD":6,
+    "MedianSoldPrice_YTD":307500.0,
+    "MedianSoldDOM_YTD":30.0,
+    "MedianSoldToOrigPct_YTD":-0.0146821522,
+    "MedianSoldToOrigDollar_YTD":-4500.0
   },
   {
     "Subdivision":"FOUR SEASONS FARM II",
@@ -329,19 +329,19 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":129,
-    "MedianSoldPrice_YTD":316990.0,
+    "Sold_YTD":130,
+    "MedianSoldPrice_YTD":317965.0,
     "MedianSoldDOM_YTD":40.0,
-    "MedianSoldToOrigPct_YTD":-0.0615158127,
+    "MedianSoldToOrigPct_YTD":-0.0609185611,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":22,
+    "Sold_YTD":24,
     "MedianSoldPrice_YTD":241800.0,
     "MedianSoldDOM_YTD":46.0,
-    "MedianSoldToOrigPct_YTD":-0.0643048918,
-    "MedianSoldToOrigDollar_YTD":-16500.0
+    "MedianSoldToOrigPct_YTD":-0.0728513628,
+    "MedianSoldToOrigDollar_YTD":-19950.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -481,11 +481,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":114,
+    "Sold_YTD":116,
     "MedianSoldPrice_YTD":303490.0,
     "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0667318941,
-    "MedianSoldToOrigDollar_YTD":-22154.5
+    "MedianSoldToOrigPct_YTD":-0.0656086724,
+    "MedianSoldToOrigDollar_YTD":-21495.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
