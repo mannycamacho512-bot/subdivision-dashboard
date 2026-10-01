@@ -1,8 +1,8 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":111,
-    "MedianSoldPrice_YTD":490000.0,
+    "Sold_YTD":115,
+    "MedianSoldPrice_YTD":490476.0,
     "MedianSoldDOM_YTD":116.0,
     "MedianSoldToOrigPct_YTD":-0.1130631414,
     "MedianSoldToOrigDollar_YTD":-65000.0
@@ -233,11 +233,11 @@
   },
   {
     "Subdivision":"KENSINGTON TRAILS",
-    "Sold_YTD":21,
+    "Sold_YTD":22,
     "MedianSoldPrice_YTD":270000.0,
-    "MedianSoldDOM_YTD":27.0,
-    "MedianSoldToOrigPct_YTD":-0.0234113712,
-    "MedianSoldToOrigDollar_YTD":-7000.0
+    "MedianSoldDOM_YTD":29.0,
+    "MedianSoldToOrigPct_YTD":-0.0219097673,
+    "MedianSoldToOrigDollar_YTD":-6499.5
   },
   {
     "Subdivision":"LIMESTONE CREEK SUB",
@@ -329,10 +329,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":130,
-    "MedianSoldPrice_YTD":317965.0,
-    "MedianSoldDOM_YTD":40.0,
-    "MedianSoldToOrigPct_YTD":-0.0609185611,
+    "Sold_YTD":131,
+    "MedianSoldPrice_YTD":316990.0,
+    "MedianSoldDOM_YTD":40.5,
+    "MedianSoldToOrigPct_YTD":-0.0603213095,
     "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
@@ -433,19 +433,19 @@
   },
   {
     "Subdivision":"SUNSET HILLS",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":380000.0,
-    "MedianSoldDOM_YTD":122.0,
-    "MedianSoldToOrigPct_YTD":-0.0888888889,
-    "MedianSoldToOrigDollar_YTD":-40000.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":390000.0,
+    "MedianSoldDOM_YTD":81.5,
+    "MedianSoldToOrigPct_YTD":-0.0573384273,
+    "MedianSoldToOrigDollar_YTD":-24500.0
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":13,
-    "MedianSoldPrice_YTD":295777.0,
-    "MedianSoldDOM_YTD":64.0,
-    "MedianSoldToOrigPct_YTD":-0.0257887045,
-    "MedianSoldToOrigDollar_YTD":-9000.0
+    "Sold_YTD":14,
+    "MedianSoldPrice_YTD":292888.5,
+    "MedianSoldDOM_YTD":66.0,
+    "MedianSoldToOrigPct_YTD":-0.0316697244,
+    "MedianSoldToOrigDollar_YTD":-10050.0
   },
   {
     "Subdivision":"THE TRAILS",
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":25,
-    "MedianSoldPrice_YTD":260000.0,
-    "MedianSoldDOM_YTD":72.0,
+    "Sold_YTD":26,
+    "MedianSoldPrice_YTD":262450.0,
+    "MedianSoldDOM_YTD":68.0,
     "MedianSoldToOrigPct_YTD":-0.0714285714,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "MedianSoldToOrigDollar_YTD":-22500.0
   },
   {
     "Subdivision":"WATERMILL",
