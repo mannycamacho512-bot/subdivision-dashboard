@@ -228,9 +228,9 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 268000,
-    "maxPrice": 268000,
+    "maxPrice": 269900,
     "medianPrice": null
   },
   "S1264 CASETTA RANCH": {
@@ -270,7 +270,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 212000,
     "maxPrice": 450000,
     "medianPrice": null
