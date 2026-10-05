@@ -89,11 +89,11 @@
   },
   {
     "Subdivision":"CASETTA RANCH",
-    "Sold_YTD":17,
-    "MedianSoldPrice_YTD":290000.0,
-    "MedianSoldDOM_YTD":177.0,
-    "MedianSoldToOrigPct_YTD":-0.0832740093,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":285995.0,
+    "MedianSoldDOM_YTD":197.0,
+    "MedianSoldToOrigPct_YTD":-0.0857618559,
+    "MedianSoldToOrigDollar_YTD":-25110.0
   },
   {
     "Subdivision":"CENTURY ACRES",
@@ -329,11 +329,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":131,
-    "MedianSoldPrice_YTD":316990.0,
-    "MedianSoldDOM_YTD":40.5,
-    "MedianSoldToOrigPct_YTD":-0.0603213095,
-    "MedianSoldToOrigDollar_YTD":-19900.0
+    "Sold_YTD":132,
+    "MedianSoldPrice_YTD":315995.0,
+    "MedianSoldDOM_YTD":41.0,
+    "MedianSoldToOrigPct_YTD":-0.0609185611,
+    "MedianSoldToOrigDollar_YTD":-19450.0
   },
   {
     "Subdivision":"POST OAK",
@@ -441,9 +441,9 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":14,
+    "Sold_YTD":16,
     "MedianSoldPrice_YTD":292888.5,
-    "MedianSoldDOM_YTD":66.0,
+    "MedianSoldDOM_YTD":77.0,
     "MedianSoldToOrigPct_YTD":-0.0316697244,
     "MedianSoldToOrigDollar_YTD":-10050.0
   },
