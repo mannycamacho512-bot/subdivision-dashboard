@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":115,
-    "MedianSoldPrice_YTD":490476.0,
+    "Sold_YTD":117,
+    "MedianSoldPrice_YTD":490000.0,
     "MedianSoldDOM_YTD":116.0,
     "MedianSoldToOrigPct_YTD":-0.1130631414,
-    "MedianSoldToOrigDollar_YTD":-65000.0
+    "MedianSoldToOrigDollar_YTD":-64481.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -129,19 +129,19 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":72,
-    "MedianSoldPrice_YTD":351295.0,
-    "MedianSoldDOM_YTD":111.5,
-    "MedianSoldToOrigPct_YTD":-0.1013855753,
-    "MedianSoldToOrigDollar_YTD":-41999.5
+    "Sold_YTD":73,
+    "MedianSoldPrice_YTD":352590.0,
+    "MedianSoldDOM_YTD":109.0,
+    "MedianSoldToOrigPct_YTD":-0.1,
+    "MedianSoldToOrigDollar_YTD":-39999.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":488500.0,
-    "MedianSoldDOM_YTD":58.5,
-    "MedianSoldToOrigPct_YTD":-0.0555555556,
-    "MedianSoldToOrigDollar_YTD":-31500.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":470000.0,
+    "MedianSoldDOM_YTD":66.0,
+    "MedianSoldToOrigPct_YTD":-0.0611111111,
+    "MedianSoldToOrigDollar_YTD":-33000.0
   },
   {
     "Subdivision":"DOVE HOLLOW ESTATES",
@@ -329,19 +329,19 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":132,
-    "MedianSoldPrice_YTD":315995.0,
-    "MedianSoldDOM_YTD":41.0,
-    "MedianSoldToOrigPct_YTD":-0.0609185611,
-    "MedianSoldToOrigDollar_YTD":-19450.0
+    "Sold_YTD":135,
+    "MedianSoldPrice_YTD":315000.0,
+    "MedianSoldDOM_YTD":42.0,
+    "MedianSoldToOrigPct_YTD":-0.0615158127,
+    "MedianSoldToOrigDollar_YTD":-19900.0
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":24,
-    "MedianSoldPrice_YTD":241800.0,
-    "MedianSoldDOM_YTD":46.0,
-    "MedianSoldToOrigPct_YTD":-0.0728513628,
-    "MedianSoldToOrigDollar_YTD":-19950.0
+    "Sold_YTD":25,
+    "MedianSoldPrice_YTD":243000.0,
+    "MedianSoldDOM_YTD":38.0,
+    "MedianSoldToOrigPct_YTD":-0.0716286515,
+    "MedianSoldToOrigDollar_YTD":-17900.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -481,11 +481,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":116,
-    "MedianSoldPrice_YTD":303490.0,
-    "MedianSoldDOM_YTD":38.0,
-    "MedianSoldToOrigPct_YTD":-0.0656086724,
-    "MedianSoldToOrigDollar_YTD":-21495.0
+    "Sold_YTD":119,
+    "MedianSoldPrice_YTD":301999.0,
+    "MedianSoldDOM_YTD":39.0,
+    "MedianSoldToOrigPct_YTD":-0.0662367091,
+    "MedianSoldToOrigDollar_YTD":-22000.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
