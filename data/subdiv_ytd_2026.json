@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":117,
+    "Sold_YTD":118,
     "MedianSoldPrice_YTD":490000.0,
-    "MedianSoldDOM_YTD":116.0,
-    "MedianSoldToOrigPct_YTD":-0.1130631414,
-    "MedianSoldToOrigDollar_YTD":-64481.0
+    "MedianSoldDOM_YTD":118.5,
+    "MedianSoldToOrigPct_YTD":-0.1133497525,
+    "MedianSoldToOrigDollar_YTD":-64740.5
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -329,11 +329,11 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":135,
-    "MedianSoldPrice_YTD":315000.0,
-    "MedianSoldDOM_YTD":42.0,
-    "MedianSoldToOrigPct_YTD":-0.0615158127,
-    "MedianSoldToOrigDollar_YTD":-19900.0
+    "Sold_YTD":136,
+    "MedianSoldPrice_YTD":312500.0,
+    "MedianSoldDOM_YTD":43.0,
+    "MedianSoldToOrigPct_YTD":-0.0609185611,
+    "MedianSoldToOrigDollar_YTD":-19450.0
   },
   {
     "Subdivision":"POST OAK",
@@ -433,11 +433,11 @@
   },
   {
     "Subdivision":"SUNSET HILLS",
-    "Sold_YTD":4,
-    "MedianSoldPrice_YTD":390000.0,
-    "MedianSoldDOM_YTD":81.5,
-    "MedianSoldToOrigPct_YTD":-0.0573384273,
-    "MedianSoldToOrigDollar_YTD":-24500.0
+    "Sold_YTD":5,
+    "MedianSoldPrice_YTD":395000.0,
+    "MedianSoldDOM_YTD":122.0,
+    "MedianSoldToOrigPct_YTD":-0.0481927711,
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"TALAVERA",
