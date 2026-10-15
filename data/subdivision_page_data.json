@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 88,
+    "homesAvailable": 91,
     "minPrice": 339000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 24,
+    "homesAvailable": 22,
     "minPrice": 259990,
     "maxPrice": 956317,
     "medianPrice": null
@@ -174,9 +174,9 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 8,
+    "homesAvailable": 9,
     "minPrice": 372990,
-    "maxPrice": 462990,
+    "maxPrice": 469990,
     "medianPrice": null
   },
   "OPAL RANCH": {
@@ -211,12 +211,12 @@
   },
   "PLUM CREEK": {
     "homesAvailable": 54,
-    "minPrice": 228999,
+    "minPrice": 218999,
     "maxPrice": 465000,
     "medianPrice": null
   },
   "POST OAK": {
-    "homesAvailable": 11,
+    "homesAvailable": 12,
     "minPrice": 199000,
     "maxPrice": 415000,
     "medianPrice": null
@@ -246,9 +246,9 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 10,
+    "homesAvailable": 12,
     "minPrice": 299999,
-    "maxPrice": 399999,
+    "maxPrice": 449999,
     "medianPrice": null
   },
   "SILVERADO AT PLUM CREEK": {
@@ -295,8 +295,8 @@
   },
   "TELAVERA": {
     "homesAvailable": 1,
-    "minPrice": 300000,
-    "maxPrice": 300000,
+    "minPrice": 296000,
+    "maxPrice": 296000,
     "medianPrice": null
   },
   "THE TRAILS": {
@@ -318,9 +318,9 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 45,
-    "minPrice": 185999,
-    "maxPrice": 390990,
+    "homesAvailable": 46,
+    "minPrice": 180999,
+    "maxPrice": 396990,
     "medianPrice": null
   },
   "WOODLANDS PARK": {
