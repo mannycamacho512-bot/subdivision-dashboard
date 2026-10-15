@@ -18,8 +18,8 @@
     "medianPrice": null
   },
   "AMBERWOOD": {
-    "homesAvailable": 8,
-    "minPrice": 239900,
+    "homesAvailable": 9,
+    "minPrice": 199000,
     "maxPrice": 330000,
     "medianPrice": null
   },
@@ -32,7 +32,13 @@
   "ARROYO RANCH": {
     "homesAvailable": 2,
     "minPrice": 599900,
-    "maxPrice": 650000,
+    "maxPrice": 645000,
+    "medianPrice": null
+  },
+  "BLANCO RIVER CROSSING": {
+    "homesAvailable": 1,
+    "minPrice": 574000,
+    "maxPrice": 574000,
     "medianPrice": null
   },
   "BROOKS CROSSING": {
@@ -44,7 +50,7 @@
   "BROOKS RANCH": {
     "homesAvailable": 2,
     "minPrice": 345000,
-    "maxPrice": 445000,
+    "maxPrice": 420000,
     "medianPrice": null
   },
   "BUNTON CREEK": {
@@ -66,19 +72,19 @@
     "medianPrice": null
   },
   "CREEKSIDE": {
-    "homesAvailable": 6,
+    "homesAvailable": 5,
     "minPrice": 219500,
-    "maxPrice": 339000,
+    "maxPrice": 285000,
     "medianPrice": null
   },
   "CREEKSIDE VILLAGE": {
-    "homesAvailable": 3,
+    "homesAvailable": 2,
     "minPrice": 260000,
     "maxPrice": 330000,
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 49,
+    "homesAvailable": 48,
     "minPrice": 285888,
     "maxPrice": 594900,
     "medianPrice": null
@@ -97,7 +103,7 @@
   },
   "GRIST MILL HIGHLANDS": {
     "homesAvailable": 2,
-    "minPrice": 280000,
+    "minPrice": 275000,
     "maxPrice": 309000,
     "medianPrice": null
   },
@@ -144,8 +150,8 @@
     "medianPrice": null
   },
   "MEADOW WOODS": {
-    "homesAvailable": 1,
-    "minPrice": 569000,
+    "homesAvailable": 2,
+    "minPrice": 464000,
     "maxPrice": 569000,
     "medianPrice": null
   },
@@ -168,13 +174,13 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 7,
-    "minPrice": 376990,
+    "homesAvailable": 8,
+    "minPrice": 372990,
     "maxPrice": 462990,
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 7,
+    "homesAvailable": 8,
     "minPrice": 319990,
     "maxPrice": 394990,
     "medianPrice": null
@@ -193,7 +199,7 @@
   },
   "PARKTON SQUARE": {
     "homesAvailable": 8,
-    "minPrice": 299990,
+    "minPrice": 294990,
     "maxPrice": 361990,
     "medianPrice": null
   },
@@ -212,7 +218,7 @@
   "POST OAK": {
     "homesAvailable": 11,
     "minPrice": 199000,
-    "maxPrice": 435000,
+    "maxPrice": 415000,
     "medianPrice": null
   },
   "PRAIRIE ON CREEK": {
@@ -222,9 +228,15 @@
     "medianPrice": null
   },
   "PRAIRIE ON THE CREEK": {
-    "homesAvailable": 2,
-    "minPrice": 268000,
+    "homesAvailable": 3,
+    "minPrice": 225000,
     "maxPrice": 269900,
+    "medianPrice": null
+  },
+  "RIVERBEND AT DOUBLE EAGLE": {
+    "homesAvailable": 1,
+    "minPrice": 376990,
+    "maxPrice": 376990,
     "medianPrice": null
   },
   "S1264 CASETTA RANCH": {
@@ -234,7 +246,7 @@
     "medianPrice": null
   },
   "SAGE HOLLOW": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 299999,
     "maxPrice": 399999,
     "medianPrice": null
@@ -288,8 +300,8 @@
     "medianPrice": null
   },
   "THE TRAILS": {
-    "homesAvailable": 4,
-    "minPrice": 259990,
+    "homesAvailable": 3,
+    "minPrice": 250000,
     "maxPrice": 314900,
     "medianPrice": null
   },
@@ -314,7 +326,7 @@
   "WOODLANDS PARK": {
     "homesAvailable": 6,
     "minPrice": 249500,
-    "maxPrice": 310000,
+    "maxPrice": 305000,
     "medianPrice": null
   },
   "Z HINTON ABS": {
