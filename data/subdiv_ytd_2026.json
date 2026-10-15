@@ -121,11 +121,11 @@
   },
   {
     "Subdivision":"CREEKSIDE VILLAGE",
-    "Sold_YTD":9,
-    "MedianSoldPrice_YTD":302000.0,
-    "MedianSoldDOM_YTD":72.0,
-    "MedianSoldToOrigPct_YTD":-0.0454545455,
-    "MedianSoldToOrigDollar_YTD":-13000.0
+    "Sold_YTD":10,
+    "MedianSoldPrice_YTD":291150.0,
+    "MedianSoldDOM_YTD":82.0,
+    "MedianSoldToOrigPct_YTD":-0.0578443296,
+    "MedianSoldToOrigDollar_YTD":-17000.0
   },
   {
     "Subdivision":"CROSSWINDS",
@@ -329,10 +329,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":137,
-    "MedianSoldPrice_YTD":315000.0,
-    "MedianSoldDOM_YTD":44.0,
-    "MedianSoldToOrigPct_YTD":-0.0603213095,
+    "Sold_YTD":138,
+    "MedianSoldPrice_YTD":315995.0,
+    "MedianSoldDOM_YTD":43.0,
+    "MedianSoldToOrigPct_YTD":-0.059819796,
     "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
