@@ -1,8 +1,8 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":118,
-    "MedianSoldPrice_YTD":490000.0,
+    "Sold_YTD":120,
+    "MedianSoldPrice_YTD":490238.0,
     "MedianSoldDOM_YTD":118.5,
     "MedianSoldToOrigPct_YTD":-0.1133497525,
     "MedianSoldToOrigDollar_YTD":-64740.5
@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":73,
-    "MedianSoldPrice_YTD":352590.0,
-    "MedianSoldDOM_YTD":109.0,
-    "MedianSoldToOrigPct_YTD":-0.1,
-    "MedianSoldToOrigDollar_YTD":-39999.0
+    "Sold_YTD":74,
+    "MedianSoldPrice_YTD":353795.0,
+    "MedianSoldDOM_YTD":111.5,
+    "MedianSoldToOrigPct_YTD":-0.1013855753,
+    "MedianSoldToOrigDollar_YTD":-41999.5
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -273,11 +273,11 @@
   },
   {
     "Subdivision":"OPAL MEADOWS",
-    "Sold_YTD":31,
-    "MedianSoldPrice_YTD":413990.0,
-    "MedianSoldDOM_YTD":80.0,
-    "MedianSoldToOrigPct_YTD":-0.058025508,
-    "MedianSoldToOrigDollar_YTD":-25000.0
+    "Sold_YTD":32,
+    "MedianSoldPrice_YTD":411995.0,
+    "MedianSoldDOM_YTD":86.0,
+    "MedianSoldToOrigPct_YTD":-0.059969602,
+    "MedianSoldToOrigDollar_YTD":-24995.0
   },
   {
     "Subdivision":"OPAL RANCH",
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":26,
-    "MedianSoldPrice_YTD":262450.0,
-    "MedianSoldDOM_YTD":68.0,
+    "Sold_YTD":27,
+    "MedianSoldPrice_YTD":263000.0,
+    "MedianSoldDOM_YTD":64.0,
     "MedianSoldToOrigPct_YTD":-0.0714285714,
-    "MedianSoldToOrigDollar_YTD":-22500.0
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"WATERMILL",
