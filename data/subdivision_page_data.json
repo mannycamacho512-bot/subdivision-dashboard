@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 89,
     "minPrice": 339000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 22,
+    "homesAvailable": 21,
     "minPrice": 259990,
     "maxPrice": 956317,
     "medianPrice": null
@@ -42,9 +42,9 @@
     "medianPrice": null
   },
   "BROOKS CROSSING": {
-    "homesAvailable": 1,
+    "homesAvailable": 2,
     "minPrice": 460000,
-    "maxPrice": 460000,
+    "maxPrice": 475000,
     "medianPrice": null
   },
   "BROOKS RANCH": {
@@ -84,7 +84,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 48,
+    "homesAvailable": 46,
     "minPrice": 285888,
     "maxPrice": 594900,
     "medianPrice": null
@@ -156,9 +156,9 @@
     "medianPrice": null
   },
   "MEADOWS AT KYLE": {
-    "homesAvailable": 3,
+    "homesAvailable": 4,
     "minPrice": 270000,
-    "maxPrice": 279999,
+    "maxPrice": 291000,
     "medianPrice": null
   },
   "MEADOWS OF KYLE": {
@@ -192,7 +192,7 @@
     "medianPrice": null
   },
   "PARAMOUNT": {
-    "homesAvailable": 25,
+    "homesAvailable": 24,
     "minPrice": 240000,
     "maxPrice": 540000,
     "medianPrice": null
@@ -318,7 +318,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 46,
+    "homesAvailable": 47,
     "minPrice": 180999,
     "maxPrice": 396990,
     "medianPrice": null
