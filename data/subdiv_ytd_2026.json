@@ -257,11 +257,11 @@
   },
   {
     "Subdivision":"MEADOWS AT KYLE",
-    "Sold_YTD":3,
-    "MedianSoldPrice_YTD":295000.0,
-    "MedianSoldDOM_YTD":9.0,
-    "MedianSoldToOrigPct_YTD":-0.0330110037,
-    "MedianSoldToOrigDollar_YTD":-9900.0
+    "Sold_YTD":4,
+    "MedianSoldPrice_YTD":312500.0,
+    "MedianSoldDOM_YTD":23.0,
+    "MedianSoldToOrigPct_YTD":-0.0270688821,
+    "MedianSoldToOrigDollar_YTD":-8700.0
   },
   {
     "Subdivision":"MILLCREEK",
@@ -329,10 +329,10 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":139,
-    "MedianSoldPrice_YTD":315000.0,
-    "MedianSoldDOM_YTD":44.0,
-    "MedianSoldToOrigPct_YTD":-0.0603213095,
+    "Sold_YTD":142,
+    "MedianSoldPrice_YTD":312500.0,
+    "MedianSoldDOM_YTD":43.0,
+    "MedianSoldToOrigPct_YTD":-0.059819796,
     "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
@@ -465,11 +465,11 @@
   },
   {
     "Subdivision":"WATERLEAF",
-    "Sold_YTD":27,
-    "MedianSoldPrice_YTD":263000.0,
-    "MedianSoldDOM_YTD":64.0,
-    "MedianSoldToOrigPct_YTD":-0.0714285714,
-    "MedianSoldToOrigDollar_YTD":-20000.0
+    "Sold_YTD":28,
+    "MedianSoldPrice_YTD":263950.0,
+    "MedianSoldDOM_YTD":68.0,
+    "MedianSoldToOrigPct_YTD":-0.0688920116,
+    "MedianSoldToOrigDollar_YTD":-19950.0
   },
   {
     "Subdivision":"WATERMILL",
@@ -481,11 +481,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":120,
-    "MedianSoldPrice_YTD":301494.5,
-    "MedianSoldDOM_YTD":39.5,
-    "MedianSoldToOrigPct_YTD":-0.0667318941,
-    "MedianSoldToOrigDollar_YTD":-22154.5
+    "Sold_YTD":122,
+    "MedianSoldPrice_YTD":300495.0,
+    "MedianSoldDOM_YTD":40.5,
+    "MedianSoldToOrigPct_YTD":-0.0673126955,
+    "MedianSoldToOrigDollar_YTD":-22399.5
   },
   {
     "Subdivision":"WOODLANDS PARK",
