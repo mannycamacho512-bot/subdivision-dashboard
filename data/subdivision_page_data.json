@@ -1,6 +1,6 @@
 {
   "6 CREEKS": {
-    "homesAvailable": 91,
+    "homesAvailable": 90,
     "minPrice": 339000,
     "maxPrice": 1100000,
     "medianPrice": null
@@ -24,7 +24,7 @@
     "medianPrice": null
   },
   "ANTHEM": {
-    "homesAvailable": 21,
+    "homesAvailable": 22,
     "minPrice": 259990,
     "maxPrice": 956317,
     "medianPrice": null
@@ -54,14 +54,14 @@
     "medianPrice": null
   },
   "BUNTON CREEK": {
-    "homesAvailable": 13,
+    "homesAvailable": 12,
     "minPrice": 205000,
     "maxPrice": 335000,
     "medianPrice": null
   },
   "CASETTA RANCH": {
-    "homesAvailable": 10,
-    "minPrice": 199900,
+    "homesAvailable": 9,
+    "minPrice": 253780,
     "maxPrice": 342780,
     "medianPrice": null
   },
@@ -84,7 +84,7 @@
     "medianPrice": null
   },
   "CROSSWINDS": {
-    "homesAvailable": 55,
+    "homesAvailable": 56,
     "minPrice": 285888,
     "maxPrice": 594900,
     "medianPrice": null
@@ -133,12 +133,12 @@
   },
   "INFINITY SQUARE": {
     "homesAvailable": 8,
-    "minPrice": 289990,
-    "maxPrice": 384990,
+    "minPrice": 284990,
+    "maxPrice": 374990,
     "medianPrice": null
   },
   "KENSINGTON TRAILS": {
-    "homesAvailable": 5,
+    "homesAvailable": 6,
     "minPrice": 225000,
     "maxPrice": 324800,
     "medianPrice": null
@@ -181,13 +181,13 @@
   },
   "OPAL RANCH": {
     "homesAvailable": 8,
-    "minPrice": 319990,
+    "minPrice": 314990,
     "maxPrice": 394990,
     "medianPrice": null
   },
   "OUT HAYS CO": {
-    "homesAvailable": 1,
-    "minPrice": 399950,
+    "homesAvailable": 2,
+    "minPrice": 399000,
     "maxPrice": 399950,
     "medianPrice": null
   },
@@ -201,12 +201,6 @@
     "homesAvailable": 8,
     "minPrice": 294990,
     "maxPrice": 361990,
-    "medianPrice": null
-  },
-  "PAYNE INDUST PARK": {
-    "homesAvailable": 1,
-    "minPrice": 750000,
-    "maxPrice": 750000,
     "medianPrice": null
   },
   "PLUM CREEK": {
@@ -276,7 +270,7 @@
     "medianPrice": null
   },
   "STEEPLECHASE": {
-    "homesAvailable": 12,
+    "homesAvailable": 11,
     "minPrice": 212000,
     "maxPrice": 450000,
     "medianPrice": null
@@ -318,7 +312,7 @@
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 46,
+    "homesAvailable": 47,
     "minPrice": 183499,
     "maxPrice": 396990,
     "medianPrice": null
