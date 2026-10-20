@@ -328,11 +328,19 @@
     "MedianSoldToOrigDollar_YTD":-13500.0
   },
   {
+    "Subdivision":"PAYNE INDUST PARK",
+    "Sold_YTD":1,
+    "MedianSoldPrice_YTD":750000.0,
+    "MedianSoldDOM_YTD":374.0,
+    "MedianSoldToOrigPct_YTD":-0.24999925,
+    "MedianSoldToOrigDollar_YTD":-249999.0
+  },
+  {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":142,
-    "MedianSoldPrice_YTD":312500.0,
-    "MedianSoldDOM_YTD":43.0,
-    "MedianSoldToOrigPct_YTD":-0.059819796,
+    "Sold_YTD":143,
+    "MedianSoldPrice_YTD":315000.0,
+    "MedianSoldDOM_YTD":44.0,
+    "MedianSoldToOrigPct_YTD":-0.0593182824,
     "MedianSoldToOrigDollar_YTD":-19000.0
   },
   {
@@ -361,11 +369,11 @@
   },
   {
     "Subdivision":"SAGE HOLLOW",
-    "Sold_YTD":14,
-    "MedianSoldPrice_YTD":334999.0,
-    "MedianSoldDOM_YTD":91.0,
-    "MedianSoldToOrigPct_YTD":-0.1228162076,
-    "MedianSoldToOrigDollar_YTD":-49279.5
+    "Sold_YTD":15,
+    "MedianSoldPrice_YTD":344999.0,
+    "MedianSoldDOM_YTD":94.0,
+    "MedianSoldToOrigPct_YTD":-0.114583572,
+    "MedianSoldToOrigDollar_YTD":-53207.0
   },
   {
     "Subdivision":"SILVERADO AT PLUM CREEK",
@@ -481,11 +489,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":122,
-    "MedianSoldPrice_YTD":300495.0,
-    "MedianSoldDOM_YTD":40.5,
-    "MedianSoldToOrigPct_YTD":-0.0673126955,
-    "MedianSoldToOrigDollar_YTD":-22399.5
+    "Sold_YTD":125,
+    "MedianSoldPrice_YTD":300000.0,
+    "MedianSoldDOM_YTD":41.0,
+    "MedianSoldToOrigPct_YTD":-0.0687115215,
+    "MedianSoldToOrigDollar_YTD":-23540.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
