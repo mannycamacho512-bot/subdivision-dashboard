@@ -337,9 +337,9 @@
   },
   {
     "Subdivision":"PLUM CREEK",
-    "Sold_YTD":143,
+    "Sold_YTD":145,
     "MedianSoldPrice_YTD":315000.0,
-    "MedianSoldDOM_YTD":44.0,
+    "MedianSoldDOM_YTD":46.0,
     "MedianSoldToOrigPct_YTD":-0.0593182824,
     "MedianSoldToOrigDollar_YTD":-19000.0
   },
@@ -489,11 +489,11 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":125,
-    "MedianSoldPrice_YTD":300000.0,
-    "MedianSoldDOM_YTD":41.0,
-    "MedianSoldToOrigPct_YTD":-0.0687115215,
-    "MedianSoldToOrigDollar_YTD":-23540.0
+    "Sold_YTD":129,
+    "MedianSoldPrice_YTD":299990.0,
+    "MedianSoldDOM_YTD":42.0,
+    "MedianSoldToOrigPct_YTD":-0.0705762427,
+    "MedianSoldToOrigDollar_YTD":-24000.0
   },
   {
     "Subdivision":"WOODLANDS PARK",
