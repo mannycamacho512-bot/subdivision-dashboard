@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":74,
-    "MedianSoldPrice_YTD":353795.0,
-    "MedianSoldDOM_YTD":111.5,
-    "MedianSoldToOrigPct_YTD":-0.1013855753,
-    "MedianSoldToOrigDollar_YTD":-41999.5
+    "Sold_YTD":75,
+    "MedianSoldPrice_YTD":352590.0,
+    "MedianSoldDOM_YTD":114.0,
+    "MedianSoldToOrigPct_YTD":-0.1,
+    "MedianSoldToOrigDollar_YTD":-39999.0
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -449,8 +449,8 @@
   },
   {
     "Subdivision":"TALAVERA",
-    "Sold_YTD":16,
-    "MedianSoldPrice_YTD":292888.5,
+    "Sold_YTD":18,
+    "MedianSoldPrice_YTD":296293.5,
     "MedianSoldDOM_YTD":77.0,
     "MedianSoldToOrigPct_YTD":-0.0316697244,
     "MedianSoldToOrigDollar_YTD":-10050.0
