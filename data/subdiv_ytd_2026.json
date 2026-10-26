@@ -1,11 +1,11 @@
 [
   {
     "Subdivision":"6 CREEKS",
-    "Sold_YTD":120,
+    "Sold_YTD":122,
     "MedianSoldPrice_YTD":490238.0,
     "MedianSoldDOM_YTD":118.5,
     "MedianSoldToOrigPct_YTD":-0.1133497525,
-    "MedianSoldToOrigDollar_YTD":-64740.5
+    "MedianSoldToOrigDollar_YTD":-64339.0
   },
   {
     "Subdivision":"A0220 A0220 Z HINTON SURVEY",
@@ -25,11 +25,11 @@
   },
   {
     "Subdivision":"ANTHEM",
-    "Sold_YTD":67,
+    "Sold_YTD":68,
     "MedianSoldPrice_YTD":374990.0,
-    "MedianSoldDOM_YTD":83.0,
-    "MedianSoldToOrigPct_YTD":-0.0606827571,
-    "MedianSoldToOrigDollar_YTD":-22100.0
+    "MedianSoldDOM_YTD":84.0,
+    "MedianSoldToOrigPct_YTD":-0.0608585269,
+    "MedianSoldToOrigDollar_YTD":-22175.0
   },
   {
     "Subdivision":"ARROYO RANCH",
@@ -129,11 +129,11 @@
   },
   {
     "Subdivision":"CROSSWINDS",
-    "Sold_YTD":75,
-    "MedianSoldPrice_YTD":352590.0,
+    "Sold_YTD":76,
+    "MedianSoldPrice_YTD":353795.0,
     "MedianSoldDOM_YTD":114.0,
-    "MedianSoldToOrigPct_YTD":-0.1,
-    "MedianSoldToOrigDollar_YTD":-39999.0
+    "MedianSoldToOrigPct_YTD":-0.1013855753,
+    "MedianSoldToOrigDollar_YTD":-41999.5
   },
   {
     "Subdivision":"CYPRESS FOREST",
@@ -345,11 +345,11 @@
   },
   {
     "Subdivision":"POST OAK",
-    "Sold_YTD":26,
+    "Sold_YTD":27,
     "MedianSoldPrice_YTD":243000.0,
-    "MedianSoldDOM_YTD":37.5,
-    "MedianSoldToOrigPct_YTD":-0.0643048918,
-    "MedianSoldToOrigDollar_YTD":-16500.0
+    "MedianSoldDOM_YTD":37.0,
+    "MedianSoldToOrigPct_YTD":-0.0716286515,
+    "MedianSoldToOrigDollar_YTD":-17900.0
   },
   {
     "Subdivision":"PRAIRIE ON THE CREEK",
@@ -489,10 +489,10 @@
   },
   {
     "Subdivision":"WATERSTONE",
-    "Sold_YTD":129,
+    "Sold_YTD":130,
     "MedianSoldPrice_YTD":299990.0,
     "MedianSoldDOM_YTD":42.0,
-    "MedianSoldToOrigPct_YTD":-0.0705762427,
+    "MedianSoldToOrigPct_YTD":-0.0709052107,
     "MedianSoldToOrigDollar_YTD":-24000.0
   },
   {
