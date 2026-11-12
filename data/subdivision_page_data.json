@@ -54,8 +54,8 @@
     "medianPrice": null
   },
   "BROOKS RANCH": {
-    "homesAvailable": 2,
-    "minPrice": 395000,
+    "homesAvailable": 3,
+    "minPrice": 284900,
     "maxPrice": 400000,
     "medianPrice": null
   },
@@ -186,13 +186,13 @@
     "medianPrice": null
   },
   "OPAL MEADOWS": {
-    "homesAvailable": 9,
+    "homesAvailable": 8,
     "minPrice": 344990,
     "maxPrice": 469990,
     "medianPrice": null
   },
   "OPAL RANCH": {
-    "homesAvailable": 7,
+    "homesAvailable": 6,
     "minPrice": 314990,
     "maxPrice": 399990,
     "medianPrice": null
@@ -210,7 +210,7 @@
     "medianPrice": null
   },
   "PARKTON SQUARE": {
-    "homesAvailable": 9,
+    "homesAvailable": 10,
     "minPrice": 274990,
     "maxPrice": 379990,
     "medianPrice": null
@@ -258,9 +258,9 @@
     "medianPrice": null
   },
   "SPRING BRANCH": {
-    "homesAvailable": 2,
+    "homesAvailable": 3,
     "minPrice": 279900,
-    "maxPrice": 370000,
+    "maxPrice": 400000,
     "medianPrice": null
   },
   "STAGECOACH": {
@@ -306,13 +306,13 @@
     "medianPrice": null
   },
   "WATERLEAF": {
-    "homesAvailable": 15,
-    "minPrice": 175000,
+    "homesAvailable": 14,
+    "minPrice": 215000,
     "maxPrice": 349900,
     "medianPrice": null
   },
   "WATERSTONE": {
-    "homesAvailable": 38,
+    "homesAvailable": 37,
     "minPrice": 181999,
     "maxPrice": 375000,
     "medianPrice": null
