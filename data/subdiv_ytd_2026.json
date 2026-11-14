@@ -289,11 +289,11 @@
   },
   {
     "Subdivision":"OPAL RANCH",
-    "Sold_YTD":10,
-    "MedianSoldPrice_YTD":350233.5,
-    "MedianSoldDOM_YTD":70.5,
-    "MedianSoldToOrigPct_YTD":-0.044774671,
-    "MedianSoldToOrigDollar_YTD":-17261.5
+    "Sold_YTD":11,
+    "MedianSoldPrice_YTD":355000.0,
+    "MedianSoldDOM_YTD":92.0,
+    "MedianSoldToOrigPct_YTD":-0.05000125,
+    "MedianSoldToOrigDollar_YTD":-20000.0
   },
   {
     "Subdivision":"ORIGINAL TOWN KYLE",
